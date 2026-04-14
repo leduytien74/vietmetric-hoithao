@@ -1,0 +1,1016 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Thư mời · Hội thảo Ứng dụng AI trong Cơ quan Nhà nước · Vietmetric</title>
+<link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400;600;700&family=Be+Vietnam+Pro:wght@300;400;500;600&display=swap" rel="stylesheet">
+<style>
+  :root {
+    --navy: #0f2440;
+    --navy-mid: #1a3a5c;
+    --gold: #c9963a;
+    --gold-light: #e8b96a;
+    --cream: #f9f6f0;
+    --white: #ffffff;
+    --text: #1e2d40;
+    --text-muted: #5a6a7e;
+    --border: rgba(201,150,58,0.2);
+    --shadow: 0 8px 40px rgba(15,36,64,0.12);
+  }
+
+  * { margin: 0; padding: 0; box-sizing: border-box; }
+
+  html { scroll-behavior: smooth; }
+
+  body {
+    font-family: 'Be Vietnam Pro', sans-serif;
+    background: var(--cream);
+    color: var(--text);
+    overflow-x: hidden;
+  }
+
+  /* ── HERO ── */
+  .hero {
+    background: var(--navy);
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    padding: 80px 24px;
+    position: relative;
+    overflow: hidden;
+  }
+
+  .hero::before {
+    content: '';
+    position: absolute;
+    top: -40%;
+    left: -20%;
+    width: 140%;
+    height: 140%;
+    background: radial-gradient(ellipse at 30% 40%, rgba(201,150,58,0.12) 0%, transparent 60%),
+                radial-gradient(ellipse at 80% 70%, rgba(26,58,92,0.8) 0%, transparent 60%);
+    pointer-events: none;
+  }
+
+  .hero-grid {
+    position: absolute;
+    inset: 0;
+    background-image:
+      linear-gradient(rgba(201,150,58,0.06) 1px, transparent 1px),
+      linear-gradient(90deg, rgba(201,150,58,0.06) 1px, transparent 1px);
+    background-size: 48px 48px;
+    pointer-events: none;
+  }
+
+  .logo-badge {
+    display: inline-flex;
+    align-items: center;
+    gap: 10px;
+    border: 1px solid rgba(201,150,58,0.4);
+    border-radius: 100px;
+    padding: 8px 20px;
+    margin-bottom: 40px;
+    animation: fadeDown 0.8s ease both;
+  }
+
+  .logo-dot {
+    width: 8px; height: 8px;
+    border-radius: 50%;
+    background: var(--gold);
+    animation: pulse 2s infinite;
+  }
+
+  .logo-text {
+    font-size: 13px;
+    font-weight: 500;
+    color: var(--gold-light);
+    letter-spacing: 0.12em;
+    text-transform: uppercase;
+  }
+
+  .hero-label {
+    font-size: 12px;
+    letter-spacing: 0.2em;
+    text-transform: uppercase;
+    color: var(--gold);
+    margin-bottom: 20px;
+    animation: fadeDown 0.8s 0.1s ease both;
+    opacity: 0;
+  }
+
+  .hero-title {
+    font-family: 'Playfair Display', serif;
+    font-size: clamp(32px, 5vw, 64px);
+    font-weight: 700;
+    color: var(--white);
+    line-height: 1.15;
+    max-width: 780px;
+    margin-bottom: 24px;
+    animation: fadeDown 0.8s 0.2s ease both;
+    opacity: 0;
+  }
+
+  .hero-title span { color: var(--gold-light); }
+
+  .hero-sub {
+    font-size: 16px;
+    color: rgba(255,255,255,0.65);
+    max-width: 560px;
+    line-height: 1.7;
+    margin-bottom: 52px;
+    animation: fadeDown 0.8s 0.3s ease both;
+    opacity: 0;
+  }
+
+  .event-pills {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 12px;
+    justify-content: center;
+    animation: fadeDown 0.8s 0.4s ease both;
+    opacity: 0;
+  }
+
+  .pill {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    background: rgba(255,255,255,0.06);
+    border: 1px solid rgba(255,255,255,0.12);
+    border-radius: 100px;
+    padding: 10px 20px;
+    color: rgba(255,255,255,0.85);
+    font-size: 14px;
+    font-weight: 400;
+  }
+
+  .pill-icon { font-size: 16px; }
+
+  .scroll-hint {
+    position: absolute;
+    bottom: 32px;
+    left: 50%;
+    transform: translateX(-50%);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 8px;
+    color: rgba(255,255,255,0.35);
+    font-size: 11px;
+    letter-spacing: 0.15em;
+    text-transform: uppercase;
+    animation: fadeDown 1s 1s ease both;
+    opacity: 0;
+  }
+
+  .scroll-line {
+    width: 1px;
+    height: 40px;
+    background: linear-gradient(to bottom, rgba(201,150,58,0.6), transparent);
+    animation: scrollPulse 2s infinite;
+  }
+
+  /* ── SECTIONS ── */
+  .section {
+    max-width: 860px;
+    margin: 0 auto;
+    padding: 80px 24px;
+    opacity: 0;
+    transform: translateY(32px);
+    transition: opacity 0.7s ease, transform 0.7s ease;
+  }
+
+  .section.visible {
+    opacity: 1;
+    transform: translateY(0);
+  }
+
+  .section-number {
+    font-size: 11px;
+    letter-spacing: 0.2em;
+    text-transform: uppercase;
+    color: var(--gold);
+    font-weight: 600;
+    margin-bottom: 8px;
+  }
+
+  .section-title {
+    font-family: 'Playfair Display', serif;
+    font-size: clamp(24px, 3.5vw, 38px);
+    font-weight: 600;
+    color: var(--navy);
+    line-height: 1.25;
+    margin-bottom: 20px;
+  }
+
+  .divider {
+    width: 48px;
+    height: 3px;
+    background: var(--gold);
+    border-radius: 2px;
+    margin-bottom: 28px;
+  }
+
+  .body-text {
+    font-size: 15.5px;
+    line-height: 1.8;
+    color: var(--text-muted);
+  }
+
+  .body-text strong { color: var(--text); font-weight: 600; }
+
+  /* ── LETTER BLOCK ── */
+  .letter-block {
+    background: var(--white);
+    border-left: 3px solid var(--gold);
+    border-radius: 0 12px 12px 0;
+    padding: 32px 36px;
+    font-size: 15.5px;
+    line-height: 1.85;
+    color: var(--text);
+    box-shadow: var(--shadow);
+    margin-top: 28px;
+    position: relative;
+  }
+
+  .letter-block::before {
+    content: '"';
+    position: absolute;
+    top: -10px;
+    left: 28px;
+    font-family: 'Playfair Display', serif;
+    font-size: 72px;
+    color: var(--gold);
+    opacity: 0.2;
+    line-height: 1;
+  }
+
+  /* ── CONTEXT CARDS ── */
+  .cards-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(240px, 1fr));
+    gap: 20px;
+    margin-top: 28px;
+  }
+
+  .card {
+    background: var(--white);
+    border-radius: 14px;
+    padding: 28px 24px;
+    box-shadow: var(--shadow);
+    border-top: 3px solid transparent;
+    transition: transform 0.25s ease, box-shadow 0.25s ease;
+    cursor: default;
+  }
+
+  .card:hover {
+    transform: translateY(-4px);
+    box-shadow: 0 16px 48px rgba(15,36,64,0.16);
+  }
+
+  .card.accent-gold { border-top-color: var(--gold); }
+  .card.accent-blue { border-top-color: #3b82f6; }
+  .card.accent-green { border-top-color: #22c55e; }
+  .card.accent-red { border-top-color: #ef4444; }
+
+  .card-icon { font-size: 28px; margin-bottom: 14px; }
+
+  .card-title {
+    font-family: 'Playfair Display', serif;
+    font-size: 16px;
+    font-weight: 600;
+    color: var(--navy);
+    margin-bottom: 8px;
+  }
+
+  .card-body {
+    font-size: 13.5px;
+    line-height: 1.65;
+    color: var(--text-muted);
+  }
+
+  .card-tag {
+    display: inline-block;
+    font-size: 10px;
+    letter-spacing: 0.12em;
+    text-transform: uppercase;
+    font-weight: 600;
+    padding: 3px 10px;
+    border-radius: 100px;
+    background: rgba(201,150,58,0.12);
+    color: var(--gold);
+    margin-bottom: 12px;
+  }
+
+  /* ── AGENDA ACCORDION ── */
+  .agenda-list {
+    margin-top: 28px;
+    display: flex;
+    flex-direction: column;
+    gap: 2px;
+    border-radius: 14px;
+    overflow: hidden;
+    box-shadow: var(--shadow);
+  }
+
+  .agenda-item {
+    background: var(--white);
+    border-bottom: 1px solid rgba(15,36,64,0.06);
+    overflow: hidden;
+  }
+
+  .agenda-item:last-child { border-bottom: none; }
+
+  .agenda-header {
+    display: flex;
+    align-items: center;
+    gap: 16px;
+    padding: 20px 24px;
+    cursor: pointer;
+    user-select: none;
+    transition: background 0.2s;
+  }
+
+  .agenda-header:hover { background: rgba(201,150,58,0.04); }
+
+  .agenda-time {
+    font-size: 12px;
+    font-weight: 600;
+    color: var(--gold);
+    min-width: 88px;
+    letter-spacing: 0.05em;
+  }
+
+  .agenda-title-text {
+    flex: 1;
+    font-size: 15px;
+    font-weight: 500;
+    color: var(--navy);
+  }
+
+  .agenda-subtitle {
+    font-size: 12px;
+    color: var(--text-muted);
+    font-weight: 400;
+  }
+
+  .agenda-chevron {
+    width: 24px;
+    height: 24px;
+    border-radius: 50%;
+    background: rgba(201,150,58,0.1);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 12px;
+    color: var(--gold);
+    transition: transform 0.3s ease, background 0.2s;
+    flex-shrink: 0;
+  }
+
+  .agenda-item.open .agenda-chevron {
+    transform: rotate(180deg);
+    background: var(--gold);
+    color: var(--white);
+  }
+
+  .agenda-body {
+    max-height: 0;
+    overflow: hidden;
+    transition: max-height 0.4s ease;
+  }
+
+  .agenda-body-inner {
+    padding: 0 24px 20px 128px;
+    font-size: 14px;
+    line-height: 1.75;
+    color: var(--text-muted);
+  }
+
+  .agenda-tags {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 6px;
+    margin-top: 12px;
+  }
+
+  .agenda-tag {
+    font-size: 11px;
+    padding: 3px 10px;
+    border-radius: 100px;
+    background: var(--navy);
+    color: rgba(255,255,255,0.75);
+    font-weight: 500;
+  }
+
+  /* ── AUDIENCE GRID ── */
+  .audience-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+    gap: 16px;
+    margin-top: 28px;
+  }
+
+  .audience-card {
+    background: var(--white);
+    border-radius: 12px;
+    padding: 24px 20px;
+    box-shadow: var(--shadow);
+    display: flex;
+    gap: 14px;
+    align-items: flex-start;
+    transition: transform 0.25s;
+  }
+
+  .audience-card:hover { transform: translateY(-3px); }
+
+  .audience-num {
+    font-family: 'Playfair Display', serif;
+    font-size: 28px;
+    font-weight: 700;
+    color: var(--gold);
+    line-height: 1;
+    flex-shrink: 0;
+  }
+
+  .audience-label {
+    font-size: 14px;
+    font-weight: 500;
+    color: var(--navy);
+    line-height: 1.4;
+    margin-bottom: 4px;
+  }
+
+  .audience-desc {
+    font-size: 12.5px;
+    color: var(--text-muted);
+    line-height: 1.55;
+  }
+
+  /* ── COMMITMENT BLOCK ── */
+  .commit-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+    gap: 16px;
+    margin-top: 28px;
+  }
+
+  .commit-item {
+    display: flex;
+    gap: 14px;
+    align-items: flex-start;
+  }
+
+  .commit-icon {
+    width: 40px;
+    height: 40px;
+    border-radius: 10px;
+    background: rgba(201,150,58,0.1);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 18px;
+    flex-shrink: 0;
+  }
+
+  .commit-text { font-size: 14px; line-height: 1.65; color: var(--text-muted); }
+  .commit-text strong { color: var(--text); display: block; margin-bottom: 2px; }
+
+  /* ── CTA ── */
+  .cta-block {
+    background: var(--navy);
+    border-radius: 20px;
+    padding: 60px 40px;
+    text-align: center;
+    max-width: 860px;
+    margin: 0 auto 80px;
+    position: relative;
+    overflow: hidden;
+    opacity: 0;
+    transform: translateY(32px);
+    transition: opacity 0.7s ease, transform 0.7s ease;
+  }
+
+  .cta-block.visible { opacity: 1; transform: translateY(0); }
+
+  .cta-block::before {
+    content: '';
+    position: absolute;
+    inset: 0;
+    background: radial-gradient(ellipse at 20% 50%, rgba(201,150,58,0.15), transparent 60%);
+    pointer-events: none;
+  }
+
+  .cta-label {
+    font-size: 11px;
+    letter-spacing: 0.2em;
+    text-transform: uppercase;
+    color: var(--gold);
+    margin-bottom: 16px;
+  }
+
+  .cta-title {
+    font-family: 'Playfair Display', serif;
+    font-size: clamp(24px, 3vw, 36px);
+    color: var(--white);
+    margin-bottom: 12px;
+    line-height: 1.25;
+  }
+
+  .cta-sub {
+    font-size: 15px;
+    color: rgba(255,255,255,0.55);
+    margin-bottom: 36px;
+    line-height: 1.7;
+  }
+
+  .cta-btn {
+    display: inline-block;
+    background: var(--gold);
+    color: var(--navy);
+    font-family: 'Be Vietnam Pro', sans-serif;
+    font-size: 15px;
+    font-weight: 600;
+    padding: 16px 40px;
+    border-radius: 100px;
+    text-decoration: none;
+    transition: background 0.25s, transform 0.2s, box-shadow 0.25s;
+    box-shadow: 0 4px 24px rgba(201,150,58,0.35);
+  }
+
+  .cta-btn:hover {
+    background: var(--gold-light);
+    transform: translateY(-2px);
+    box-shadow: 0 8px 32px rgba(201,150,58,0.5);
+  }
+
+  .cta-meta {
+    margin-top: 28px;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+    justify-content: center;
+    color: rgba(255,255,255,0.45);
+    font-size: 13px;
+  }
+
+  /* ── FOOTER ── */
+  .footer {
+    text-align: center;
+    padding: 32px 24px 48px;
+    font-size: 13px;
+    color: var(--text-muted);
+    border-top: 1px solid rgba(15,36,64,0.08);
+  }
+
+  .footer strong { color: var(--navy); }
+
+  /* ── SEPARATOR ── */
+  .sep {
+    max-width: 860px;
+    margin: 0 auto;
+    padding: 0 24px;
+    height: 1px;
+    background: linear-gradient(to right, transparent, var(--border), transparent);
+  }
+
+  /* ── ANIMATIONS ── */
+  @keyframes fadeDown {
+    from { opacity: 0; transform: translateY(-20px); }
+    to   { opacity: 1; transform: translateY(0); }
+  }
+
+  @keyframes pulse {
+    0%, 100% { opacity: 1; transform: scale(1); }
+    50%       { opacity: 0.5; transform: scale(0.8); }
+  }
+
+  @keyframes scrollPulse {
+    0%, 100% { opacity: 0.4; }
+    50%       { opacity: 1; }
+  }
+
+  /* ── RESPONSIVE ── */
+  @media (max-width: 600px) {
+    .agenda-body-inner { padding-left: 24px; }
+    .agenda-time { min-width: 70px; font-size: 11px; }
+    .cta-block { padding: 44px 24px; }
+    .letter-block { padding: 24px 20px; }
+  }
+</style>
+</head>
+<body>
+
+<!-- ══ HERO ══ -->
+<section class="hero">
+  <div class="hero-grid"></div>
+
+  <div class="logo-badge">
+    <div class="logo-dot"></div>
+    <span class="logo-text">Vietmetric · The AI-native company</span>
+  </div>
+
+  <p class="hero-label">Thư mời tham dự hội thảo chuyên đề · Tháng 5/2025</p>
+
+  <h1 class="hero-title">
+    Ứng dụng <span>Trí tuệ Nhân tạo</span><br>trong Cơ quan Nhà nước
+  </h1>
+
+  <p class="hero-sub">
+    Hội thảo tư vấn chiến lược dành cho lãnh đạo và cán bộ phụ trách chuyển đổi số —
+    xây dựng lộ trình ứng dụng AI thực tế, đo lường được.
+  </p>
+
+  <div class="event-pills">
+    <div class="pill"><span class="pill-icon">📅</span> Thứ Sáu, 23/5/2025</div>
+    <div class="pill"><span class="pill-icon">🕘</span> 08:30 – 11:30</div>
+    <div class="pill"><span class="pill-icon">📍</span> Khách sạn Melia, Hà Nội</div>
+    <div class="pill"><span class="pill-icon">👥</span> Tối đa 40 đại biểu</div>
+  </div>
+
+  <div class="scroll-hint">
+    <div class="scroll-line"></div>
+    Cuộn để xem chi tiết
+  </div>
+</section>
+
+
+<!-- ══ THƯ NGỎ ══ -->
+<div class="section" data-scroll>
+  <p class="section-number">01 · Thư ngỏ</p>
+  <h2 class="section-title">Kính gửi Quý Anh/Chị lãnh đạo</h2>
+  <div class="divider"></div>
+
+  <div class="letter-block">
+    Vietmetric trân trọng kính mời Quý Anh/Chị tham dự hội thảo tư vấn chuyên đề
+    <strong>Ứng dụng AI trong Cơ quan Nhà nước</strong> — nơi chúng tôi đồng hành cùng
+    lãnh đạo các bộ, ngành, địa phương trong việc xây dựng lộ trình ứng dụng AI
+    thiết thực, phù hợp với đặc thù của từng đơn vị.
+    <br><br>
+    Việt Nam đang bước vào giai đoạn tăng tốc chuyển đổi số quốc gia với mục tiêu
+    tăng trưởng GDP trên 10%/năm giai đoạn 2026–2030. AI không còn là công nghệ
+    thử nghiệm — mà là yêu cầu vận hành của thời đại. Các cơ quan nhà nước đứng
+    trước cơ hội lịch sử để <strong>nâng cao hiệu quả hành chính, cải thiện chất lượng
+    dịch vụ công và tăng tốc ra quyết định</strong> dựa trên dữ liệu.
+    <br><br>
+    Hội thảo này không phải buổi giới thiệu lý thuyết —
+    mà là <strong>phiên làm việc thực chất</strong>, nơi Quý Anh/Chị đặt câu hỏi,
+    phân tích bài toán cụ thể của đơn vị và cùng nhau xác định bước đi tiếp theo.
+  </div>
+</div>
+
+<div class="sep"></div>
+
+
+<!-- ══ BỐI CẢNH ══ -->
+<div class="section" data-scroll>
+  <p class="section-number">02 · Bối cảnh chiến lược</p>
+  <h2 class="section-title">Tại sao AI trong khu vực công — và tại sao là bây giờ?</h2>
+  <div class="divider"></div>
+  <p class="body-text">
+    Hệ thống chính sách quốc gia đang vận hành đồng bộ, tạo ra cửa sổ cơ hội
+    chưa từng có để khu vực công dẫn dắt chuyển đổi AI.
+  </p>
+
+  <div class="cards-grid">
+    <div class="card accent-gold">
+      <div class="card-tag">NQ 57-NQ/TW</div>
+      <div class="card-icon">🏛️</div>
+      <div class="card-title">Đột phá KH-CN quốc gia</div>
+      <div class="card-body">AI được xác định là lực lượng sản xuất mới. Cơ quan nhà nước đi đầu trong ứng dụng và triển khai.</div>
+    </div>
+    <div class="card accent-blue">
+      <div class="card-tag">Luật AI 134/2025</div>
+      <div class="card-icon">⚖️</div>
+      <div class="card-title">Khung pháp lý AI đầu tiên</div>
+      <div class="card-body">Luật AI Việt Nam quy định rõ trách nhiệm của các cơ quan nhà nước khi triển khai hệ thống AI có rủi ro cao.</div>
+    </div>
+    <div class="card accent-green">
+      <div class="card-tag">Chuyển đổi số 2025</div>
+      <div class="card-icon">🚀</div>
+      <div class="card-title">Dịch vụ công thông minh</div>
+      <div class="card-body">Mục tiêu 100% thủ tục hành chính trực tuyến. AI là công cụ then chốt để đạt hiệu quả thực chất.</div>
+    </div>
+    <div class="card accent-red">
+      <div class="card-tag">Áp lực vận hành</div>
+      <div class="card-icon">📊</div>
+      <div class="card-title">Năng suất hành chính</div>
+      <div class="card-body">Khối lượng hồ sơ, dữ liệu và yêu cầu báo cáo tăng mạnh. AI giúp xử lý nhanh hơn với nguồn lực hiện có.</div>
+    </div>
+  </div>
+</div>
+
+<div class="sep"></div>
+
+
+<!-- ══ CHƯƠNG TRÌNH ══ -->
+<div class="section" data-scroll>
+  <p class="section-number">03 · Chương trình</p>
+  <h2 class="section-title">Nội dung buổi hội thảo · 23/5/2025</h2>
+  <div class="divider"></div>
+  <p class="body-text">Phiên làm việc 3 tiếng — thiết kế theo hướng tư vấn thực chất, không phải trình bày một chiều.</p>
+
+  <div class="agenda-list">
+
+    <div class="agenda-item">
+      <div class="agenda-header" onclick="toggleAgenda(this)">
+        <div class="agenda-time">08:30 – 09:00</div>
+        <div>
+          <div class="agenda-title-text">Đăng ký · Gặp gỡ · Cà phê mạng lưới</div>
+          <div class="agenda-subtitle">Đón tiếp đại biểu</div>
+        </div>
+        <div class="agenda-chevron">▼</div>
+      </div>
+      <div class="agenda-body">
+        <div class="agenda-body-inner">
+          Đại biểu đăng ký tham dự, nhận tài liệu và có thời gian gặp gỡ ban đầu. Vietmetric bố trí không gian trao đổi không chính thức để đại biểu kết nối trước buổi làm việc chính thức.
+          <div class="agenda-tags">
+            <span class="agenda-tag">Networking</span>
+            <span class="agenda-tag">Tài liệu</span>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <div class="agenda-item">
+      <div class="agenda-header" onclick="toggleAgenda(this)">
+        <div class="agenda-time">09:00 – 09:30</div>
+        <div>
+          <div class="agenda-title-text">Bức tranh AI trong khu vực công Việt Nam 2025</div>
+          <div class="agenda-subtitle">Vietmetric trình bày · Phiên khai mạc</div>
+        </div>
+        <div class="agenda-chevron">▼</div>
+      </div>
+      <div class="agenda-body">
+        <div class="agenda-body-inner">
+          Vietmetric trình bày tổng quan: AI đang được các cơ quan nhà nước Việt Nam ứng dụng ở đâu, kết quả ra sao, và bài học từ các quốc gia đi trước (Singapore, Hàn Quốc, Estonia). Phân tích Luật AI 134/2025 và những yêu cầu cụ thể đặt ra cho cơ quan nhà nước.
+          <div class="agenda-tags">
+            <span class="agenda-tag">Luật AI 134/2025</span>
+            <span class="agenda-tag">Benchmark quốc tế</span>
+            <span class="agenda-tag">Thực trạng Việt Nam</span>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <div class="agenda-item">
+      <div class="agenda-header" onclick="toggleAgenda(this)">
+        <div class="agenda-time">09:30 – 10:15</div>
+        <div>
+          <div class="agenda-title-text">Các trường hợp ứng dụng thực tế — Demo trực tiếp</div>
+          <div class="agenda-subtitle">Chuyên gia Vietmetric · Demo + Q&A</div>
+        </div>
+        <div class="agenda-chevron">▼</div>
+      </div>
+      <div class="agenda-body">
+        <div class="agenda-body-inner">
+          Demo trực tiếp 4 nhóm ứng dụng AI phù hợp nhất với cơ quan nhà nước: (1) Xử lý văn bản và tóm tắt tài liệu tự động; (2) Hỗ trợ tra cứu pháp luật và chính sách; (3) Phân tích dữ liệu hành chính; (4) Chatbot dịch vụ công. Mỗi demo kèm phân tích chi phí-lợi ích thực tế.
+          <div class="agenda-tags">
+            <span class="agenda-tag">Demo thực tế</span>
+            <span class="agenda-tag">Xử lý văn bản</span>
+            <span class="agenda-tag">Dịch vụ công</span>
+            <span class="agenda-tag">Phân tích dữ liệu</span>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <div class="agenda-item">
+      <div class="agenda-header" onclick="toggleAgenda(this)">
+        <div class="agenda-time">10:15 – 10:30</div>
+        <div>
+          <div class="agenda-title-text">Nghỉ giải lao · Kết nối</div>
+          <div class="agenda-subtitle">15 phút</div>
+        </div>
+        <div class="agenda-chevron">▼</div>
+      </div>
+      <div class="agenda-body">
+        <div class="agenda-body-inner">
+          Nghỉ giải lao và tiếp tục kết nối giữa các đại biểu. Cơ hội trao đổi trực tiếp với chuyên gia Vietmetric về các câu hỏi cụ thể.
+        </div>
+      </div>
+    </div>
+
+    <div class="agenda-item">
+      <div class="agenda-header" onclick="toggleAgenda(this)">
+        <div class="agenda-time">10:30 – 11:15</div>
+        <div>
+          <div class="agenda-title-text">Thảo luận nhóm — Bài toán của đơn vị bạn</div>
+          <div class="agenda-subtitle">Workshop nhỏ · Tư vấn trực tiếp</div>
+        </div>
+        <div class="agenda-chevron">▼</div>
+      </div>
+      <div class="agenda-body">
+        <div class="agenda-body-inner">
+          Đại biểu chia nhóm theo lĩnh vực (hành chính công, tài chính-kế hoạch, y tế, giáo dục, an ninh-quốc phòng). Mỗi nhóm được 1 chuyên gia Vietmetric đồng hành, cùng phân tích bài toán cụ thể của đơn vị và xác định 2–3 ứng dụng AI có tính khả thi cao nhất.
+          <div class="agenda-tags">
+            <span class="agenda-tag">Thảo luận nhóm</span>
+            <span class="agenda-tag">Tư vấn 1-1</span>
+            <span class="agenda-tag">Phân tích bài toán thực</span>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <div class="agenda-item">
+      <div class="agenda-header" onclick="toggleAgenda(this)">
+        <div class="agenda-time">11:15 – 11:30</div>
+        <div>
+          <div class="agenda-title-text">Tổng kết · Bước đi tiếp theo · Kế hoạch hành động</div>
+          <div class="agenda-subtitle">Kết luận và cam kết</div>
+        </div>
+        <div class="agenda-chevron">▼</div>
+      </div>
+      <div class="agenda-body">
+        <div class="agenda-body-inner">
+          Tổng hợp kết quả thảo luận nhóm. Vietmetric trình bày khung lộ trình ứng dụng AI 3 giai đoạn đề xuất cho từng nhóm đơn vị. Xác nhận bước đi tiếp theo cho các đơn vị có nhu cầu tư vấn chuyên sâu. Mỗi đại biểu nhận tài liệu tóm tắt kèm checklist triển khai.
+          <div class="agenda-tags">
+            <span class="agenda-tag">Lộ trình 3 giai đoạn</span>
+            <span class="agenda-tag">Checklist triển khai</span>
+            <span class="agenda-tag">Follow-up tư vấn</span>
+          </div>
+        </div>
+      </div>
+    </div>
+
+  </div>
+</div>
+
+<div class="sep"></div>
+
+
+<!-- ══ ĐỐI TƯỢNG ══ -->
+<div class="section" data-scroll>
+  <p class="section-number">04 · Đối tượng tham dự</p>
+  <h2 class="section-title">Hội thảo dành cho ai?</h2>
+  <div class="divider"></div>
+  <p class="body-text">Thiết kế cho lãnh đạo và cán bộ chuyên môn đang trực tiếp ra quyết định hoặc tham mưu về chuyển đổi số.</p>
+
+  <div class="audience-grid">
+    <div class="audience-card">
+      <div class="audience-num">01</div>
+      <div>
+        <div class="audience-label">Lãnh đạo bộ, ngành, địa phương</div>
+        <div class="audience-desc">Thứ trưởng, Phó Chủ tịch, Giám đốc Sở cần định hướng chiến lược AI cho đơn vị</div>
+      </div>
+    </div>
+    <div class="audience-card">
+      <div class="audience-num">02</div>
+      <div>
+        <div class="audience-label">Trưởng đơn vị Chuyển đổi số</div>
+        <div class="audience-desc">Vụ trưởng, Cục trưởng phụ trách CĐS, CNTT đang xây dựng kế hoạch AI</div>
+      </div>
+    </div>
+    <div class="audience-card">
+      <div class="audience-num">03</div>
+      <div>
+        <div class="audience-label">Cán bộ tham mưu chiến lược</div>
+        <div class="audience-desc">Chuyên viên cao cấp tham mưu chính sách số, kế hoạch CĐS cấp bộ/tỉnh</div>
+      </div>
+    </div>
+    <div class="audience-card">
+      <div class="audience-num">04</div>
+      <div>
+        <div class="audience-label">Lãnh đạo đơn vị sự nghiệp công</div>
+        <div class="audience-desc">Bệnh viện, trường đại học, cơ quan nghiên cứu muốn ứng dụng AI vào vận hành</div>
+      </div>
+    </div>
+  </div>
+</div>
+
+<div class="sep"></div>
+
+
+<!-- ══ CAM KẾT ══ -->
+<div class="section" data-scroll>
+  <p class="section-number">05 · Cam kết của Vietmetric</p>
+  <h2 class="section-title">Những gì bạn nhận được</h2>
+  <div class="divider"></div>
+
+  <div class="commit-grid">
+    <div class="commit-item">
+      <div class="commit-icon">🎯</div>
+      <div class="commit-text">
+        <strong>Tư vấn thực chất, không bán hàng</strong>
+        Hội thảo tập trung giải quyết bài toán thực của đơn vị, không phải giới thiệu sản phẩm
+      </div>
+    </div>
+    <div class="commit-item">
+      <div class="commit-icon">📋</div>
+      <div class="commit-text">
+        <strong>Tài liệu mang về dùng được ngay</strong>
+        Checklist đánh giá sẵn sàng AI, template lộ trình và báo cáo tóm tắt sau hội thảo
+      </div>
+    </div>
+    <div class="commit-item">
+      <div class="commit-icon">🔍</div>
+      <div class="commit-text">
+        <strong>Phân tích pháp lý cập nhật</strong>
+        Giải đáp yêu cầu tuân thủ theo Luật AI 134/2025 và Thông tư 05/2026/TT-BKHCN
+      </div>
+    </div>
+    <div class="commit-item">
+      <div class="commit-icon">🤝</div>
+      <div class="commit-text">
+        <strong>Kết nối đồng nghiệp liên ngành</strong>
+        Gặp gỡ và trao đổi kinh nghiệm với lãnh đạo cùng cấp từ các bộ, ngành, địa phương khác
+      </div>
+    </div>
+    <div class="commit-item">
+      <div class="commit-icon">📞</div>
+      <div class="commit-text">
+        <strong>Follow-up tư vấn sau hội thảo</strong>
+        Vietmetric hỗ trợ 1 buổi tư vấn riêng miễn phí trong vòng 30 ngày cho đơn vị quan tâm
+      </div>
+    </div>
+    <div class="commit-item">
+      <div class="commit-icon">⏱️</div>
+      <div class="commit-text">
+        <strong>Tôn trọng thời gian</strong>
+        Chương trình chặt chẽ, mỗi phần có mục tiêu rõ ràng — kết thúc đúng 11:30
+      </div>
+    </div>
+  </div>
+</div>
+
+<div class="sep"></div>
+
+
+<!-- ══ VỀ VIETMETRIC ══ -->
+<div class="section" data-scroll>
+  <p class="section-number">06 · Về Vietmetric</p>
+  <h2 class="section-title">Đơn vị tổ chức</h2>
+  <div class="divider"></div>
+
+  <div class="letter-block">
+    <strong>Vietmetric — The AI-native company</strong> là công ty tư vấn AI hàng đầu Việt Nam, chuyên cung cấp dịch vụ tư vấn chiến lược AI, chuyển đổi số và chính sách số cho khách hàng khu vực công và doanh nghiệp.
+    <br><br>
+    Vietmetric đã đồng hành cùng nhiều bộ, ngành trong việc xây dựng khung chính sách AI, phân tích tác động pháp lý của Luật AI 134/2025 và thiết kế lộ trình ứng dụng AI thực tiễn. Đội ngũ chuyên gia của Vietmetric có kinh nghiệm sâu về cả khía cạnh kỹ thuật, chính sách và vận hành — bảo đảm tư vấn toàn diện, không thiên lệch về phía công nghệ hay pháp lý.
+  </div>
+</div>
+
+
+<!-- ══ CTA ══ -->
+<div class="cta-block" data-scroll style="padding: 60px 40px; margin: 0 24px 80px;">
+  <p class="cta-label">Xác nhận tham dự</p>
+  <h2 class="cta-title">AI Vanguard Network · Hội thảo 23/5/2025</h2>
+  <p class="cta-sub">
+    Vietmetric trân trọng chờ đón Quý Anh/Chị.<br>
+    Vui lòng xác nhận trước ngày 18/5/2025 để Vietmetric chuẩn bị chu đáo.
+  </p>
+  <a href="https://forms.gle/your-form-link" class="cta-btn">Xác nhận tham dự →</a>
+  <div class="cta-meta">
+    <span>📅 08:30 – 11:30 · Thứ Sáu 23/5/2025</span>
+    <span>📍 Khách sạn Melia · 44B Lý Thường Kiệt · Hà Nội</span>
+    <span>📧 hello@vietmetric.vn</span>
+  </div>
+</div>
+
+
+<!-- ══ FOOTER ══ -->
+<footer class="footer">
+  <strong>Vietmetric</strong> · The AI-native company<br>
+  <span style="margin-top:4px; display:inline-block;">
+    hello@vietmetric.vn · vietmetric.vn · Hà Nội, Việt Nam
+  </span>
+</footer>
+
+
+<script>
+  // ── Scroll reveal
+  const observer = new IntersectionObserver((entries) => {
+    entries.forEach(e => {
+      if (e.isIntersecting) {
+        e.target.classList.add('visible');
+        observer.unobserve(e.target);
+      }
+    });
+  }, { threshold: 0.12 });
+
+  document.querySelectorAll('[data-scroll], .cta-block').forEach(el => observer.observe(el));
+
+  // ── Accordion
+  function toggleAgenda(header) {
+    const item = header.parentElement;
+    const body = item.querySelector('.agenda-body');
+    const isOpen = item.classList.contains('open');
+
+    // Close all
+    document.querySelectorAll('.agenda-item.open').forEach(i => {
+      i.classList.remove('open');
+      i.querySelector('.agenda-body').style.maxHeight = '0';
+    });
+
+    // Open clicked (if was closed)
+    if (!isOpen) {
+      item.classList.add('open');
+      body.style.maxHeight = body.scrollHeight + 'px';
+    }
+  }
+</script>
+</body>
+</html>

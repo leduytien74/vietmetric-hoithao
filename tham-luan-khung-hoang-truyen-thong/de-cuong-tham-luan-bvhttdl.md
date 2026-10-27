@@ -13,12 +13,14 @@ Tác giả: Vietmetric
 :::
 
 ::: {custom-style=ThongTinChung}
-Dự thảo 1, ngày 27/10/2026. Tài liệu làm việc phục vụ tổ biên tập.
+Dự thảo 2, ngày 28/10/2026. Tài liệu làm việc phục vụ tổ biên tập.
 :::
 
 # Tóm tắt
 
-**Mục đích tham luận.** Tham luận phục vụ 3 mục tiêu: (1) nhận diện đúng bản chất, quy luật của khủng hoảng truyền thông trong môi trường số và phương thức đối tượng phản động lợi dụng; (2) đánh giá thẳng thắn kết quả, hạn chế, nguyên nhân; (3) đề xuất 7 nhóm giải pháp, trong đó có 3 giải pháp đột phá, cùng 6 kiến nghị cụ thể với Chính phủ, Thủ tướng Chính phủ.
+**Mục đích tham luận.** Tham luận phục vụ 3 mục tiêu: (1) nhận diện đúng bản chất, quy luật của khủng hoảng truyền thông trong môi trường số và phương thức đối tượng phản động lợi dụng; (2) đánh giá thẳng thắn kết quả, hạn chế, nguyên nhân; (3) đề xuất 7 nhóm giải pháp, trong đó có 3 giải pháp đột phá, cùng 7 kiến nghị cụ thể với Chính phủ, Thủ tướng Chính phủ.
+
+**Điểm mới của dự thảo 2.** Bổ sung phân tích tác động của Threads, nền tảng khởi phát nhiều làn sóng dư luận năm 2026 (Phần I, mục 6); 5 sự cố mới nhất năm 2026 làm dẫn chứng (Phần II, mục 2); nhóm việc cụ thể ứng phó trên Threads (Phần III); kiến nghị về công khai thông tin dự án đầu tư lớn (Phần IV).
 
 **Thông điệp chính.** Đối tượng phản động hiếm khi tự tạo ra khủng hoảng; phần lớn trường hợp, đối tượng lấp vào “khoảng trống thông tin” do thông tin chính thống đến chậm, thiếu hoặc thiếu nhất quán. Giải pháp gốc là lấp đầy khoảng trống đó bằng sự thật, ngay trong “giờ vàng”.
 
@@ -49,8 +51,8 @@ Dự thảo 1, ngày 27/10/2026. Tài liệu làm việc phục vụ tổ biên 
 | Phần | Nội dung chính | Thời lượng | Tỷ trọng |
 |:------------|:--------------------------------------------------------|:----------------:|:----------------:|
 | Mở đầu | Đặt vấn đề, tính cấp thiết, trách nhiệm của Bộ VHTTDL | 1 phút | 8% |
-| Phần I | Nhận diện khủng hoảng truyền thông và phương thức lợi dụng của đối tượng phản động | 2,5 phút | 20% |
-| Phần II | Kết quả, hạn chế, nguyên nhân, bài học kinh nghiệm | 2,5 phút | 20% |
+| Phần I | Nhận diện khủng hoảng truyền thông, phương thức lợi dụng của đối tượng phản động, tác động của Threads | 2,5 phút | 20% |
+| Phần II | Kết quả, sự cố mới nhất năm 2026, hạn chế, nguyên nhân, bài học kinh nghiệm | 2,5 phút | 20% |
 | Phần III | 7 nhóm giải pháp, trong đó 3 giải pháp đột phá | 4,5 phút | 40% |
 | Phần IV | Kiến nghị với Chính phủ, Thủ tướng Chính phủ, các bộ, ngành, địa phương | 1 phút | 8% |
 | Kết luận | Cam kết hành động của Bộ VHTTDL | 0,5 phút | 4% |
@@ -64,6 +66,7 @@ Dự thảo 1, ngày 27/10/2026. Tài liệu làm việc phục vụ tổ biên 
 - Không gian mạng trở thành môi trường thông tin chủ yếu của người dân. Việt Nam có khoảng 85,6 triệu người dùng Internet (84,2% dân số) và 79 triệu danh tính người dùng mạng xã hội (77,6% dân số) theo báo cáo Digital 2026: Vietnam của DataReportal. Video ngắn có thể đạt hàng triệu lượt xem chỉ trong vài giờ.
 - Năm 2026 là năm đầu triển khai Nghị quyết Đại hội XIV của Đảng; bộ máy sau sắp xếp và chính quyền địa phương 2 cấp đi vào vận hành; nhiều luật mới có hiệu lực (Luật Trí tuệ nhân tạo từ 1/3/2026, Luật Báo chí và Luật An ninh mạng từ 1/7/2026). Những thay đổi lớn luôn kéo theo nhu cầu thông tin lớn, đồng thời mở ra cơ hội để đối tượng xấu xuyên tạc, kích động.
 - AI tạo sinh khiến chi phí làm giả hình ảnh, giọng nói, video gần như bằng 0; ranh giới thật, giả ngày càng khó phân biệt.
+- Threads nổi lên thành điểm khởi phát mới của dư luận, nhất là trong giới trẻ: năm 2026, nhiều làn sóng tranh luận về dự án đầu tư, môi trường, cảnh quan bắt đầu trên Threads rồi mới lan sang Facebook, TikTok và báo chí.
 
 **3. Trách nhiệm của Bộ VHTTDL.** Từ ngày 1/3/2025, Bộ VHTTDL tiếp nhận chức năng quản lý nhà nước về báo chí, phát thanh, truyền hình, thông tin điện tử, thông tin cơ sở và thông tin đối ngoại. Nghị định số 298/2026/NĐ-CP ngày 27/7/2026 tiếp tục kiện toàn chức năng, tổ chức của Bộ. Bộ VHTTDL xác định rõ trách nhiệm là cơ quan đầu mối giúp Chính phủ quản lý nhà nước về thông tin, truyền thông, trong đó có công tác phòng ngừa, xử lý khủng hoảng truyền thông.
 
@@ -84,7 +87,7 @@ Dự thảo 1, ngày 27/10/2026. Tài liệu làm việc phục vụ tổ biên 
 ## 2. Đặc điểm mới trong môi trường số
 
 - **Tốc độ.** “Giờ vàng” rút ngắn từ khoảng 24 giờ xuống còn vài giờ; thuật toán nền tảng ưu tiên nội dung gây cảm xúc mạnh nên thông tin tiêu cực lan nhanh hơn thông tin chính thống.
-- **Nguồn phát tán.** Phân tán, ẩn danh, xuyên biên giới; phần lớn lưu lượng nằm trên nền tảng nước ngoài (Facebook, YouTube, TikTok).
+- **Nguồn phát tán.** Phân tán, ẩn danh, xuyên biên giới; phần lớn lưu lượng nằm trên nền tảng nước ngoài (Facebook, YouTube, TikTok và gần đây là Threads).
 - **Công nghệ.** AI tạo sinh giúp làm giả hình ảnh, giọng nói lãnh đạo, mạo danh cơ quan báo chí, cơ quan nhà nước với chi phí rất thấp.
 - **Hình thức.** Livestream, video ngắn, nhóm kín, ứng dụng nhắn tin mã hóa khiến việc giám sát khó khăn hơn.
 - **Chủ thể khuếch đại.** Người có ảnh hưởng và tài khoản “câu view” vì lợi nhuận; nhiều trường hợp không có động cơ chính trị nhưng vô tình tạo nền cho đối tượng phản động khai thác.
@@ -96,6 +99,7 @@ Dự thảo 1, ngày 27/10/2026. Tài liệu làm việc phục vụ tổ biên 
 |:----------------------------|:------------------------------------------|:------------------------------|
 | Thiên tai, thảm họa, sự cố, tai nạn | Bão lũ; vụ lật tàu Vịnh Xanh 58 trên vịnh Hạ Long ngày 19/7/2025 | Cao: quy kết trách nhiệm, kích động bức xúc |
 | Chính sách mới tác động trực tiếp lợi ích người dân | Sắp xếp bộ máy, đơn vị hành chính; đất đai, thuế, giá; quy định mới về mạng xã hội | Rất cao: xuyên tạc mục đích chính sách, gieo hoài nghi |
+| Dự án đầu tư lớn tác động môi trường, cảnh quan, di sản | Dự án Làng Vân dưới chân đèo Hải Vân (Đà Nẵng), đề xuất dự án Safari Ba Vì (Hà Nội) năm 2026 | Cao: đối tượng xấu bám vào lo ngại chính đáng về môi trường, minh bạch để quy chụp “lợi ích nhóm”, kích động chống đối |
 | Vi phạm, tiêu cực của cán bộ, doanh nghiệp, người nổi tiếng | Quảng cáo sai sự thật của người có ảnh hưởng (vụ kẹo rau củ Kera năm 2025); an toàn thực phẩm | Trung bình đến cao: quy chụp “bản chất chế độ” |
 | Chủ quyền, lịch sử, dân tộc, tôn giáo | Sản phẩm văn hóa nước ngoài chứa hình ảnh “đường lưỡi bò” phi pháp; tác phẩm đề tài lịch sử, chiến tranh | Rất cao: kích động tư tưởng cực đoan, xét lại lịch sử |
 | Sự kiện chính trị, đối ngoại lớn | Đại hội Đảng, bầu cử, ngày lễ lớn, chuyến thăm cấp cao | Rất cao: chiến dịch có tổ chức, chuẩn bị từ trước |
@@ -107,7 +111,7 @@ Dự thảo 1, ngày 27/10/2026. Tài liệu làm việc phục vụ tổ biên 
 2. **Trộn thật với giả.** Lấy 1 phần sự thật làm mồi, cài thông tin bịa đặt, cắt ghép video, đánh tráo khái niệm.
 3. **Chính trị hóa, quốc tế hóa.** Biến vụ việc dân sự thành vấn đề “nhân quyền”, “tự do báo chí”; kêu gọi tổ chức, cá nhân nước ngoài can thiệp.
 4. **Mạo danh, giả mạo.** Lập trang giả cơ quan báo chí, cơ quan nhà nước; dùng AI làm giả giọng nói, hình ảnh lãnh đạo.
-5. **Kích động hành động.** Kêu gọi tụ tập, gây rối, khiếu kiện đông người, tẩy chay; quyên góp, gây quỹ trái phép.
+5. **Kích động hành động.** Kêu gọi tụ tập, gây rối, khiếu kiện đông người, tẩy chay; quyên góp, gây quỹ trái phép. Từ năm 2025, các trang của tổ chức khủng bố Việt Tân lợi dụng các cuộc biểu tình của giới trẻ ở Nepal, Indonesia để kêu gọi “cách mạng Gen Z” tại Việt Nam; một số tài khoản trên Threads kêu gọi “đứng dậy đấu tranh”.
 6. **Khai thác khoảng trống thông tin.** Khi cơ quan chức năng im lặng hoặc phát ngôn chậm, đối tượng tung “thông tin nội bộ”, “nguồn tin riêng” để dẫn dắt dư luận.
 7. **Tổ chức thành chiến dịch.** Phối hợp giữa các trang, kênh trong và ngoài nước; dùng tài khoản ảo, mua quảng cáo để khuếch đại.
 
@@ -122,6 +126,25 @@ Dự thảo 1, ngày 27/10/2026. Tài liệu làm việc phục vụ tổ biên 
 | 5. Tái phát | Đối tượng “đào lại” vụ việc vào dịp nhạy cảm | Vài tuần đến vài tháng | Theo dõi, cập nhật, khép lại hồ sơ |
 
 *Ghi chú: mốc thời gian mang tính ước lượng; đề nghị Cục Thông tin điện tử và Chuyển đổi số xác lập số liệu nền từ dữ liệu giám sát thực tế trước khi hoàn thiện tham luận.*
+
+## 6. Tác động của Threads: điểm khởi phát mới của khủng hoảng truyền thông
+
+**a) Quy mô, đặc điểm.**
+
+- Threads (thuộc Meta) đạt khoảng 500 triệu người dùng hoạt động hằng tháng trên toàn cầu (Meta công bố tháng 6/2026). Tại Việt Nam, Meta chưa công bố số liệu chính thức; một số ước tính thị trường cho thấy khoảng 4 triệu người dùng, tập trung ở Gen Z, sinh viên, người trẻ đô thị.
+- Threads thiên về văn bản và thảo luận công khai. Thuật toán đề xuất đưa bài viết của tài khoản nhỏ, của người lạ tới đông người dùng, nên 1 bài đăng không cần nhiều người theo dõi vẫn có thể lan rộng trong vài giờ.
+- Cộng đồng Threads đề cao lối nói thẳng, châm biếm và hành động tập thể theo trào lưu (hashtag, khẩu hiệu “Stand with...”). Ảnh chụp màn hình từ Threads nhanh chóng lan sang Facebook, TikTok và báo chí.
+
+**b) Tác động tới công tác phòng ngừa, xử lý khủng hoảng.**
+
+1. **Điểm khởi phát mới, khó lường.** Nhiều làn sóng dư luận năm 2026 bắt đầu trên Threads (dự án Làng Vân ở Đà Nẵng từ giữa tháng 7/2026; đề xuất dự án Safari Ba Vì ở Hà Nội tháng 10/2026) trước khi hệ thống giám sát truyền thống ghi nhận.
+2. **Khoảng trống hiện diện của thông tin chính thống.** Cơ quan nhà nước và báo chí chủ lực hiện diện mờ nhạt trên Threads; khi tranh luận bùng phát, người dùng thiếu nguồn tin chính thức để đối chiếu ngay tại chỗ.
+3. **Vùng quản lý mới.** Năm 2026 là năm đầu tiên Meta xử lý yêu cầu chặn, gỡ nội dung vi phạm trên Threads theo yêu cầu của cơ quan quản lý Việt Nam (Cục Phát thanh, truyền hình và thông tin điện tử công bố ngày 24/6/2026). Cơ chế giám sát, phối hợp trên Threads mới ở bước đầu.
+4. **Nguy cơ chính trị hóa tranh luận chính đáng.** Đối tượng phản động chen vào các cuộc thảo luận về môi trường, quy hoạch, quyền lợi người dân để chuyển hướng sang kêu gọi chống đối, “cách mạng Gen Z”.
+5. **Nguy cơ hiệu ứng ngược khi chỉ chặn, gỡ.** Người dùng Threads thường chia sẻ lại thông báo nền tảng hạn chế hiển thị bài viết; nếu thiếu thông tin giải thích đi kèm, biện pháp kỹ thuật dễ làm vụ việc lan rộng hơn và giảm niềm tin.
+6. **Rủi ro phụ thuộc nền tảng.** Sự cố gián đoạn đồng loạt Facebook, Messenger, Instagram, Threads tại Việt Nam ngày 12/6/2026 cho thấy yêu cầu duy trì kênh thông tin dự phòng: cổng thông tin điện tử, ứng dụng nhắn tin trong nước, hệ thống thông tin cơ sở.
+
+*Ghi chú: diễn biến trên Threads tổng hợp từ báo chí trong nước, phản ánh của người dùng và một số nguồn nước ngoài; đề nghị Cục Thông tin điện tử và Chuyển đổi số đối chiếu với dữ liệu giám sát.*
 
 > Câu chốt Phần I: “Đối tượng phản động ít khi tạo ra khủng hoảng từ con số 0; đối tượng chủ yếu khai thác, khuếch đại khủng hoảng sẵn có. Vì vậy, xử lý tốt khủng hoảng gốc là cách vô hiệu hóa đối tượng phản động hiệu quả nhất.”
 
@@ -147,7 +170,8 @@ Dự thảo 1, ngày 27/10/2026. Tài liệu làm việc phục vụ tổ biên 
 
 - Giai đoạn 2021 đến 2025, tỷ lệ đáp ứng yêu cầu chặn, gỡ thông tin vi phạm trên Facebook, YouTube, TikTok đạt trên 92%; 6 tháng đầu năm 2026 đạt trên 94%.
 - Thời gian nền tảng xử lý yêu cầu rút xuống còn 3 đến 12 giờ, thay vì khoảng 24 giờ như trước.
-- 6 tháng đầu năm 2026: TikTok chặn, gỡ khoảng 115.000 video; YouTube gần 13.000 video; Facebook hơn 2.100 nội dung vi phạm.
+- 6 tháng đầu năm 2026: TikTok chặn, gỡ khoảng 115.000 video; YouTube gần 13.000 video; các nền tảng của Meta (Facebook, Instagram, Messenger, Threads) chặn, gỡ 63 tài khoản, trang, nhóm và 2.147 nội dung vi phạm.
+- Năm 2026 là năm đầu tiên Meta đáp ứng yêu cầu chặn, gỡ nội dung vi phạm trên Threads, đưa Threads vào cơ chế quản lý như các mạng xã hội xuyên biên giới khác.
 
 *Ghi chú: số liệu trên do báo chí dẫn từ Bộ VHTTDL; tổ biên tập đối chiếu với báo cáo chính thức của Cục Thông tin điện tử và Chuyển đổi số và cập nhật số liệu 9 tháng năm 2026.*
 
@@ -164,7 +188,21 @@ Dự thảo 1, ngày 27/10/2026. Tài liệu làm việc phục vụ tổ biên 
 
 *Gợi ý: tổ biên tập bổ sung 1 đến 2 vụ việc năm 2026 thuộc lĩnh vực văn hóa, thể thao, du lịch, báo chí do Bộ VHTTDL trực tiếp xử lý thành công (Văn phòng Bộ, Cục Báo chí cung cấp).*
 
-## 2. Hạn chế, bất cập
+## 2. Một số sự cố mới nhất năm 2026 và bài học
+
+| Thời gian | Sự cố | Diễn biến chính | Bài học |
+|:---------------|:--------------------|:--------------------------------------|:--------------------------|
+| 12/6/2026 | Gián đoạn đồng loạt Facebook, Messenger, Instagram, Threads tại Việt Nam | Người dùng mất kênh liên lạc, tiếp nhận thông tin trong thời gian sự cố | Duy trì kênh thông tin dự phòng; không phụ thuộc hoàn toàn vào nền tảng nước ngoài |
+| Từ giữa tháng 7/2026 | Dự án Làng Vân dưới chân đèo Hải Vân (Đà Nẵng) | Bài đăng trên Threads so sánh hình ảnh trước và sau san lấp mặt bằng dự án (khởi công tháng 6/2025, quy mô khoảng 512 ha, vốn gần 44.000 tỷ đồng) tạo làn sóng lo ngại về cảnh quan, sinh thái, giá trị lịch sử, văn hóa; một số cơ quan truyền thông nước ngoài khai thác, đưa tin dồn dập | Dự án lớn tác động môi trường, cảnh quan cần công khai quy hoạch, đánh giá tác động môi trường và đối thoại sớm; thông tin chính thức không thể đến sau tranh luận |
+| Tháng 8, 9/2026 | Tin giả mùa mưa bão | Video cắt ghép, tin sai về vỡ đê, sạt lở, ngập lụt xuất hiện trong nhiều đợt mưa lũ, gây hoang mang và cản trở công tác cứu hộ | Phát hiện nhanh; cải chính ngay trên nền tảng phát tán; công khai kết quả xử lý để răn đe |
+| Tháng 9, 10/2026 | Đề xuất dự án Safari Ba Vì (Hà Nội) | Thông tin ban đầu thiếu nhất quán: có bài báo nêu Hà Nội thống nhất chủ trương, khởi công dịp 10/10, trong khi ngày 5/10/2026 Sở Tài chính Hà Nội khẳng định dự án mới là đề xuất của nhà đầu tư, quy mô dự kiến giảm từ 580 ha xuống khoảng 300 ha, người dân sẽ có cơ hội góp ý. Ngày 17 và 18/10/2026, người dùng Threads phản ánh nhiều bài viết về dự án không hiển thị tại Việt Nam; trào lưu “Stand with Ba Vì” xuất hiện | “1 đầu mối, 1 thông điệp” ngay từ đầu; công khai lộ trình lấy ý kiến; biện pháp hạn chế hiển thị cần kèm thông tin giải thích để tránh hiệu ứng ngược |
+| Năm 2025, 2026 | Kích động “cách mạng Gen Z” | Các trang của tổ chức khủng bố Việt Tân lợi dụng biểu tình của giới trẻ ở Nepal, Indonesia để kêu gọi giới trẻ Việt Nam xuống đường; một số tài khoản trên Threads kêu gọi “đứng dậy đấu tranh” | Tách bạch đối tượng chống phá với người trẻ bày tỏ quan điểm; đối thoại bằng ngôn ngữ của giới trẻ trên chính nền tảng giới trẻ sử dụng |
+
+*Ghi chú: diễn biến trên Threads của vụ Làng Vân và vụ Safari Ba Vì chủ yếu dựa trên phản ánh của người dùng và một số nguồn nước ngoài; tổ biên tập đối chiếu với dữ liệu giám sát của Cục Thông tin điện tử và Chuyển đổi số, thông tin của Bộ Công an, UBND thành phố Đà Nẵng, UBND thành phố Hà Nội trước khi sử dụng (xem Phụ lục 5).*
+
+*Gợi ý khi trình bày: chọn 1 đến 2 sự cố để minh họa (đề xuất: tin giả mùa mưa bão và đề xuất dự án Safari Ba Vì); nêu bài học chung, không đi sâu vào trách nhiệm của từng cơ quan, doanh nghiệp; tổ biên tập cân nhắc mức độ nêu tên dự án, doanh nghiệp.*
+
+## 3. Hạn chế, bất cập
 
 1. **Phát hiện, cảnh báo sớm chưa đáp ứng yêu cầu.** Dữ liệu giám sát phân tán ở nhiều cơ quan; chưa có hệ thống dùng chung và bộ tiêu chí cảnh báo thống nhất; nhiều nơi chỉ vào cuộc khi vụ việc đã lên xu hướng.
 2. **Phản ứng chậm, thiếu nhất quán.** Một số cơ quan, địa phương còn tâm lý né tránh, “chờ đủ thông tin mới nói”; nhiều nguồn phát ngôn mâu thuẫn nhau; thông cáo nặng tính hành chính, khó tiếp cận người dùng mạng xã hội.
@@ -172,18 +210,22 @@ Dự thảo 1, ngày 27/10/2026. Tài liệu làm việc phục vụ tổ biên 
 4. **Quản lý nền tảng xuyên biên giới còn khó khăn.** Vẫn còn nội dung vi phạm chưa gỡ hoặc tái xuất hiện dưới tài khoản mới; livestream, nhóm kín, ứng dụng nhắn tin khó giám sát; thuật toán tiếp tục khuếch đại nội dung gây sốc.
 5. **Năng lực đội ngũ chưa tương xứng.** Người phát ngôn phần lớn kiêm nhiệm, ít có cơ hội đào tạo kỹ năng truyền thông khủng hoảng; cấp xã sau sắp xếp thiếu nhân lực chuyên trách.
 6. **“Sức đề kháng” thông tin của một bộ phận người dân chưa cao,** nhất là thanh thiếu niên; tâm lý “chia sẻ trước, kiểm chứng sau” còn phổ biến.
+7. **Hiện diện mờ nhạt trên nền tảng mới.** Cơ quan nhà nước, báo chí chủ lực chưa có cách tiếp cận riêng cho Threads và các nền tảng thảo luận mới; cơ chế phối hợp với Meta trên Threads mới hình thành từ năm 2026.
+8. **Lúng túng khi phân biệt góp ý chính đáng với hoạt động chống phá.** Có nơi xử lý ý kiến phản biện về dự án, chính sách bằng biện pháp kỹ thuật thay vì đối thoại, cung cấp thông tin; ngược lại, có nơi chậm nhận diện khi đối tượng xấu chen vào.
 
-## 3. Nguyên nhân
+## 4. Nguyên nhân
 
 - **Chủ quan (chủ yếu).** Một số người đứng đầu chưa nhận thức đầy đủ vai trò của thông tin chính sách, coi truyền thông là việc phụ; trách nhiệm cung cấp thông tin chưa gắn với đánh giá cán bộ; đầu tư công nghệ, nhân lực chưa tương xứng.
 - **Khách quan.** Công nghệ thay đổi nhanh hơn thể chế; nền tảng nước ngoài chi phối hạ tầng phân phối thông tin; nhiều đối tượng phản động hoạt động từ nước ngoài, ngoài phạm vi tài phán.
 
-## 4. Bài học kinh nghiệm
+## 5. Bài học kinh nghiệm
 
 1. **Thông tin chính thống phải đi trước 1 bước.** Nơi nào nói sớm, nói đúng, nói nhất quán, nơi đó khủng hoảng ngắn; nơi nào im lặng, đối tượng xấu lấp khoảng trống.
 2. **Người đứng đầu trực tiếp vào cuộc.** Tiếng nói của người có thẩm quyền có sức nặng hơn mọi thông cáo.
 3. **Xử lý gốc rễ sự việc song song với xử lý thông tin.** Truyền thông không thể “chữa cháy” khi sự việc thật chưa có hướng giải quyết.
 4. **Lấy tích cực đẩy lùi tiêu cực.** Nội dung tốt, hấp dẫn, lan tỏa rộng là “vắc-xin” hiệu quả nhất trước thông tin xấu độc.
+5. **Phân loại đúng phản ứng của dư luận.** Góp ý, phản biện chính đáng cần đối thoại, công khai thông tin, tiếp thu; thông tin sai cần cải chính, gắn nhãn; chỉ hành vi vi phạm pháp luật, kích động chống phá mới cần biện pháp pháp lý, kỹ thuật, kèm thông tin giải thích.
+6. **Có mặt ở nơi dư luận hình thành.** Thông tin chính thống phải xuất hiện trên chính nền tảng nơi tranh luận khởi phát, kể cả nền tảng mới như Threads.
 
 > Câu chốt Phần II: “Kết quả bước đầu cho thấy: khi thông tin chính thống đến sớm, đối tượng phản động không còn chỗ chen vào.”
 
@@ -197,6 +239,7 @@ Dự thảo 1, ngày 27/10/2026. Tài liệu làm việc phục vụ tổ biên 
 - Người đứng đầu bộ, ngành, địa phương trực tiếp chỉ đạo và chịu trách nhiệm khi để xảy ra khủng hoảng do chậm, thiếu hoặc sai thông tin.
 - Đưa tiêu chí “chủ động, kịp thời cung cấp thông tin” vào đánh giá, xếp loại hằng năm đối với tập thể và người đứng đầu.
 - Yêu cầu mọi đề án, chính sách có tác động lớn kèm kế hoạch truyền thông và kịch bản ứng phó phản ứng dư luận ngay từ khâu soạn thảo, coi đánh giá rủi ro truyền thông là 1 nội dung của đánh giá tác động chính sách.
+- Với dự án đầu tư lớn tác động tới môi trường, cảnh quan, di sản văn hóa: công khai thông tin quy hoạch, đánh giá tác động môi trường, tổ chức lấy ý kiến cộng đồng và có kế hoạch truyền thông trước khi triển khai, theo tinh thần “dân biết, dân bàn, dân làm, dân kiểm tra, dân giám sát, dân thụ hưởng”.
 - **Chủ trì:** các bộ, ngành, địa phương; Bộ Nội vụ hướng dẫn tiêu chí đánh giá. **Thời hạn:** quý I/2027.
 
 ## Nhóm 2. Hoàn thiện thể chế, quy chế phối hợp và quy trình xử lý [Đột phá]
@@ -208,13 +251,13 @@ Dự thảo 1, ngày 27/10/2026. Tài liệu làm việc phục vụ tổ biên 
     - Chế độ thông tin, báo cáo, đánh giá sau khủng hoảng.
     - Bảo đảm thống nhất với quy trình xử lý tin giả theo Nghị định số 328/2026/NĐ-CP và các biện pháp theo Nghị định số 327/2026/NĐ-CP.
 - Sớm ban hành Nghị định quy định chi tiết việc phát ngôn và cung cấp thông tin cho báo chí của cơ quan hành chính nhà nước, thay thế Nghị định số 09/2017/NĐ-CP, theo Kế hoạch ban hành kèm Quyết định số 329/QĐ-TTg ngày 24/2/2026. Đề xuất bổ sung: thời hạn cung cấp thông tin ban đầu đối với sự việc nghiêm trọng; cơ chế ủy quyền phát ngôn; phát ngôn trên tài khoản chính thức của cơ quan nhà nước trên nền tảng số.
-- Ban hành bộ quy trình mẫu và kịch bản xử lý cho khoảng 8 đến 10 tình huống điển hình: thiên tai, thảm họa; tai nạn du lịch; sự cố lễ hội, sự kiện đông người; an toàn thực phẩm; sản phẩm văn hóa vi phạm chủ quyền; phát ngôn lệch chuẩn của người nổi tiếng; tin giả về chính sách; nội dung giả mạo do AI tạo ra.
+- Ban hành bộ quy trình mẫu và kịch bản xử lý cho khoảng 10 đến 12 tình huống điển hình: thiên tai, thảm họa; tai nạn du lịch; sự cố lễ hội, sự kiện đông người; an toàn thực phẩm; sản phẩm văn hóa vi phạm chủ quyền; phát ngôn lệch chuẩn của người nổi tiếng; tin giả về chính sách; nội dung giả mạo do AI tạo ra; dự án đầu tư gây tranh cãi về môi trường, cảnh quan; làn sóng dư luận khởi phát trên nền tảng thảo luận như Threads; gián đoạn nền tảng mạng xã hội diện rộng.
 - Hoàn thiện văn bản hướng dẫn Luật Báo chí 2025, Luật Trí tuệ nhân tạo (gắn nhãn nội dung AI); sửa đổi, bổ sung Nghị định số 147/2024/NĐ-CP theo hướng: nghĩa vụ nền tảng xử lý nhanh trong tình huống khẩn cấp; ưu tiên hiển thị thông tin chính thống khi xảy ra khủng hoảng; báo cáo minh bạch định kỳ.
 - **Chủ trì:** Bộ VHTTDL. **Phối hợp:** Bộ Công an, Bộ Quốc phòng, Bộ Tư pháp, Văn phòng Chính phủ, Bộ Khoa học và Công nghệ. **Thời hạn:** trình Thủ tướng Chính phủ dự thảo Quy chế trong quý I/2027.
 
 ## Nhóm 3. Xây dựng hệ thống giám sát, dự báo, cảnh báo sớm dùng chung [Đột phá]
 
-- Hình thành hệ thống giám sát, phân tích thông tin trên không gian mạng dùng chung giữa Bộ VHTTDL, Bộ Công an, Bộ Quốc phòng, Văn phòng Chính phủ và các cơ quan của Đảng; ứng dụng AI, dữ liệu lớn; kết nối 34 tỉnh, thành phố.
+- Hình thành hệ thống giám sát, phân tích thông tin trên không gian mạng dùng chung giữa Bộ VHTTDL, Bộ Công an, Bộ Quốc phòng, Văn phòng Chính phủ và các cơ quan của Đảng; ứng dụng AI, dữ liệu lớn; kết nối 34 tỉnh, thành phố; bao quát cả nền tảng mới như Threads.
 - Ban hành bộ chỉ số cảnh báo thống nhất: tốc độ lan truyền, mức độ tương tác, tỷ lệ cảm xúc tiêu cực, sự xuất hiện của trang, kênh phản động, dấu hiệu tài khoản ảo; áp dụng 3 mức cảnh báo xanh, vàng, đỏ.
 - Lập “lịch rủi ro truyền thông” hằng năm: mùa mưa bão, lễ hội, kỳ thi, thời điểm chính sách mới có hiệu lực, ngày lễ chính trị, sự kiện đối ngoại.
 - Nâng cao năng lực phát hiện nội dung giả mạo do AI tạo ra; triển khai đồng bộ quy trình phát hiện, kiểm chứng, gắn nhãn tin giả theo Nghị định số 328/2026/NĐ-CP; công bố nhanh kết quả kiểm chứng.
@@ -229,7 +272,7 @@ Dự thảo 1, ngày 27/10/2026. Tài liệu làm việc phục vụ tổ biên 
 - **Mốc thời gian đề xuất:** thông tin ban đầu trong 3 giờ đối với cấp độ 3, trong 6 giờ đối với cấp độ 2, trong 24 giờ đối với cấp độ 1; họp báo hoặc thông cáo đầy đủ trong 24 giờ đối với cấp độ 2 và 3.
 - **Tổ phản ứng nhanh** tại mỗi bộ, ngành, địa phương: lãnh đạo, người phát ngôn, bộ phận chuyên môn, pháp chế, bộ phận nội dung số; hoạt động liên tục khi có cảnh báo đỏ.
 - **Phát ngôn đa nền tảng:** thông cáo báo chí kết hợp bài đăng trên tài khoản chính thức đã xác thực, video ngắn, đồ họa; phản hồi trực tiếp vào thông tin sai.
-- Song song, lực lượng chức năng xác minh, xử lý người tung tin; phối hợp nền tảng gỡ bỏ nội dung vi phạm. Nguyên tắc: gỡ bỏ không thay thế giải thích.
+- Song song, lực lượng chức năng xác minh, xử lý người tung tin; phối hợp nền tảng gỡ bỏ nội dung vi phạm. Nguyên tắc: gỡ bỏ không thay thế giải thích. Khi áp dụng biện pháp hạn chế hiển thị, cơ quan có thẩm quyền công bố căn cứ, lý do ở mức phù hợp để tránh hiệu ứng ngược.
 - **Chủ trì:** các bộ, ngành, địa phương; Bộ VHTTDL hướng dẫn nghiệp vụ, điều phối báo chí; Bộ Công an xử lý vi phạm. **Thời hạn:** áp dụng ngay từ quý IV/2026.
 
 ## Nhóm 5. Phát huy vai trò báo chí, thông tin cơ sở, thông tin đối ngoại; lấy tích cực đẩy lùi tiêu cực
@@ -260,6 +303,18 @@ Dự thảo 1, ngày 27/10/2026. Tài liệu làm việc phục vụ tổ biên 
 - Có chính sách đãi ngộ phù hợp với đội ngũ làm công tác thông tin, đấu tranh trên không gian mạng.
 - **Chủ trì:** Bộ VHTTDL, Bộ Giáo dục và Đào tạo. **Phối hợp:** Bộ Công an, Bộ Nội vụ, UBND các tỉnh, thành phố. **Thời hạn:** từ năm 2027, thường xuyên.
 
+## Điểm nhấn: ứng phó trên Threads và nền tảng thảo luận mới
+
+*Các việc dưới đây cụ thể hóa nhóm 3, 4, 5, 6 đối với Threads; không phát sinh nhóm giải pháp mới.*
+
+| Hướng | Việc cụ thể | Chủ trì | Thời hạn |
+|:----------------|:--------------------------------------------|:--------------------|:------------|
+| 1. Có mặt chủ động | Bộ VHTTDL, báo chí chủ lực, các bộ, ngành, địa phương thường phát sinh vấn đề nóng mở tài khoản chính thức đã xác thực trên Threads; nội dung ngắn, ngôn ngữ đối thoại; phản hồi trực tiếp tại chuỗi thảo luận | Bộ VHTTDL, các cơ quan báo chí | Quý I/2027 |
+| 2. Giám sát chuyên biệt | Đưa Threads vào hệ thống giám sát dùng chung; bổ sung chỉ số riêng cho nền tảng văn bản: tốc độ trích dẫn lại, mức độ ảnh chụp màn hình lan sang nền tảng khác, sự xuất hiện của khẩu hiệu tập thể | Cục Thông tin điện tử và Chuyển đổi số, Bộ Công an | Năm 2027 |
+| 3. Phối hợp với Meta | Kênh ưu tiên xử lý khủng hoảng trên Threads; áp dụng gắn nhãn tin giả theo Nghị định số 328/2026/NĐ-CP; số liệu xử lý riêng cho Threads trong báo cáo định kỳ | Bộ VHTTDL | Quý IV/2026 |
+| 4. Đối thoại với giới trẻ | Mạng lưới chuyên gia, người có ảnh hưởng trẻ, đoàn viên thanh niên tham gia thảo luận bằng thông tin xác thực; tọa đàm trực tuyến về dự án, chính sách giới trẻ quan tâm | Bộ VHTTDL, Đoàn Thanh niên Cộng sản Hồ Chí Minh | Thường xuyên |
+| 5. Ứng xử với ý kiến phản biện | Áp dụng nguyên tắc phân loại phản ứng của dư luận (Phần II, mục 5); ưu tiên đối thoại, cung cấp thông tin; chỉ áp dụng biện pháp kỹ thuật với nội dung vi phạm pháp luật rõ ràng, kèm thông tin giải thích | Các bộ, ngành, địa phương | Áp dụng ngay |
+
 > Câu chốt Phần III: “7 nhóm giải pháp hướng tới 1 mục tiêu: thông tin chính thống luôn có mặt sớm nhất, ở đúng nơi người dân tìm kiếm thông tin.”
 
 # Phần IV. Kiến nghị, đề xuất
@@ -272,6 +327,7 @@ Dự thảo 1, ngày 27/10/2026. Tài liệu làm việc phục vụ tổ biên 
 4. Bố trí nguồn lực đầu tư hệ thống giám sát, cảnh báo sớm dùng chung; cho phép áp dụng cơ chế đặt hàng, thuê dịch vụ công nghệ thông tin, AI.
 5. Đưa tiêu chí chủ động cung cấp thông tin vào bộ chỉ số đánh giá kết quả thực hiện nhiệm vụ hằng năm của các bộ, ngành, địa phương.
 6. Duy trì cơ chế họp báo Chính phủ thường kỳ; tổ chức họp báo đột xuất khi xảy ra khủng hoảng cấp độ 3.
+7. Chỉ đạo các bộ, ngành, địa phương công khai thông tin, lấy ý kiến cộng đồng đối với dự án đầu tư lớn tác động tới môi trường, cảnh quan, di sản trước khi triển khai; người đứng đầu chịu trách nhiệm khi thông tin chính thức thiếu nhất quán.
 
 ## 2. Với các bộ, ngành, địa phương
 
@@ -284,11 +340,11 @@ Dự thảo 1, ngày 27/10/2026. Tài liệu làm việc phục vụ tổ biên 
 | Bộ Giáo dục và Đào tạo | Đưa kỹ năng số, năng lực thông tin vào nhà trường |
 | Bộ Nội vụ | Hướng dẫn tiêu chí đánh giá người đứng đầu gắn với công tác cung cấp thông tin |
 | Văn phòng Chính phủ | Điều phối thông tin chung của Chính phủ; phát huy Báo Điện tử Chính phủ |
-| UBND 34 tỉnh, thành phố | Kiện toàn người phát ngôn, Tổ phản ứng nhanh; vận hành hệ thống thông tin cơ sở; chủ động xử lý khủng hoảng cấp độ 1 và 2 trên địa bàn |
+| UBND 34 tỉnh, thành phố | Kiện toàn người phát ngôn, Tổ phản ứng nhanh; vận hành hệ thống thông tin cơ sở; chủ động xử lý khủng hoảng cấp độ 1 và 2 trên địa bàn; hiện diện, đối thoại trên nền tảng nơi dư luận địa phương khởi phát, kể cả Threads |
 
 ## 3. Phối hợp với các cơ quan của Đảng
 
-Đề nghị tiếp tục phối hợp chặt chẽ với Ban Tuyên giáo và Dân vận Trung ương, Ban Chỉ đạo 35 Trung ương trong định hướng thông tin, đấu tranh phản bác quan điểm sai trái, thù địch, thực hiện Nghị quyết số 35-NQ/TW ngày 22/10/2018 của Bộ Chính trị.
+Đề nghị tiếp tục phối hợp chặt chẽ với Ban Tuyên giáo và Dân vận Trung ương, Ban Chỉ đạo 35 Trung ương trong định hướng thông tin, đấu tranh phản bác quan điểm sai trái, thù địch, thực hiện Nghị quyết số 35-NQ/TW ngày 22/10/2018 của Bộ Chính trị; phối hợp với Mặt trận Tổ quốc Việt Nam, Đoàn Thanh niên Cộng sản Hồ Chí Minh trong đối thoại với giới trẻ trên không gian mạng.
 
 # Kết luận: Cam kết hành động của Bộ VHTTDL
 
@@ -299,6 +355,7 @@ Trong quý IV/2026 và năm 2027, Bộ VHTTDL cam kết:
 3. Thành lập Tổ phản ứng nhanh của Bộ; duy trì đầu mối liên lạc 24/7 với các nền tảng xuyên biên giới.
 4. Tập huấn người phát ngôn của các bộ, ngành, 34 tỉnh, thành phố; chủ trì tổ chức diễn tập cấp quốc gia lần đầu trong năm 2027.
 5. Xác lập số liệu nền và báo cáo Chính phủ hằng quý về tình hình khủng hoảng truyền thông và kết quả xử lý.
+6. Mở tài khoản chính thức của Bộ trên Threads; thí điểm mô hình đối thoại trực tuyến với giới trẻ trong quý I/2027.
 
 > Câu kết gợi ý: “Trên không gian mạng, sự thật chỉ chiến thắng khi đến sớm hơn tin giả. Bộ VHTTDL cam kết cùng các bộ, ngành, địa phương bảo đảm thông tin chính thống luôn đi trước 1 bước, không để đối tượng phản động có khoảng trống để lợi dụng.”
 
@@ -371,6 +428,21 @@ Xin trân trọng cảm ơn đồng chí Thủ tướng Chính phủ và các đ
 - Vụ kẹo rau củ Kera. https://vneconomy.vn/vu-keo-kera-cac-kol-phong-dai-cong-dung-san-pham-de-lua-doi-khach-hang.htm
 - Phim “Mưa đỏ” đạt doanh thu kỷ lục. https://baolaocai.vn/doanh-thu-gan-552-ty-dong-mua-do-chinh-thuc-tro-thanh-phim-an-khach-nhat-moi-thoi-dai-rap-chieu-viet-nam-post881538.html
 
+**Threads và các sự cố năm 2026**
+
+- Lần đầu tiên chặn, gỡ nội dung vi phạm trên mạng xã hội Threads (Tuổi Trẻ, 25/6/2026). https://tuoitre.vn/lan-dau-tien-chan-go-noi-dung-vi-pham-tren-mang-xa-hoi-threads-100260625131951823.htm
+- Threads đạt mốc 500 triệu người dùng hằng tháng (VietnamPlus). https://www.vietnamplus.vn/mang-xa-hoi-threads-dat-moc-500-trieu-nguoi-dung-hang-thang-sau-gan-3-nam-post1117039.vnp
+- Ước tính số người dùng Threads tại Việt Nam (nguồn thị trường, chưa chính thức). https://raccoon.vn/chi-tiet-tin-tuc/thong-ke-so-nguoi-viet-nam-su-dung-mang-xa-hoi-threads-hien-nay-352
+- Facebook, Messenger, Instagram, Threads đồng loạt gián đoạn tại Việt Nam (Phụ nữ Việt Nam, 12/6/2026). https://phunuvietnam.vn/facebook-messenger-instagram-threads-dong-loat-sap-tai-viet-nam-238260612210826749.htm
+- Khởi công dự án Làng Vân dưới chân đèo Hải Vân (Tuổi Trẻ, 22/6/2025). https://tuoitre.vn/vingroup-khoi-cong-du-an-44-000-ti-dong-duoi-chan-deo-hai-van-da-nang-20250622114340955.htm
+- Sở Tài chính Hà Nội: dự án Safari Ba Vì mới là đề xuất của nhà đầu tư (Tuổi Trẻ, 5/10/2026). https://tuoitre.vn/so-tai-chinh-ha-noi-du-an-safari-ba-vi-moi-la-de-xuat-cua-nha-dau-tu-chua-phai-chu-truong-cua-ha-noi-100261005165353826.htm
+- Dự án Safari Ba Vì giảm diện tích từ 580 ha xuống khoảng 300 ha (Dân trí, 5/10/2026). https://dantri.com.vn/thoi-su/du-an-safari-ba-vi-giam-gan-mot-nua-dien-tich-tu-580ha-xuong-khoang-300ha-20261005181057335.htm
+- Bài báo nêu Hà Nội thống nhất chủ trương đầu tư Công viên Safari Ba Vì, khởi công dịp 10/10 (VOV). https://vov.vn/xa-hoi/ha-noi-thong-nhat-chu-truong-dau-tu-cong-vien-safari-ba-vi-khoi-cong-dip-1010-post1338883.vov
+- Gen Z Việt Nam và Threads (Mekong Eye, 26/10/2026). https://www.mekongeye.com/2026/10/26/vietnam-genz-threads
+- Cảnh giác âm mưu lợi dụng biểu tình, bạo loạn ở Indonesia, Nepal để kích động “cách mạng màu” (Báo Lào Cai). https://baolaocai.vn/canh-giac-am-muu-loi-dung-bieu-tinh-bao-loan-o-indonesia-nepal-de-kich-dong-cach-mang-mau-post882057.html
+- Để Gen Z không bị cuốn vào dòng xoáy thông tin gây bất ổn xã hội (Báo Công an nhân dân). https://cand.vn/de-gen-z-khong-bi-cuon-vao-dong-xoay-thong-tin-gay-bat-on-xa-hoi-post820186.html
+- Tin giả trong mùa mưa lũ đặc biệt nguy hiểm (Sức khỏe và Đời sống, 17/9/2026). https://suckhoedoisong.vn/tin-gia-trong-mua-mua-lu-dac-biet-nguy-hiem-co-the-gay-chet-nguoi-169260917101216227.htm
+
 # Phụ lục 5. Thông tin tổ biên tập cần bổ sung, xác minh trước khi hoàn thiện
 
 | Nội dung | Đơn vị cung cấp, xác minh |
@@ -382,3 +454,7 @@ Xin trân trọng cảm ơn đồng chí Thủ tướng Chính phủ và các đ
 | Mô hình tổ chức, cơ quan chủ quản hiện hành của Trung tâm Xử lý tin giả Việt Nam sau sắp xếp | Cục Thông tin điện tử và Chuyển đổi số |
 | Thẩm quyền, cơ quan chủ trì từng bước trong quy trình xử lý tin giả theo Nghị định số 328/2026/NĐ-CP, làm cơ sở phân vai trong Quy chế phối hợp | Vụ Pháp chế, Cục Thông tin điện tử và Chuyển đổi số |
 | Đối chiếu toàn văn các văn bản tại Phụ lục 4 với Công báo, Cơ sở dữ liệu quốc gia về pháp luật | Vụ Pháp chế |
+| Số người dùng Threads tại Việt Nam; số yêu cầu chặn, gỡ và tỷ lệ đáp ứng riêng của Threads năm 2026 | Cục Thông tin điện tử và Chuyển đổi số |
+| Diễn biến trên Threads của vụ Làng Vân (từ giữa tháng 7/2026) và vụ Safari Ba Vì (tháng 10/2026), trong đó có phản ánh của người dùng về việc bài viết không hiển thị tại Việt Nam ngày 17 và 18/10/2026 (thông tin hiện chỉ có từ người dùng và nguồn nước ngoài) | Cục Thông tin điện tử và Chuyển đổi số, phối hợp Bộ Công an |
+| Thông tin chính thức, phản hồi của chính quyền về dự án Làng Vân và đề xuất dự án Safari Ba Vì | UBND thành phố Đà Nẵng, UBND thành phố Hà Nội |
+| Số vụ xử lý tin giả mùa mưa bão năm 2026 có thể nêu làm dẫn chứng | Cục Thông tin điện tử và Chuyển đổi số, phối hợp Bộ Công an |

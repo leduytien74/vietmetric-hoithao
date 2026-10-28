@@ -22,7 +22,7 @@ Dự thảo 3, ngày 28/10/2026. Tài liệu làm việc phục vụ tổ biên 
 
 **Điểm mới của dự thảo 2.** Bổ sung phân tích tác động của Threads, nền tảng khởi phát nhiều làn sóng dư luận năm 2026 (Phần I, mục 6); 5 sự cố mới nhất năm 2026 làm dẫn chứng (Phần II, mục 2); nhóm việc cụ thể ứng phó trên Threads (Phần III); kiến nghị về công khai thông tin dự án đầu tư lớn (Phần IV).
 
-**Điểm mới của dự thảo 3.** Cập nhật căn cứ pháp lý: Nghị định số 244/2026/NĐ-CP thay thế Nghị định số 09/2017/NĐ-CP về phát ngôn, cùng 7 văn bản bổ sung (Phần II, mục 1); số liệu mới nhất về tiếp nhận tin tức và lừa đảo trực tuyến (Mở đầu, Phần I); kinh nghiệm quốc tế (Phần II, mục 6 và Phụ lục 6), lồng ghép vào nhóm giải pháp 2, 3, 4, 6, 7.
+**Điểm mới của dự thảo 3.** Cập nhật căn cứ pháp lý: Nghị định số 244/2026/NĐ-CP thay thế Nghị định số 09/2017/NĐ-CP về phát ngôn, cùng 7 văn bản bổ sung (Phần II, mục 1); số liệu mới nhất về tiếp nhận tin tức và lừa đảo trực tuyến (Mở đầu, Phần I); kinh nghiệm quốc tế (Phần II, mục 6 và Phụ lục 6), trong đó có 6 kinh nghiệm liên quan Threads, lồng ghép vào nhóm giải pháp 2, 3, 4, 6, 7 và phần ứng phó trên Threads.
 
 **Thông điệp chính.** Đối tượng phản động hiếm khi tự tạo ra khủng hoảng; phần lớn trường hợp, đối tượng lấp vào “khoảng trống thông tin” do thông tin chính thống đến chậm, thiếu hoặc thiếu nhất quán. Giải pháp gốc là lấp đầy khoảng trống đó bằng sự thật, ngay trong “giờ vàng”.
 
@@ -244,6 +244,7 @@ Dự thảo 3, ngày 28/10/2026. Tài liệu làm việc phục vụ tổ biên 
 5. **Cảnh báo về chặn diện rộng (Nepal).** Lệnh chặn 26 nền tảng mạng xã hội đầu tháng 9/2025 trở thành ngòi nổ cho làn sóng biểu tình của giới trẻ; chính quyền phải dỡ lệnh chặn chỉ vài ngày sau, Thủ tướng từ chức ngày 9/9/2025.
 6. **Cơ quan chuyên trách, bằng chứng công khai (Pháp, Thụy Điển).** Pháp lập cơ quan VIGINUM (2021), công bố báo cáo về 43 chiến dịch thao túng thông tin nhắm vào Thế vận hội Paris 2024; Thụy Điển lập Cơ quan Phòng vệ tâm lý (2022). Báo cáo bằng chứng công khai làm tăng tính chính danh của biện pháp xử lý.
 7. **Đầu tư dài hạn cho “sức đề kháng” (Phần Lan, nghiên cứu “tiêm chủng thông tin”).** Phần Lan đưa giáo dục năng lực truyền thông vào chương trình từ mầm non; nghiên cứu đăng trên Science Advances (2022), gồm 6 thí nghiệm có đối chứng với 6.464 người và 1 thử nghiệm thực địa trên YouTube, cho thấy video ngắn giới thiệu thủ đoạn thao túng giúp người xem nhận diện thủ đoạn và phân biệt nội dung đáng tin tốt hơn. Trong thử nghiệm thực địa, video quảng cáo hiển thị cho khoảng 5,4 triệu người dùng trong 15 ngày; trong số 22.632 người trả lời câu hỏi kiểm tra, khả năng nhận diện thủ đoạn tăng trung bình khoảng 5%; chi phí trung bình khoảng 0,05 USD mỗi lượt xem.
+8. **Kinh nghiệm liên quan Threads (Úc, Malaysia, Meta).** Úc đưa Threads vào danh sách nền tảng phải thực hiện quy định cấm tài khoản người dưới 16 tuổi từ tháng 12/2025; Malaysia phối hợp cảnh sát và Meta truy tìm chủ tài khoản phát tán video xúc phạm tôn giáo trên Threads (3/2026); năm 2025, Meta chấm dứt chương trình kiểm chứng thông tin của bên thứ 3 tại Mỹ trên cả Facebook, Instagram và Threads, chuyển sang ghi chú cộng đồng. Đến nay chưa có quốc gia nào công bố kinh nghiệm dùng Threads làm kênh xử lý khủng hoảng kèm đánh giá kết quả.
 
 *Chi tiết, số liệu, nguồn tại Phụ lục 6. Gợi ý khi trình bày: chỉ nêu 1 câu, ví dụ “Kinh nghiệm của Trung Quốc, Singapore, Anh cho thấy: cần lượng hóa thời hạn phản hồi, cải chính hiệu quả hơn chỉ gỡ bỏ, và im lặng vì thủ tục là rủi ro lớn nhất”.*
 
@@ -336,9 +337,11 @@ Dự thảo 3, ngày 28/10/2026. Tài liệu làm việc phục vụ tổ biên 
 |:----------------|:--------------------------------------------|:--------------------|:------------|
 | 1. Có mặt chủ động | Bộ VHTTDL, báo chí chủ lực, các bộ, ngành, địa phương thường phát sinh vấn đề nóng mở tài khoản chính thức đã xác thực trên Threads; nội dung ngắn, ngôn ngữ đối thoại; phản hồi trực tiếp tại chuỗi thảo luận | Bộ VHTTDL, các cơ quan báo chí | Quý I/2027 |
 | 2. Giám sát chuyên biệt | Đưa Threads vào hệ thống giám sát dùng chung; bổ sung chỉ số riêng cho nền tảng văn bản: tốc độ trích dẫn lại, mức độ ảnh chụp màn hình lan sang nền tảng khác, sự xuất hiện của khẩu hiệu tập thể | Cục Thông tin điện tử và Chuyển đổi số, Bộ Công an | Năm 2027 |
-| 3. Phối hợp với Meta | Kênh ưu tiên xử lý khủng hoảng trên Threads; áp dụng gắn nhãn tin giả theo Nghị định số 328/2026/NĐ-CP; số liệu xử lý riêng cho Threads trong báo cáo định kỳ | Bộ VHTTDL | Quý IV/2026 |
+| 3. Phối hợp với Meta | Kênh ưu tiên xử lý khủng hoảng trên Threads; áp dụng gắn nhãn tin giả theo Nghị định số 328/2026/NĐ-CP; số liệu xử lý riêng cho Threads trong báo cáo định kỳ; theo dõi thay đổi chính sách kiểm chứng thông tin của Meta (năm 2025, Meta chấm dứt kiểm chứng của bên thứ 3 tại Mỹ) | Bộ VHTTDL | Quý IV/2026 |
 | 4. Đối thoại với giới trẻ | Mạng lưới chuyên gia, người có ảnh hưởng trẻ, đoàn viên thanh niên tham gia thảo luận bằng thông tin xác thực; tọa đàm trực tuyến về dự án, chính sách giới trẻ quan tâm | Bộ VHTTDL, Đoàn Thanh niên Cộng sản Hồ Chí Minh | Thường xuyên |
 | 5. Ứng xử với ý kiến phản biện | Áp dụng nguyên tắc phân loại phản ứng của dư luận (Phần II, mục 5); ưu tiên đối thoại, cung cấp thông tin; chỉ áp dụng biện pháp kỹ thuật với nội dung vi phạm pháp luật rõ ràng, kèm thông tin giải thích | Các bộ, ngành, địa phương | Áp dụng ngay |
+| 6. Danh mục nền tảng mở | Văn bản quản lý dùng danh mục nền tảng cập nhật được, tự động bao gồm nền tảng mới như Threads, thay vì chỉ nêu tên Facebook, YouTube, TikTok (tham khảo Úc) | Bộ VHTTDL | Quý I/2027 |
+| 7. Phối hợp 3 bên, lưu chứng cứ | Cơ quan quản lý, công an, nền tảng phối hợp xác định chủ tài khoản phát tán nội dung vi phạm; lưu chứng cứ số trước khi gỡ bỏ; cảnh báo công khai cả người chia sẻ lại (tham khảo Malaysia) | Bộ Công an, Bộ VHTTDL | Áp dụng ngay |
 
 > Câu chốt Phần III: “7 nhóm giải pháp hướng tới 1 mục tiêu: thông tin chính thống luôn có mặt sớm nhất, ở đúng nơi người dân tìm kiếm thông tin.”
 
@@ -506,12 +509,25 @@ Xin trân trọng cảm ơn đồng chí Thủ tướng Chính phủ và các đ
 | Trung Quốc | Văn bản của Văn phòng Quốc vụ viện tháng 8/2016: họp báo chậm nhất 24 giờ với sự kiện đột xuất nghiêm trọng, phản hồi dư luận khác trong 48 giờ; văn bản tháng 11/2016 (nay đã hết hiệu lực): công bố thông tin chính thức chậm nhất 5 giờ, họp báo trong 24 giờ (đã đối chiếu văn bản gốc); nền tảng bác bỏ tin đồn Internet liên hợp (từ 8/2018), tích hợp hơn 40 nền tảng địa phương | Sau 2 năm, nền tảng tiếp nhận hơn 30.000 manh mối, đăng hơn 9.000 bài bác bỏ (8/2020) | Cao: thể chế tương đồng; đề xuất 3, 6, 24 giờ của đề cương chặt hơn chuẩn 5 và 24 giờ |
 | Singapore | Luật POFMA (10/2019): lệnh cải chính đính kèm bài gốc, lệnh cải chính nhắm mục tiêu qua nền tảng, trang giải thích Factually; kênh WhatsApp Gov.sg; Ủy ban An toàn trực tuyến hoạt động từ 29/6/2026 | Đến 1/7/2026: 92 vụ, 146 lệnh cải chính, 39 lệnh cải chính nhắm mục tiêu, 5 lệnh chặn truy cập; kênh WhatsApp Gov.sg tăng từ khoảng 7.000 lên hơn 900.000 thuê bao trong 10 tuần đầu dịch COVID-19 | Cao: chi phí thấp, ít phản ứng ngược; cần tiêu chí công khai |
 | Liên minh châu Âu | Đạo luật Dịch vụ số: nghĩa vụ đánh giá rủi ro hệ thống của nền tảng rất lớn, cơ chế ứng phó khủng hoảng (Điều 36), phạt tối đa 6% doanh thu toàn cầu; Lá chắn Dân chủ châu Âu (11/2025) | Phạt X 120 triệu euro (5/12/2025), quyết định xử phạt đầu tiên theo Đạo luật; chưa ghi nhận lần kích hoạt Điều 36 | Trung bình: hướng đúng nhưng khó tái lập sức mặc cả của thị trường 27 nước |
-| Anh | Bộ công cụ RESIST 2 (6 bước: nhận diện, cảnh báo sớm, nắm tình hình, đánh giá tác động, truyền thông chiến lược, theo dõi hiệu quả); Online Safety Act 2023 | Vụ Southport (29/7/2024): tin sai về danh tính nghi phạm xuất hiện ngay trong ngày, bạo loạn từ 30/7; cảnh sát bắt giữ hơn 1.700 người (đến 12/2024); có bị cáo nhận án tù chỉ 1 ngày sau bài đăng kích động; Ủy ban Nội vụ Hạ viện (4/2025) kết luận hạn chế công bố đã tạo khoảng trống thông tin | Cao: khớp quy trình “giờ vàng” |
+| Anh | Bộ công cụ RESIST 3 (công bố 29/10/2025, thay RESIST 2 năm 2021; 6 bước: nhận diện, cảnh báo sớm, nắm tình hình, đánh giá tác động, truyền thông chiến lược, theo dõi hiệu quả); Online Safety Act 2023 | Vụ Southport (29/7/2024): tin sai về danh tính nghi phạm xuất hiện ngay trong ngày, bạo loạn từ 30/7; cảnh sát bắt giữ hơn 1.700 người (đến 12/2024); có bị cáo nhận án tù chỉ 1 ngày sau bài đăng kích động; Ủy ban Nội vụ Hạ viện (4/2025) kết luận hạn chế công bố đã tạo khoảng trống thông tin | Cao: khớp quy trình “giờ vàng” |
 | Nepal | Chặn 26 nền tảng mạng xã hội chưa đăng ký (đầu tháng 9/2025; các nguồn ghi ngày 4 hoặc 5/9) | Biểu tình của giới trẻ ngày 8/9/2025, 19 người chết ngay trong ngày; chính quyền dỡ lệnh chặn; Thủ tướng từ chức ngày 9/9 | Cao, dưới dạng bài học cảnh báo |
 | Pháp, Thụy Điển, Phần Lan | Cơ quan VIGINUM (2021) phát hiện can thiệp số từ nước ngoài; Cơ quan Phòng vệ tâm lý Thụy Điển (2022); Phần Lan lồng ghép giáo dục năng lực truyền thông từ mầm non đến trung học | VIGINUM phát hiện 43 chiến dịch nhắm vào Thế vận hội Paris 2024; Phần Lan đứng đầu Chỉ số năng lực truyền thông châu Âu năm 2023 (74/100 điểm, lần thứ 6 liên tiếp) | Trung bình: cần nhiều chuyên gia; hiệu quả dài hạn |
 | Nghiên cứu “tiêm chủng thông tin”, WHO | Video 90 giây giới thiệu thủ đoạn thao túng; khung năng lực quản lý “đại dịch thông tin” của WHO (2021) | Science Advances (2022): 6 thí nghiệm có đối chứng (6.464 người); thử nghiệm thực địa trên YouTube hiển thị video cho khoảng 5,4 triệu người trong 15 ngày, 22.632 người trả lời câu hỏi kiểm tra; khả năng nhận diện thủ đoạn tăng trung bình khoảng 5%, chi phí trung bình khoảng 0,05 USD mỗi lượt xem (đã đối chiếu toàn văn) | Cao: rẻ, không cần gỡ bài; hiệu ứng khiêm tốn nên cần lặp lại |
 
-*Ghi chú: đã đối chiếu văn bản gốc đối với mốc 5 giờ, 24 giờ của Trung Quốc và số liệu nghiên cứu trên Science Advances; các số liệu còn lại tổng hợp qua tìm kiếm, tổ biên tập mở từng nguồn để đối chiếu trước khi sử dụng. Không có tài liệu quốc tế riêng về ứng phó trên Threads.*
+*Ghi chú: đã đối chiếu văn bản gốc đối với mốc 5 giờ, 24 giờ của Trung Quốc và số liệu nghiên cứu trên Science Advances; các số liệu còn lại tổng hợp qua tìm kiếm, tổ biên tập mở từng nguồn để đối chiếu trước khi sử dụng. Kinh nghiệm riêng về Threads trình bày tại bảng dưới.*
+
+**Kinh nghiệm quốc tế liên quan Threads**
+
+| Nơi, thời gian | Kinh nghiệm | Bài học cho Việt Nam | Mức kiểm chứng |
+|:--------------|:--------------------------------|:--------------------------|:----------------|
+| Úc, 12/2025 | Threads nằm trong danh sách nền tảng phải cấm tài khoản người dưới 16 tuổi, cùng Facebook, Instagram, TikTok, X, YouTube; từ 4/12/2025, Threads ngừng cho người dưới 16 tuổi ở Úc dùng tài khoản; luật có hiệu lực 10/12/2025, khoảng 5 triệu tài khoản trên các nền tảng ngừng hoạt động | Văn bản quản lý cần danh mục nền tảng mở, cập nhật được; Việt Nam đến năm 2026 mới đưa Threads vào cơ chế chặn, gỡ | Trung bình: tóm tắt tìm kiếm trích trang của cơ quan Úc; trang gốc không truy cập được |
+| Meta, 1/2025 | Meta chấm dứt chương trình kiểm chứng thông tin của bên thứ 3 tại Mỹ, chuyển sang ghi chú cộng đồng trên Facebook, Instagram, Threads; ghi chú cộng đồng không làm giảm mức lan truyền của bài viết | Không thể dựa vào cơ chế kiểm chứng của nền tảng; cần cơ chế gắn nhãn tin giả quốc gia theo Nghị định số 328/2026/NĐ-CP; theo dõi việc Meta áp dụng thay đổi ngoài nước Mỹ | Cao: đã đọc thông báo gốc của Meta |
+| Meta, 2/2024 | Meta ngừng chủ động đề xuất nội dung chính trị từ tài khoản người dùng không theo dõi, trên Threads và Instagram | Thuật toán đề xuất quyết định mức lan tỏa; đối thoại với Meta về ưu tiên hiển thị thông tin chính thống khi có khủng hoảng | Trung bình: nhiều báo Mỹ đưa tin thống nhất; chưa xác minh chính sách năm 2025 |
+| Malaysia, 11/3/2026 | Video xúc phạm tôn giáo lan trên Threads và Facebook; cơ quan quản lý truyền thông (MCMC) phối hợp cảnh sát và Meta xác định chủ tài khoản dù tài khoản đã xóa, lưu giữ tài liệu làm chứng cứ, cảnh báo người chia sẻ lại | Quy trình 3 bên: cơ quan quản lý, công an, nền tảng; lưu chứng cứ số trước khi gỡ | Khá: đã đọc trang theo dõi chính sách Digital Policy Alert; chưa đọc thông cáo gốc của MCMC |
+| Meta, quy trình theo luật sở tại | Khi chính phủ yêu cầu hạn chế nội dung trên Facebook, Instagram hoặc Threads vì vi phạm luật nước đó, Meta chỉ hạn chế hiển thị tại nước đó, xem xét pháp lý trước, có thể từ chối yêu cầu quá rộng, công bố số liệu 6 tháng 1 lần | Nội dung hạn chế tại Việt Nam vẫn hiển thị ở nước ngoài, và Meta sẽ công bố số yêu cầu; cần chủ động công bố căn cứ khi hạn chế hiển thị | Trung bình: tóm tắt tìm kiếm trích trang Meta; trang gốc cần JavaScript nên chưa đọc được |
+| Thổ Nhĩ Kỳ, 18/3/2024 | Cơ quan cạnh tranh ra biện pháp tạm thời hạn chế chia sẻ dữ liệu giữa Instagram và Threads | Quản lý Threads còn có các công cụ về dữ liệu, cạnh tranh, không chỉ quản lý nội dung | Cao: đã đọc bản tin gốc của Reuters |
+
+*Chưa tìm thấy: trường hợp chính phủ dùng Threads làm kênh xử lý khủng hoảng kèm đánh giá kết quả; nghiên cứu khoa học về tin giả trên Threads trong thảm họa, bầu cử. Tham khảo thêm: năm 2023, Threads chặn một số từ khóa tìm kiếm nhạy cảm như “covid”, các nhà nghiên cứu cảnh báo cách làm này tạo khoảng trống thông tin (báo chí Mỹ, chưa kiểm chứng sâu).*
 
 **Nguồn tham khảo (ưu tiên văn bản gốc, file PDF)**
 
@@ -536,7 +552,7 @@ Xin trân trọng cảm ơn đồng chí Thủ tướng Chính phủ và các đ
 
 *Anh*
 
-- Bộ công cụ RESIST 2 (PDF). https://gcs.civilservice.gov.uk/wp-content/uploads/2021/11/RESIST-2-counter-disinformation-toolkit.pdf
+- Bộ công cụ RESIST 3, công bố 29/10/2025 (toàn văn trên trang web). https://www.communications.gov.uk/publications/resist-3-building-resilience-to-information-threats
 - Giao thức ứng phó khủng hoảng của Ofcom, 9/6/2026 (trang văn bản và PDF). https://www.ofcom.org.uk/online-safety/illegal-and-harmful-content/statement-crisis-response-protocol ; https://www.ofcom.org.uk/siteassets/resources/documents/online-safety/protecting-children/illegal-harms/crisis-response-protocol-online-safety-additional-safety-measures.pdf
 - Ủy ban Nội vụ Hạ viện Anh về bạo loạn năm 2024. https://committees.parliament.uk/committee/83/home-affairs-committee/news/206380/
 
@@ -555,3 +571,12 @@ Xin trân trọng cảm ơn đồng chí Thủ tướng Chính phủ và các đ
 
 - Roozenbeek và cộng sự, Science Advances, 2022 (bản toàn văn miễn phí). https://pmc.ncbi.nlm.nih.gov/articles/PMC9401631 ; https://doi.org/10.1126/sciadv.abo6254
 - WHO, khung năng lực quản lý “đại dịch thông tin” (2021). https://www.who.int/publications/i/item/9789240035287
+
+*Threads*
+
+- Thông báo của Meta về chấm dứt kiểm chứng của bên thứ 3 tại Mỹ, 7/1/2025. https://about.fb.com/news/2025/01/meta-more-speech-fewer-mistakes/
+- Hướng dẫn về Threads của cơ quan An toàn điện tử Úc. https://www.esafety.gov.au/key-topics/esafety-guide/threads
+- Malaysia điều tra nội dung xúc phạm tôn giáo trên Threads và Facebook, 11/3/2026. https://digitalpolicyalert.org/event/38576-malaysian-communications-and-multimedia-commission-initiates-investigation-into-meta-platforms-regarding-content-insulting-islam
+- Thổ Nhĩ Kỳ hạn chế chia sẻ dữ liệu giữa Instagram và Threads (Reuters), 18/3/2024. https://www.thestar.com.my/tech/tech-news/2024/03/18/turkey-takes-measure-against-meta-over-threads-instagram-data-sharing
+- Meta ngừng đề xuất nội dung chính trị trên Threads (Axios), 9/2/2024. https://www.axios.com/2024/02/09/meta-political-content-moderation-threads
+- Quy trình hạn chế nội dung theo luật sở tại của Meta. https://transparency.meta.com/reports/content-restrictions

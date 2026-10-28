@@ -13,7 +13,7 @@ Tác giả: Vietmetric
 :::
 
 ::: {custom-style=ThongTinChung}
-Dự thảo 1, ngày 28/10/2026, xây dựng trên đề cương dự thảo 8. Bài nói khoảng 2.350 từ theo cách đếm của Word, đọc trong khoảng 12 phút ở tốc độ 190 đến 200 từ mỗi phút. Ghi chú cho tổ biên tập ở cuối tài liệu, không đọc tại hội nghị.
+Dự thảo 2, ngày 28/10/2026, xây dựng trên đề cương dự thảo 9. Bài nói khoảng 2.350 từ theo cách đếm của Word, đọc trong khoảng 12 phút ở tốc độ 190 đến 200 từ mỗi phút. Ghi chú cho tổ biên tập ở cuối tài liệu, không đọc tại hội nghị.
 :::
 
 **Kính thưa đồng chí Thủ tướng Chính phủ!**
@@ -26,7 +26,7 @@ Trong môi trường số, 1 sự cố nhỏ có thể trở thành vấn đề 
 
 Việt Nam hiện có khoảng 85,6 triệu người dùng Internet, tương đương 84,2% dân số. Năm 2026, năm đầu triển khai Nghị quyết Đại hội XIV của Đảng, nhiều chính sách lớn đi vào cuộc sống; chính quyền địa phương 2 cấp bắt đầu vận hành. Thay đổi lớn luôn kéo theo nhu cầu thông tin lớn, và đây cũng là lúc các đối tượng xấu tìm cách xuyên tạc, kích động.
 
-Từ ngày 1/3/2025, Bộ Văn hóa, Thể thao và Du lịch tiếp nhận chức năng quản lý nhà nước về báo chí, phát thanh, truyền hình, thông tin điện tử, thông tin cơ sở và thông tin đối ngoại. Bộ xác định rõ trách nhiệm của cơ quan đầu mối giúp Chính phủ phòng ngừa, xử lý khủng hoảng truyền thông. Thay mặt Bộ, tôi xin tham luận 4 nội dung.
+Theo Nghị định số 298/2026/NĐ-CP, Bộ Văn hóa, Thể thao và Du lịch quản lý nhà nước về báo chí, thông tin điện tử, thông tin cơ sở và thông tin đối ngoại. Bộ xác định rõ trách nhiệm của cơ quan đầu mối giúp Chính phủ phòng ngừa, xử lý khủng hoảng truyền thông. Thay mặt Bộ, tôi xin tham luận 4 nội dung.
 
 # I. Nhận diện khủng hoảng truyền thông và thủ đoạn lợi dụng
 
@@ -42,7 +42,7 @@ Từ ngày 1/3/2025, Bộ Văn hóa, Thể thao và Du lịch tiếp nhận ch�
 
 # II. Kết quả, hạn chế và bài học
 
-**Về kết quả.** Thể chế hoàn thiện nhanh, đồng bộ hơn. Luật Báo chí, Luật An ninh mạng năm 2025, Luật Trí tuệ nhân tạo đã có hiệu lực. Nghị định số 244/2026/NĐ-CP về phát ngôn lần đầu nêu mục tiêu “hạn chế xảy ra khủng hoảng truyền thông”, quy định thông tin ban đầu chậm nhất 24 giờ. Nghị định số 328/2026/NĐ-CP thiết lập quy trình kiểm chứng, gắn nhãn, xử lý tin giả.
+**Về kết quả.** Thể chế hoàn thiện nhanh, đồng bộ hơn. Luật Báo chí, Luật An ninh mạng năm 2025, Luật Trí tuệ nhân tạo đã có hiệu lực. Nghị định số 244/2026/NĐ-CP về phát ngôn nêu mục tiêu “hạn chế xảy ra khủng hoảng truyền thông”, quy định thông tin ban đầu chậm nhất 24 giờ. Nghị định số 328/2026/NĐ-CP thiết lập quy trình kiểm chứng, gắn nhãn, xử lý tin giả.
 
 Quản lý nền tảng xuyên biên giới chuyển biến rõ: 6 tháng đầu năm 2026, tỷ lệ đáp ứng yêu cầu chặn, gỡ thông tin vi phạm của các nền tảng lớn đạt trên 94%; năm nay, Meta lần đầu xử lý yêu cầu chặn, gỡ nội dung vi phạm trên Threads theo yêu cầu của Việt Nam. Tác phẩm văn hóa chất lượng tạo “sức đề kháng” tự nhiên: phim “Mưa đỏ” có doanh thu cao nhất lịch sử phòng vé Việt Nam, đưa giá trị lịch sử tới đông đảo người trẻ. Trong mùa mưa lũ năm nay, cơ quan chức năng đã xử phạt người đăng video cắt ghép tin “vỡ đê” và công khai kết quả để răn đe.
 
@@ -51,7 +51,7 @@ Quản lý nền tảng xuyên biên giới chuyển biến rõ: 6 tháng đầu
 - **Phát hiện sớm còn chậm.** Dữ liệu giám sát phân tán; chưa có hệ thống dùng chung và bộ tiêu chí cảnh báo thống nhất; nhiều nơi chỉ vào cuộc khi vụ việc đã lên xu hướng.
 - **Phản ứng chậm, thiếu nhất quán.** Một số nơi còn tâm lý “chờ đủ thông tin mới nói”. Tháng 10 vừa qua, với 1 đề xuất dự án du lịch quy mô lớn tại Hà Nội, thông tin ban đầu trên báo chí và của cơ quan chuyên môn không thống nhất, tạo khoảng trống cho nghi ngại.
 - **Phối hợp liên ngành chưa thành quy trình.** Chưa có quy định phân cấp độ khủng hoảng; chưa rõ cơ quan chủ trì với vụ việc liên ngành, liên vùng.
-- **Chế tài với nền tảng còn nhẹ.** Nền tảng không gỡ bỏ thông tin vi phạm theo yêu cầu chỉ chịu phạt từ 30 đến 50 triệu đồng. Thời hạn rút ngắn còn 6 giờ trong tình huống khẩn cấp mới áp dụng với yêu cầu của lực lượng chuyên trách thuộc Bộ Công an, chưa áp dụng với yêu cầu của Bộ Văn hóa, Thể thao và Du lịch.
+- **Chế tài với nền tảng còn nhẹ.** Nền tảng không gỡ bỏ thông tin vi phạm theo yêu cầu chỉ chịu phạt từ 30 đến 50 triệu đồng. Thời hạn rút ngắn còn 6 giờ trong tình huống khẩn cấp hiện gắn với yêu cầu của lực lượng chuyên trách thuộc Bộ Công an đối với nhà cung cấp dịch vụ; yêu cầu của Bộ Văn hóa, Thể thao và Du lịch theo Nghị định số 147/2024/NĐ-CP vẫn chỉ có mốc 24 giờ.
 
 Nguyên nhân chủ yếu thuộc về chủ quan: một số người đứng đầu chưa coi thông tin chính sách là 1 phần của công việc điều hành; đội ngũ phát ngôn, nhất là ở cấp xã, còn thiếu đào tạo bài bản.
 
@@ -112,12 +112,14 @@ Xin trân trọng cảm ơn đồng chí Thủ tướng Chính phủ và các đ
 - Bài nói không nêu tên dự án Làng Vân (Đà Nẵng) và đề xuất dự án Safari Ba Vì (Hà Nội), chỉ nêu “1 đề xuất dự án du lịch quy mô lớn tại Hà Nội”. Nếu lãnh đạo Bộ muốn nêu tên, tổ biên tập trao đổi trước với UBND thành phố Hà Nội.
 - Bài nói không dùng các dữ kiện chưa xác minh: số người dùng Threads tại Việt Nam (chỉ có ước tính thị trường); số liệu của Meta về hạn chế nội dung tại Việt Nam (chênh lệch với số liệu của Cục, chờ Cục giải thích); phản ánh của người dùng về việc bài viết không hiển thị trên Threads; diễn biến do Mekong Eye đưa tin mà chưa có nguồn trong nước xác nhận.
 - Bài nói nêu các mốc 3 giờ, 6 giờ, 24 giờ và 3 cấp độ khủng hoảng là đề xuất của Bộ (Phụ lục 1 của đề cương), không phải quy định hiện hành.
+- Bài nói không nêu mốc “từ 1/3/2025” Bộ tiếp nhận chức năng, vì mốc này thuộc Nghị định số 43/2025/NĐ-CP chưa có bản gốc để đối chiếu; bài nói dẫn Nghị định số 298/2026/NĐ-CP (đã đọc toàn văn).
+- Bài nói bỏ chữ “lần đầu” trước mục tiêu “hạn chế xảy ra khủng hoảng truyền thông” của Nghị định số 244/2026/NĐ-CP, vì chưa đối chiếu Nghị định số 09/2017/NĐ-CP.
 
 **2. Việc cần làm trước khi trình.**
 
 - Cục Thông tin điện tử và Chuyển đổi số cập nhật tỷ lệ đáp ứng yêu cầu chặn, gỡ của 9 tháng năm 2026, thay số liệu 6 tháng.
 - Văn phòng Bộ, Cục Báo chí bổ sung, nếu có, 1 vụ việc năm 2026 thuộc lĩnh vực văn hóa, thể thao, du lịch do Bộ xử lý thành công vào phần kết quả (Phần II).
-- Vụ Pháp chế xác nhận cách diễn đạt về thời hạn 6 giờ (Điều 25 Luật An ninh mạng năm 2025) và hướng sửa Nghị định số 147/2024/NĐ-CP.
+- Vụ Pháp chế xác nhận 2 điểm: (1) cách diễn đạt về thời hạn 6 giờ, vì Nghị định số 327/2026/NĐ-CP (Điều 3, Điều 10) áp nghĩa vụ gỡ của người đăng tải khi có yêu cầu của lực lượng chuyên trách và cơ quan có thẩm quyền, trong khi Luật An ninh mạng năm 2025 (Điều 14 khoản 4, Điều 25 khoản 2) chỉ nêu lực lượng chuyên trách thuộc Bộ Công an; (2) hướng sửa Nghị định số 147/2024/NĐ-CP, vì Nghị định này còn dẫn Điều 8 Luật An ninh mạng năm 2018 và tên Bộ Thông tin và Truyền thông.
 - Đếm thời lượng khi tập đọc; nếu vượt 12 phút, rút gọn Nhóm 5 và Nhóm 7 trước, giữ nguyên 3 giải pháp đột phá.
 
 **3. Bảng đối chiếu dữ kiện.** Mức tin cậy: A, đã đối chiếu bản gốc; B, nhiều nguồn chính thức thống nhất; C, 1 nguồn báo chí đã đọc; D, phản ánh của người dùng hoặc nguồn nước ngoài; E, đề xuất của tổ soạn thảo.
@@ -125,20 +127,20 @@ Xin trân trọng cảm ơn đồng chí Thủ tướng Chính phủ và các đ
 | Dữ kiện trong bài nói | Nguồn | Mức |
 |:----------------------------|:-----------------------------------------|:--------:|
 | 85,6 triệu người dùng Internet, 84,2% dân số | DataReportal, Digital 2026: Vietnam. https://datareportal.com/reports/digital-2026-vietnam | A |
-| Bộ tiếp nhận chức năng quản lý báo chí, thông tin từ 1/3/2025 | Đề cương dự thảo 8, Mở đầu, mục 3; Nghị định số 298/2026/NĐ-CP. https://congbao.chinhphu.vn/van-ban/nghi-dinh-so-298-2026-nd-cp-470179.htm | B |
+| Bộ quản lý nhà nước về báo chí, thông tin điện tử, thông tin cơ sở, thông tin đối ngoại | Nghị định số 298/2026/NĐ-CP, Điều 1, Điều 5 (đã đọc toàn văn). https://congbao.chinhphu.vn/van-ban/nghi-dinh-so-298-2026-nd-cp-470179.htm | A |
 | Tổ chức khủng bố Việt Tân kêu gọi “cách mạng GenZ cho Việt Nam” (9/2025) | Báo Lào Cai, 14/9/2025. https://baolaocai.vn/canh-giac-am-muu-loi-dung-bieu-tinh-bao-loan-o-indonesia-nepal-de-kich-dong-cach-mang-mau-post882057.html | C |
 | Nhiều làn sóng tranh luận năm 2026 bắt đầu trên Threads | Mekong Eye, 26/10/2026; Báo Công an nhân dân, 23/8/2026. https://www.mekongeye.com/2026/10/26/vietnam-genz-threads ; https://cand.vn/de-gen-z-khong-bi-cuon-vao-dong-xoay-thong-tin-gay-bat-on-xa-hoi-post820186.html | C |
-| Nghị định số 244/2026/NĐ-CP: mục tiêu “hạn chế xảy ra khủng hoảng truyền thông”, 24 giờ, 1 đầu mối | Công báo. https://congbao.chinhphu.vn/van-ban/nghi-dinh-so-244-2026-nd-cp-469890.htm | A |
-| Nghị định số 328/2026/NĐ-CP: quy trình phát hiện, kiểm chứng, gắn nhãn, xử lý tin giả | Công báo. https://congbao.chinhphu.vn/van-ban/nghi-dinh-so-328-2026-nd-cp-470333.htm | A |
+| Nghị định số 244/2026/NĐ-CP: mục tiêu “hạn chế xảy ra khủng hoảng truyền thông”, 24 giờ, 1 đầu mối | Điều 7 khoản 2, 3, 4 (đã đọc toàn văn). https://congbao.chinhphu.vn/van-ban/nghi-dinh-so-244-2026-nd-cp-469890.htm | A |
+| Nghị định số 328/2026/NĐ-CP: quy trình phát hiện, kiểm chứng, gắn nhãn, xử lý tin giả | Điều 8, 10, 11 (đã đọc toàn văn). https://congbao.chinhphu.vn/van-ban/nghi-dinh-so-328-2026-nd-cp-470333.htm | A |
 | Tỷ lệ đáp ứng yêu cầu chặn, gỡ trên 94%, 6 tháng đầu năm 2026 | Sài Gòn Giải Phóng dẫn Bộ VHTTDL. https://www.sggp.org.vn/go-bo-hon-94-noi-dung-xau-doc-tren-nen-tang-xuyen-bien-gioi-post858921.html | C |
 | Năm 2026, lần đầu Meta xử lý yêu cầu chặn, gỡ trên Threads | Tuổi Trẻ, 25/6/2026. https://tuoitre.vn/lan-dau-tien-chan-go-noi-dung-vi-pham-tren-mang-xa-hoi-threads-100260625131951823.htm | C |
 | Phim “Mưa đỏ” có doanh thu cao nhất lịch sử phòng vé Việt Nam | Báo Lào Cai. https://baolaocai.vn/doanh-thu-gan-552-ty-dong-mua-do-chinh-thuc-tro-thanh-phim-an-khach-nhat-moi-thoi-dai-rap-chieu-viet-nam-post881538.html | C |
 | Hà Tĩnh xử phạt người đăng video cắt ghép “vỡ đê” | Sức khỏe và Đời sống, 17/9/2026. https://suckhoedoisong.vn/tin-gia-trong-mua-mua-lu-dac-biet-nguy-hiem-co-the-gay-chet-nguoi-169260917101216227.htm | C |
 | Đề xuất dự án du lịch tại Hà Nội: thông tin ban đầu thiếu nhất quán | Tuổi Trẻ, Dân trí, 5/10/2026; VOV. https://tuoitre.vn/so-tai-chinh-ha-noi-du-an-safari-ba-vi-moi-la-de-xuat-cua-nha-dau-tu-chua-phai-chu-truong-cua-ha-noi-100261005165353826.htm ; https://dantri.com.vn/thoi-su/du-an-safari-ba-vi-giam-gan-mot-nua-dien-tich-tu-580ha-xuong-khoang-300ha-20261005181057335.htm | B |
-| Nền tảng không gỡ bỏ theo yêu cầu chịu phạt từ 30 đến 50 triệu đồng | Điều 97 Nghị định số 174/2026/NĐ-CP. https://congbao.chinhphu.vn/van-ban/nghi-dinh-so-174-2026-nd-cp-469616.htm | A |
-| Thời hạn 6 giờ chỉ áp dụng với yêu cầu của lực lượng chuyên trách thuộc Bộ Công an | Điều 25 Luật An ninh mạng năm 2025; Điều 23 Nghị định số 147/2024/NĐ-CP. https://congbao.chinhphu.vn/van-ban/luat-so-116-2025-qh15-468678.htm ; https://congbao.chinhphu.vn/van-ban/nghi-dinh-so-147-2024-nd-cp-43155.htm | A |
+| Nền tảng không gỡ bỏ theo yêu cầu chịu phạt từ 30 đến 50 triệu đồng | Điều 94 khoản 2, Điều 97 khoản 2 Nghị định số 174/2026/NĐ-CP (đã đọc toàn văn). https://congbao.chinhphu.vn/van-ban/nghi-dinh-so-174-2026-nd-cp-469616.htm | A |
+| Thời hạn 6 giờ trong tình huống khẩn cấp hiện gắn với yêu cầu của lực lượng chuyên trách thuộc Bộ Công an; yêu cầu của Bộ theo Nghị định số 147/2024/NĐ-CP chỉ có mốc 24 giờ | Điều 25 khoản 2 Luật An ninh mạng năm 2025; Điều 10 Nghị định số 327/2026/NĐ-CP; Điều 23 khoản 5, Điều 35 khoản 6 Nghị định số 147/2024/NĐ-CP (đã đọc toàn văn Luật, Nghị định số 327/2026/NĐ-CP và thân Nghị định số 147/2024/NĐ-CP). https://congbao.chinhphu.vn/van-ban/luat-so-116-2025-qh15-468678.htm ; https://congbao.chinhphu.vn/van-ban/nghi-dinh-so-147-2024-nd-cp-43155.htm | A |
 | Kết luận của Ủy ban Nội vụ Hạ viện Anh về khoảng trống thông tin sau vụ Southport | Báo cáo HC 381, 14/4/2025, kết luận 2. https://committees.parliament.uk/publications/47476/documents/246718/default/ | A |
 | Singapore ưu tiên cải chính cạnh bài gốc thay vì chỉ gỡ bỏ | Luật POFMA, Điều 11; bảng thống kê vụ việc đến 1/7/2026. https://sso.agc.gov.sg/Act/POFMA2019 ; https://isomer-user-content.by.gov.sg/501/80bbf192-e278-4ab9-93cc-8da479af0819/tabulation_of_pofma_cases_and_actions.pdf | A |
 | Gián đoạn đồng loạt các nền tảng của Meta tại Việt Nam ngày 12/6/2026 | Phụ nữ Việt Nam, 12/6/2026. https://phunuvietnam.vn/facebook-messenger-instagram-threads-dong-loat-sap-tai-viet-nam-238260612210826749.htm | C |
 | Lệnh chặn mạng xã hội diện rộng ở Nepal năm 2025 thành ngòi nổ biểu tình | Rest of World, CBS News. https://restofworld.org/2025/nepal-gen-z-protest/ ; https://www.cbsnews.com/news/nepal-protests-social-media-ban-prime-minister-oli-resigns/ | B |
-| 3 cấp độ khủng hoảng; mốc 3 giờ, 6 giờ, 24 giờ; 7 nhóm giải pháp; các cam kết của Bộ | Đề cương dự thảo 8, Phần III, Phần IV, Kết luận, Phụ lục 1 | E |
+| 3 cấp độ khủng hoảng; mốc 3 giờ, 6 giờ, 24 giờ; 7 nhóm giải pháp; các cam kết của Bộ | Đề cương dự thảo 9, Phần III, Phần IV, Kết luận, Phụ lục 1 | E |

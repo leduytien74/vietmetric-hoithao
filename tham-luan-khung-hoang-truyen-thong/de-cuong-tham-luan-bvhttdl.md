@@ -241,9 +241,9 @@ Dự thảo 3, ngày 28/10/2026. Tài liệu làm việc phục vụ tổ biên 
 2. **Cải chính đính kèm thay vì chỉ gỡ bỏ (Singapore).** Luật POFMA (2019) buộc người đăng gắn thông báo cải chính vào bài gốc, buộc nền tảng hiển thị cải chính cho người dùng đã xem tin sai; mỗi lệnh kèm bài giải thích công khai. Cách làm này ít gây phản ứng ngược hơn gỡ bài, với điều kiện có tiêu chí công khai, minh bạch.
 3. **Không để khoảng trống thông tin (Anh).** Sau vụ tấn công ở Southport (29/7/2024), tin sai về danh tính nghi phạm lan nhanh khi cơ quan chức năng chưa thể công bố thông tin do hạn chế tố tụng, dẫn tới bạo loạn; cảnh sát bắt giữ hơn 1.700 người. Ủy ban Nội vụ Hạ viện Anh kết luận quy định hạn chế công bố đã tạo khoảng trống cho tin sai.
 4. **Nghĩa vụ hệ thống của nền tảng (Liên minh châu Âu).** Đạo luật Dịch vụ số buộc nền tảng rất lớn đánh giá, giảm thiểu rủi ro hệ thống, có cơ chế ứng phó khủng hoảng, mức phạt tối đa 6% doanh thu toàn cầu; tháng 12/2025, Ủy ban châu Âu phạt X 120 triệu euro.
-5. **Cảnh báo về chặn diện rộng (Nepal).** Lệnh chặn 26 nền tảng mạng xã hội ngày 4/9/2025 trở thành ngòi nổ cho làn sóng biểu tình của giới trẻ; chính quyền phải dỡ lệnh chặn sau 4 ngày, Thủ tướng từ chức ngày 9/9/2025.
+5. **Cảnh báo về chặn diện rộng (Nepal).** Lệnh chặn 26 nền tảng mạng xã hội đầu tháng 9/2025 trở thành ngòi nổ cho làn sóng biểu tình của giới trẻ; chính quyền phải dỡ lệnh chặn chỉ vài ngày sau, Thủ tướng từ chức ngày 9/9/2025.
 6. **Cơ quan chuyên trách, bằng chứng công khai (Pháp, Thụy Điển).** Pháp lập cơ quan VIGINUM (2021), công bố báo cáo về 43 chiến dịch thao túng thông tin nhắm vào Thế vận hội Paris 2024; Thụy Điển lập Cơ quan Phòng vệ tâm lý (2022). Báo cáo bằng chứng công khai làm tăng tính chính danh của biện pháp xử lý.
-7. **Đầu tư dài hạn cho “sức đề kháng” (Phần Lan, nghiên cứu “tiêm chủng thông tin”).** Phần Lan đưa giáo dục năng lực truyền thông vào chương trình từ mầm non; thử nghiệm trên YouTube với khoảng 1 triệu người cho thấy video 90 giây giới thiệu thủ đoạn thao túng giúp tăng khả năng nhận diện khoảng 5%, chi phí khoảng 0,05 USD mỗi lượt xem.
+7. **Đầu tư dài hạn cho “sức đề kháng” (Phần Lan, nghiên cứu “tiêm chủng thông tin”).** Phần Lan đưa giáo dục năng lực truyền thông vào chương trình từ mầm non; nghiên cứu đăng trên Science Advances (2022), gồm 6 thí nghiệm có đối chứng với 6.464 người và 1 thử nghiệm thực địa trên YouTube với 22.632 người, cho thấy video ngắn giới thiệu thủ đoạn thao túng giúp người xem nhận diện thủ đoạn và phân biệt nội dung đáng tin tốt hơn, với chi phí thấp.
 
 *Chi tiết, số liệu, nguồn tại Phụ lục 6. Gợi ý khi trình bày: chỉ nêu 1 câu, ví dụ “Kinh nghiệm của Trung Quốc, Singapore, Anh cho thấy: cần lượng hóa thời hạn phản hồi, cải chính hiệu quả hơn chỉ gỡ bỏ, và im lặng vì thủ tục là rủi ro lớn nhất”.*
 
@@ -504,24 +504,54 @@ Xin trân trọng cảm ơn đồng chí Thủ tướng Chính phủ và các đ
 | Quốc gia, khu vực | Cơ chế, công cụ | Kết quả, số liệu | Mức phù hợp với Việt Nam |
 |:----------------|:--------------------------------|:--------------------------------|:------------------|
 | Trung Quốc | Văn bản của Văn phòng Quốc vụ viện tháng 8/2016: họp báo chậm nhất 24 giờ với sự kiện đột xuất nghiêm trọng, phản hồi dư luận khác trong 48 giờ; văn bản tháng 11/2016: công bố thông tin chính thức chậm nhất 5 giờ, họp báo trong 24 giờ; nền tảng bác bỏ tin đồn Internet liên hợp (từ 8/2018), tích hợp hơn 40 nền tảng địa phương | Sau 2 năm, nền tảng tiếp nhận hơn 30.000 manh mối, đăng hơn 9.000 bài bác bỏ (8/2020) | Cao: thể chế tương đồng; đề xuất 3, 6, 24 giờ của đề cương chặt hơn chuẩn 5 và 24 giờ |
-| Singapore | Luật POFMA (10/2019): lệnh cải chính đính kèm bài gốc, lệnh cải chính nhắm mục tiêu qua nền tảng, trang giải thích Factually; kênh WhatsApp Gov.sg; Ủy ban An toàn trực tuyến hoạt động từ 29/6/2026 | Đến 30/9/2025: 88 vụ, 142 lệnh cải chính, 36 lệnh cải chính nhắm mục tiêu, 4 lệnh chặn truy cập; kênh WhatsApp Gov.sg tăng từ khoảng 7.000 lên hơn 900.000 thuê bao trong 10 tuần đầu dịch COVID-19 | Cao: chi phí thấp, ít phản ứng ngược; cần tiêu chí công khai |
+| Singapore | Luật POFMA (10/2019): lệnh cải chính đính kèm bài gốc, lệnh cải chính nhắm mục tiêu qua nền tảng, trang giải thích Factually; kênh WhatsApp Gov.sg; Ủy ban An toàn trực tuyến hoạt động từ 29/6/2026 | Đến 1/7/2026: 92 vụ, 146 lệnh cải chính, 39 lệnh cải chính nhắm mục tiêu, 5 lệnh chặn truy cập; kênh WhatsApp Gov.sg tăng từ khoảng 7.000 lên hơn 900.000 thuê bao trong 10 tuần đầu dịch COVID-19 | Cao: chi phí thấp, ít phản ứng ngược; cần tiêu chí công khai |
 | Liên minh châu Âu | Đạo luật Dịch vụ số: nghĩa vụ đánh giá rủi ro hệ thống của nền tảng rất lớn, cơ chế ứng phó khủng hoảng (Điều 36), phạt tối đa 6% doanh thu toàn cầu; Lá chắn Dân chủ châu Âu (11/2025) | Phạt X 120 triệu euro (5/12/2025), quyết định xử phạt đầu tiên theo Đạo luật; chưa ghi nhận lần kích hoạt Điều 36 | Trung bình: hướng đúng nhưng khó tái lập sức mặc cả của thị trường 27 nước |
 | Anh | Bộ công cụ RESIST 2 (6 bước: nhận diện, cảnh báo sớm, nắm tình hình, đánh giá tác động, truyền thông chiến lược, theo dõi hiệu quả); Online Safety Act 2023 | Vụ Southport (29/7/2024): tin sai về danh tính nghi phạm xuất hiện ngay trong ngày, bạo loạn từ 30/7; cảnh sát bắt giữ hơn 1.700 người (đến 12/2024); có bị cáo nhận án tù chỉ 1 ngày sau bài đăng kích động; Ủy ban Nội vụ Hạ viện (4/2025) kết luận hạn chế công bố đã tạo khoảng trống thông tin | Cao: khớp quy trình “giờ vàng” |
-| Nepal | Chặn 26 nền tảng mạng xã hội chưa đăng ký (4/9/2025) | Biểu tình của giới trẻ ngày 8/9/2025, khoảng 19 người chết ngày đầu; chính quyền dỡ lệnh chặn trong đêm; Thủ tướng từ chức ngày 9/9; tổng số người chết khoảng 76 | Cao, dưới dạng bài học cảnh báo |
+| Nepal | Chặn 26 nền tảng mạng xã hội chưa đăng ký (đầu tháng 9/2025; các nguồn ghi ngày 4 hoặc 5/9) | Biểu tình của giới trẻ ngày 8/9/2025, 19 người chết ngay trong ngày; chính quyền dỡ lệnh chặn; Thủ tướng từ chức ngày 9/9 | Cao, dưới dạng bài học cảnh báo |
 | Pháp, Thụy Điển, Phần Lan | Cơ quan VIGINUM (2021) phát hiện can thiệp số từ nước ngoài; Cơ quan Phòng vệ tâm lý Thụy Điển (2022); Phần Lan lồng ghép giáo dục năng lực truyền thông từ mầm non đến trung học | VIGINUM phát hiện 43 chiến dịch nhắm vào Thế vận hội Paris 2024; Phần Lan đứng đầu Chỉ số năng lực truyền thông châu Âu năm 2023 (74/100 điểm, lần thứ 6 liên tiếp) | Trung bình: cần nhiều chuyên gia; hiệu quả dài hạn |
-| Nghiên cứu “tiêm chủng thông tin”, WHO | Video 90 giây giới thiệu thủ đoạn thao túng; khung năng lực quản lý “đại dịch thông tin” của WHO (2021) | Thử nghiệm trên YouTube với khoảng 1 triệu người: khả năng nhận diện tăng khoảng 5%, chi phí khoảng 0,05 USD mỗi lượt xem (Science Advances, 2022) | Cao: rẻ, không cần gỡ bài; hiệu ứng khiêm tốn nên cần lặp lại |
+| Nghiên cứu “tiêm chủng thông tin”, WHO | Video 90 giây giới thiệu thủ đoạn thao túng; khung năng lực quản lý “đại dịch thông tin” của WHO (2021) | Science Advances (2022): 6 thí nghiệm có đối chứng (6.464 người) và 1 thử nghiệm thực địa trên YouTube (22.632 người); người xem nhận diện thủ đoạn thao túng và phân biệt nội dung đáng tin tốt hơn | Cao: rẻ, không cần gỡ bài; hiệu ứng khiêm tốn nên cần lặp lại |
 
 *Ghi chú: số liệu tổng hợp qua tìm kiếm, chưa đọc trực tiếp văn bản gốc; tổ biên tập mở từng nguồn để đối chiếu trước khi sử dụng. Không có tài liệu quốc tế riêng về ứng phó trên Threads.*
 
-**Nguồn tham khảo**
+**Nguồn tham khảo (ưu tiên văn bản gốc, file PDF)**
 
-- Trung Quốc, văn bản tháng 11/2016 (mốc 5 giờ, 24 giờ). https://www.gov.cn/zhengce/content/2016-11/15/content_5132852.htm
-- Trung Quốc, văn bản tháng 8/2016 về phản hồi dư luận. https://www.gov.cn/zhengce/content/2016-08/12/content_5099138.htm
-- Singapore, thống kê các vụ áp dụng Luật POFMA. https://www.pofmaoffice.gov.sg/files/tabulation_of_pofma_cases_and_actions.pdf
-- Singapore, Ủy ban An toàn trực tuyến. https://www.mlaw.gov.sg/online-safety-commission-and-online-safety-relief-and-accountability-act-2025-to-start-on-29-june-2026/
-- Ủy ban châu Âu phạt X theo Đạo luật Dịch vụ số. https://digital-strategy.ec.europa.eu/en/news/commission-fines-x-eu120-million-under-digital-services-act
+*Trung Quốc*
+
+- Thông báo của Văn phòng Quốc vụ viện về phản hồi dư luận chính vụ, số 61 năm 2016 (bản gốc tiếng Trung). https://www.gov.cn/zhengce/content/2016-08/12/content_5099138.htm
+- Bản dịch tiếng Anh của Thông báo số 61 năm 2016. https://www.chinalawtranslate.com/state-council-notice-on-responses-to-public-opinion-on-government-affairs/
+- Chi tiết thực hiện công khai chính vụ, số 80 năm 2016 (mốc 5 giờ, 24 giờ; trang gốc ghi văn bản đã hết hiệu lực). https://www.gov.cn/zhengce/content/2016-11/15/content_5132852.htm
+- Nền tảng bác bỏ tin đồn Internet liên hợp. https://www.piyao.org.cn/
+
+*Singapore*
+
+- Văn bản Luật POFMA 2019 (Singapore Statutes Online). https://sso.agc.gov.sg/Act/POFMA2019
+- Bảng thống kê vụ việc POFMA, cập nhật đến 1/7/2026 (PDF). https://isomer-user-content.by.gov.sg/501/80bbf192-e278-4ab9-93cc-8da479af0819/tabulation_of_pofma_cases_and_actions.pdf
+- Thông cáo về Ủy ban An toàn trực tuyến và Đạo luật năm 2025. https://www.mlaw.gov.sg/online-safety-commission-and-online-safety-relief-and-accountability-act-2025-to-start-on-29-june-2026/
+
+*Liên minh châu Âu*
+
+- Văn bản Đạo luật Dịch vụ số, Quy định (EU) 2022/2065 (EUR-Lex). https://eur-lex.europa.eu/eli/reg/2022/2065/oj
+- Thông cáo của Ủy ban châu Âu về khoản phạt 120 triệu euro đối với X. https://digital-strategy.ec.europa.eu/en/news/commission-fines-x-eu120-million-under-digital-services-act
+- Phân tích cơ chế ứng phó khủng hoảng của Đạo luật Dịch vụ số. https://dsa-observatory.eu/2023/02/21/the-dsas-crisis-approach-crisis-response-mechanism-and-crisis-protocols/
+
+*Anh*
+
+- Bộ công cụ RESIST 2 (PDF). https://gcs.civilservice.gov.uk/wp-content/uploads/2021/11/RESIST-2-counter-disinformation-toolkit.pdf
+- Giao thức ứng phó khủng hoảng của Ofcom, 9/6/2026 (trang văn bản và PDF). https://www.ofcom.org.uk/online-safety/illegal-and-harmful-content/statement-crisis-response-protocol ; https://www.ofcom.org.uk/siteassets/resources/documents/online-safety/protecting-children/illegal-harms/crisis-response-protocol-online-safety-additional-safety-measures.pdf
 - Ủy ban Nội vụ Hạ viện Anh về bạo loạn năm 2024. https://committees.parliament.uk/committee/83/home-affairs-committee/news/206380/
-- Bộ công cụ RESIST 2 của Anh. https://gcs.civilservice.gov.uk/wp-content/uploads/2021/11/RESIST-2-counter-disinformation-toolkit.pdf
-- Biểu tình của giới trẻ ở Nepal năm 2025. https://restofworld.org/2025/nepal-gen-z-protest/
-- Nghiên cứu “tiêm chủng tâm lý” trên YouTube (Science Advances, 2022). https://pmc.ncbi.nlm.nih.gov/articles/PMC9401631
-- WHO, khung năng lực quản lý “đại dịch thông tin”. https://www.who.int/news/item/20-09-2021-who-releases-competency-framework-for-workforce-response-to-infodemic-management
+
+*Nepal*
+
+- Diễn biến biểu tình của giới trẻ năm 2025. https://restofworld.org/2025/nepal-gen-z-protest/ ; https://www.cbsnews.com/news/nepal-protests-social-media-ban-prime-minister-oli-resigns/
+
+*Pháp, Thụy Điển, Phần Lan*
+
+- Báo cáo của VIGINUM về Thế vận hội Paris 2024 (PDF). https://www.vie-publique.fr/files/rapport/pdf/295411.pdf
+- Tóm tắt của Bộ Ngoại giao Pháp về báo cáo VIGINUM. https://diplomatie.gouv.fr/en/french-foreign-policy/sports-diplomacy/news/article/paris-2024-olympic-and-paralympic-games-report-on-attempted-foreign-digital
+- Cơ quan Phòng vệ tâm lý Thụy Điển. https://www.mpf.se/
+- Chỉ số năng lực truyền thông châu Âu năm 2023 (PDF). https://osis.bg/wp-content/uploads/2023/06/MLI-report-in-English-22.06.pdf
+
+*Nghiên cứu “tiêm chủng thông tin”, WHO*
+
+- Roozenbeek và cộng sự, Science Advances, 2022 (bản toàn văn miễn phí). https://pmc.ncbi.nlm.nih.gov/articles/PMC9401631 ; https://doi.org/10.1126/sciadv.abo6254
+- WHO, khung năng lực quản lý “đại dịch thông tin” (2021). https://www.who.int/publications/i/item/9789240035287

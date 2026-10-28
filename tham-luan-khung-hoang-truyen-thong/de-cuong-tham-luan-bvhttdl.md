@@ -26,7 +26,7 @@ Dự thảo 5, ngày 28/10/2026. Tài liệu làm việc phục vụ tổ biên 
 
 **Điểm mới của dự thảo 4.** Đối chiếu toàn văn 4 tài liệu gốc về kinh nghiệm Singapore và Anh: Luật POFMA, bảng thống kê vụ việc POFMA đến 1/7/2026, giao thức ứng phó khủng hoảng của Ofcom (9/6/2026), báo cáo HC 381 của Ủy ban Nội vụ Hạ viện Anh (14/4/2025). Sửa số liệu vụ Southport; bỏ 1 chi tiết không có trong nguồn gốc; bổ sung 3 bài học: giao thức ứng phó khủng hoảng của nền tảng, thống nhất nội dung công bố giữa cơ quan tố tụng và người phát ngôn, giám sát nhóm kín và nền tảng nhắn tin (Phần II, mục 6; Phần III, nhóm 2, 3, 6; Phụ lục 6).
 
-**Điểm mới của dự thảo 5.** Đối chiếu toàn văn Đạo luật Dịch vụ số của Liên minh châu Âu (Điều 33, 34, 36, 48, 74), trang hướng dẫn về Threads của cơ quan An toàn điện tử Úc, bài của Mekong Eye (26/10/2026) và Dân Việt (17/10/2026). Sửa số liệu lừa đảo trực tuyến năm 2025; bổ sung thời hạn 6 giờ theo Luật An ninh mạng năm 2025; cập nhật diễn biến vụ Làng Vân, Safari Ba Vì và phản ứng của người dùng Threads khi nền tảng gỡ bài (Phần I, Phần II, Phụ lục 5, 6).
+**Điểm mới của dự thảo 5.** Đối chiếu toàn văn Đạo luật Dịch vụ số của Liên minh châu Âu (Điều 33, 34, 36, 48, 74), trang hướng dẫn về Threads của cơ quan An toàn điện tử Úc, bài của Mekong Eye (26/10/2026) và Dân Việt (17/10/2026). Sửa số liệu lừa đảo trực tuyến năm 2025; bổ sung thời hạn 6 giờ theo Điều 25 Luật An ninh mạng năm 2025 (đã đối chiếu bản gốc trên Công báo); cập nhật diễn biến vụ Làng Vân, Safari Ba Vì và phản ứng của người dùng Threads khi nền tảng gỡ bài (Phần I, Phần II, Phụ lục 5, 6).
 
 **Thông điệp chính.** Đối tượng phản động hiếm khi tự tạo ra khủng hoảng; phần lớn trường hợp, đối tượng lấp vào “khoảng trống thông tin” do thông tin chính thống đến chậm, thiếu hoặc thiếu nhất quán. Giải pháp gốc là lấp đầy khoảng trống đó bằng sự thật, ngay trong “giờ vàng”.
 
@@ -162,7 +162,7 @@ Dự thảo 5, ngày 28/10/2026. Tài liệu làm việc phục vụ tổ biên 
 **a) Thể chế hoàn thiện nhanh, đồng bộ hơn.**
 
 - Luật Báo chí số 126/2025/QH15 (hiệu lực từ 1/7/2026): Điều 31 quy định cơ quan, tổ chức, người có thẩm quyền vừa có quyền, vừa có nghĩa vụ cung cấp thông tin cho báo chí và chịu trách nhiệm về nội dung cung cấp; luật bổ sung quy định về quyền yêu cầu cải chính, sử dụng AI trong hoạt động báo chí.
-- Luật An ninh mạng số 116/2025/QH15 (hiệu lực từ 1/7/2026): nghiêm cấm bịa đặt, lan truyền thông tin sai sự thật; doanh nghiệp viễn thông, Internet, mạng xã hội xử lý thông tin vi phạm tối đa 24 giờ kể từ khi nhận yêu cầu hợp pháp, không quá 6 giờ đối với tình huống khẩn cấp liên quan an ninh quốc gia.
+- Luật An ninh mạng số 116/2025/QH15 (hiệu lực từ 1/7/2026, thay thế Luật An ninh mạng năm 2018 và Luật An toàn thông tin mạng năm 2015): nghiêm cấm bịa đặt, lan truyền thông tin sai sự thật; doanh nghiệp trong nước và nước ngoài cung cấp dịch vụ viễn thông, Internet, dịch vụ gia tăng trên không gian mạng phải ngăn chặn, xóa bỏ thông tin vi phạm chậm nhất 24 giờ kể từ khi có yêu cầu của lực lượng chuyên trách bảo vệ an ninh mạng thuộc Bộ Công an, chậm nhất 6 giờ trong trường hợp khẩn cấp đe dọa xâm hại an ninh quốc gia; cung cấp thông tin người dùng chậm nhất 24 giờ, 3 giờ trong trường hợp khẩn cấp (Điều 25).
 - Luật Trí tuệ nhân tạo số 134/2025/QH15 (hiệu lực từ 1/3/2026) yêu cầu gắn dấu hiệu nhận biết đối với nội dung do AI tạo ra.
 - Luật Bảo vệ dữ liệu cá nhân số 91/2025/QH15 (hiệu lực từ 1/1/2026) và Nghị định số 356/2025/NĐ-CP: căn cứ xử lý hành vi phát tán trái phép dữ liệu cá nhân của nạn nhân, người liên quan trong các vụ việc gây chú ý.
 - Luật số 75/2025/QH15 sửa đổi, bổ sung Luật Quảng cáo (hiệu lực từ 1/1/2026) quy định nghĩa vụ của người chuyển tải sản phẩm quảng cáo, trong đó có người có ảnh hưởng.
@@ -437,7 +437,7 @@ Xin trân trọng cảm ơn đồng chí Thủ tướng Chính phủ và các đ
 **Luật**
 
 - Luật Báo chí số 126/2025/QH15, hiệu lực từ 1/7/2026. https://vneconomy.vn/quoc-hoi-thong-qua-luat-bao-chi-sua-doi-voi-nhieu-diem-moi.htm
-- Luật An ninh mạng số 116/2025/QH15, hiệu lực từ 1/7/2026. https://thuvienphapluat.vn/van-ban/Cong-nghe-thong-tin/Luat-An-ninh-mang-2025-so-116-2025-QH15-666020.aspx
+- Luật An ninh mạng số 116/2025/QH15, hiệu lực từ 1/7/2026 (bản gốc đăng Công báo số 35 ngày 21/1/2026; đã đọc toàn văn). https://congbao.chinhphu.vn/van-ban/luat-so-116-2025-qh15-468678.htm
 - Thời hạn xử lý thông tin vi phạm theo Luật An ninh mạng năm 2025: tối đa 24 giờ, không quá 6 giờ với tình huống khẩn cấp liên quan an ninh quốc gia (tài liệu tham luận tại hội nghị cung cấp thông tin cho báo chí ngày 21/4/2026 tại Bộ VHTTDL, đăng trên cổng thông tin xã Tân Phong, tỉnh Lai Châu; đã đọc toàn văn). https://tanphong.laichau.gov.vn/upload/103836/20260614/9__Tai_lieu_tuyen_truyen_Luat_An_ninh_mang_82cb2.docx
 - Luật Trí tuệ nhân tạo số 134/2025/QH15, hiệu lực từ 1/3/2026. https://luatminhkhue.vn/yeu-cau-bat-buoc-doi-voi-noi-dung-tao-boi-ai-tu-1-3-2026.aspx
 - Luật số 75/2025/QH15 sửa đổi, bổ sung một số điều của Luật Quảng cáo, hiệu lực từ 1/1/2026. https://thuvienphapluat.vn/van-ban/Thuong-mai/Luat-Quang-cao-sua-doi-2025-so-75-2025-QH15-555035.aspx
@@ -494,7 +494,7 @@ Xin trân trọng cảm ơn đồng chí Thủ tướng Chính phủ và các đ
 
 | Nội dung | Đơn vị cung cấp, xác minh |
 |:----------------------------------------------------------------|:------------------------------------|
-| Đối chiếu toàn văn các luật, nghị định tại Phần II, mục 1 và Phụ lục 4 (dự thảo này mới tổng hợp từ báo chí và trang pháp luật thứ cấp, chưa đọc toàn văn), nhất là Điều 7 Nghị định số 244/2026/NĐ-CP, thời hạn gỡ bỏ khẩn cấp theo Luật An ninh mạng năm 2025 (nhiều nguồn thống nhất ghi không quá 6 giờ; chưa đọc điều luật gốc), phạm vi Nghị định số 219/2026/NĐ-CP và Nghị định số 343/2026/NĐ-CP | Vụ Pháp chế |
+| Đối chiếu toàn văn các luật, nghị định tại Phần II, mục 1 và Phụ lục 4 (dự thảo này mới tổng hợp từ báo chí và trang pháp luật thứ cấp, chưa đọc toàn văn), nhất là Điều 7 Nghị định số 244/2026/NĐ-CP, thời hạn 24 giờ, 6 giờ tại Điều 25 Luật An ninh mạng năm 2025 (đã đọc văn bản gốc) chỉ áp dụng với yêu cầu của lực lượng chuyên trách bảo vệ an ninh mạng thuộc Bộ Công an, cần làm rõ thời hạn áp dụng với yêu cầu của Bộ VHTTDL theo Nghị định số 147/2024/NĐ-CP, phạm vi Nghị định số 219/2026/NĐ-CP và Nghị định số 343/2026/NĐ-CP | Vụ Pháp chế |
 | Số liệu chính thức chặn, gỡ thông tin vi phạm quý III và 9 tháng năm 2026 (chưa công bố công khai); số liệu nền về thời gian phát hiện, phản hồi | Cục Thông tin điện tử và Chuyển đổi số |
 | Tình hình ban hành quy chế phát ngôn nội bộ của các bộ, ngành, địa phương theo Nghị định số 244/2026/NĐ-CP | Văn phòng Bộ, phối hợp Văn phòng Chính phủ |
 | Số liệu lừa đảo trực tuyến, deepfake năm 2025 và 9 tháng năm 2026 | Bộ Công an |

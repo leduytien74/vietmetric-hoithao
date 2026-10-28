@@ -22,6 +22,8 @@ Dự thảo 3, ngày 28/10/2026. Tài liệu làm việc phục vụ tổ biên 
 
 **Điểm mới của dự thảo 2.** Bổ sung phân tích tác động của Threads, nền tảng khởi phát nhiều làn sóng dư luận năm 2026 (Phần I, mục 6); 5 sự cố mới nhất năm 2026 làm dẫn chứng (Phần II, mục 2); nhóm việc cụ thể ứng phó trên Threads (Phần III); kiến nghị về công khai thông tin dự án đầu tư lớn (Phần IV).
 
+**Điểm mới của dự thảo 3.** Cập nhật căn cứ pháp lý: Nghị định số 244/2026/NĐ-CP thay thế Nghị định số 09/2017/NĐ-CP về phát ngôn, cùng 7 văn bản bổ sung (Phần II, mục 1); số liệu mới nhất về tiếp nhận tin tức và lừa đảo trực tuyến (Mở đầu, Phần I); kinh nghiệm quốc tế (Phần II, mục 6 và Phụ lục 6), lồng ghép vào nhóm giải pháp 2, 3, 4, 6, 7.
+
 **Thông điệp chính.** Đối tượng phản động hiếm khi tự tạo ra khủng hoảng; phần lớn trường hợp, đối tượng lấp vào “khoảng trống thông tin” do thông tin chính thống đến chậm, thiếu hoặc thiếu nhất quán. Giải pháp gốc là lấp đầy khoảng trống đó bằng sự thật, ngay trong “giờ vàng”.
 
 **3 thông điệp phụ.**
@@ -52,7 +54,7 @@ Dự thảo 3, ngày 28/10/2026. Tài liệu làm việc phục vụ tổ biên 
 |:------------|:--------------------------------------------------------|:----------------:|:----------------:|
 | Mở đầu | Đặt vấn đề, tính cấp thiết, trách nhiệm của Bộ VHTTDL | 1 phút | 8% |
 | Phần I | Nhận diện khủng hoảng truyền thông, phương thức lợi dụng của đối tượng phản động, tác động của Threads | 2,5 phút | 20% |
-| Phần II | Kết quả, sự cố mới nhất năm 2026, hạn chế, nguyên nhân, bài học kinh nghiệm | 2,5 phút | 20% |
+| Phần II | Kết quả, sự cố mới nhất năm 2026, hạn chế, nguyên nhân, bài học kinh nghiệm, kinh nghiệm quốc tế | 2,5 phút | 20% |
 | Phần III | 7 nhóm giải pháp, trong đó 3 giải pháp đột phá | 4,5 phút | 40% |
 | Phần IV | Kiến nghị với Chính phủ, Thủ tướng Chính phủ, các bộ, ngành, địa phương | 1 phút | 8% |
 | Kết luận | Cam kết hành động của Bộ VHTTDL | 0,5 phút | 4% |
@@ -233,6 +235,18 @@ Dự thảo 3, ngày 28/10/2026. Tài liệu làm việc phục vụ tổ biên 
 5. **Phân loại đúng phản ứng của dư luận.** Góp ý, phản biện chính đáng cần đối thoại, công khai thông tin, tiếp thu; thông tin sai cần cải chính, gắn nhãn; chỉ hành vi vi phạm pháp luật, kích động chống phá mới cần biện pháp pháp lý, kỹ thuật, kèm thông tin giải thích.
 6. **Có mặt ở nơi dư luận hình thành.** Thông tin chính thống phải xuất hiện trên chính nền tảng nơi tranh luận khởi phát, kể cả nền tảng mới như Threads.
 
+## 6. Kinh nghiệm quốc tế
+
+1. **Lượng hóa thời hạn phản hồi (Trung Quốc).** Từ năm 2016, quy định yêu cầu công bố thông tin chính thức chậm nhất 5 giờ, họp báo chậm nhất 24 giờ với sự kiện đột xuất nghiêm trọng, gắn trách nhiệm cơ quan chủ quản; nền tảng bác bỏ tin đồn dùng chung hoạt động từ năm 2018. Mốc 3, 6, 24 giờ đề xuất trong đề cương phù hợp xu hướng này.
+2. **Cải chính đính kèm thay vì chỉ gỡ bỏ (Singapore).** Luật POFMA (2019) buộc người đăng gắn thông báo cải chính vào bài gốc, buộc nền tảng hiển thị cải chính cho người dùng đã xem tin sai; mỗi lệnh kèm bài giải thích công khai. Cách làm này ít gây phản ứng ngược hơn gỡ bài, với điều kiện có tiêu chí công khai, minh bạch.
+3. **Không để khoảng trống thông tin (Anh).** Sau vụ tấn công ở Southport (29/7/2024), tin sai về danh tính nghi phạm lan nhanh khi cơ quan chức năng chưa thể công bố thông tin do hạn chế tố tụng, dẫn tới bạo loạn; cảnh sát bắt giữ hơn 1.700 người. Ủy ban Nội vụ Hạ viện Anh kết luận quy định hạn chế công bố đã tạo khoảng trống cho tin sai.
+4. **Nghĩa vụ hệ thống của nền tảng (Liên minh châu Âu).** Đạo luật Dịch vụ số buộc nền tảng rất lớn đánh giá, giảm thiểu rủi ro hệ thống, có cơ chế ứng phó khủng hoảng, mức phạt tối đa 6% doanh thu toàn cầu; tháng 12/2025, Ủy ban châu Âu phạt X 120 triệu euro.
+5. **Cảnh báo về chặn diện rộng (Nepal).** Lệnh chặn 26 nền tảng mạng xã hội ngày 4/9/2025 trở thành ngòi nổ cho làn sóng biểu tình của giới trẻ; chính quyền phải dỡ lệnh chặn sau 4 ngày, Thủ tướng từ chức ngày 9/9/2025.
+6. **Cơ quan chuyên trách, bằng chứng công khai (Pháp, Thụy Điển).** Pháp lập cơ quan VIGINUM (2021), công bố báo cáo về 43 chiến dịch thao túng thông tin nhắm vào Thế vận hội Paris 2024; Thụy Điển lập Cơ quan Phòng vệ tâm lý (2022). Báo cáo bằng chứng công khai làm tăng tính chính danh của biện pháp xử lý.
+7. **Đầu tư dài hạn cho “sức đề kháng” (Phần Lan, nghiên cứu “tiêm chủng thông tin”).** Phần Lan đưa giáo dục năng lực truyền thông vào chương trình từ mầm non; thử nghiệm trên YouTube với khoảng 1 triệu người cho thấy video 90 giây giới thiệu thủ đoạn thao túng giúp tăng khả năng nhận diện khoảng 5%, chi phí khoảng 0,05 USD mỗi lượt xem.
+
+*Chi tiết, số liệu, nguồn tại Phụ lục 6. Gợi ý khi trình bày: chỉ nêu 1 câu, ví dụ “Kinh nghiệm của Trung Quốc, Singapore, Anh cho thấy: cần lượng hóa thời hạn phản hồi, cải chính hiệu quả hơn chỉ gỡ bỏ, và im lặng vì thủ tục là rủi ro lớn nhất”.*
+
 > Câu chốt Phần II: “Kết quả bước đầu cho thấy: khi thông tin chính thống đến sớm, đối tượng phản động không còn chỗ chen vào.”
 
 # Phần III. Nhóm giải pháp trọng tâm
@@ -256,6 +270,7 @@ Dự thảo 3, ngày 28/10/2026. Tài liệu làm việc phục vụ tổ biên 
     - Cơ chế huy động báo chí, nền tảng số, lực lượng chuyên trách.
     - Chế độ thông tin, báo cáo, đánh giá sau khủng hoảng.
     - Bảo đảm thống nhất với quy trình xử lý tin giả theo Nghị định số 328/2026/NĐ-CP và các biện pháp theo Nghị định số 327/2026/NĐ-CP.
+    - Quy định sẵn “thông tin tối thiểu có thể công bố” đối với vụ việc đang điều tra, xác minh, để không tạo khoảng trống thông tin (bài học từ vụ Southport của Anh năm 2024).
 - Triển khai nghiêm Nghị định số 244/2026/NĐ-CP về phát ngôn và cung cấp thông tin cho báo chí: kiểm tra việc ban hành quy chế phát ngôn nội bộ (thời hạn 45 ngày kể từ ngày 1/7/2026); hướng dẫn phát ngôn trên tài khoản chính thức của cơ quan nhà nước trên nền tảng số; trong Quy chế phối hợp, đặt mục tiêu thông tin ban đầu sớm hơn mốc tối đa 24 giờ tại Điều 7 đối với khủng hoảng cấp độ 2 và 3.
 - Ban hành bộ quy trình mẫu và kịch bản xử lý cho khoảng 10 đến 12 tình huống điển hình: thiên tai, thảm họa; tai nạn du lịch; sự cố lễ hội, sự kiện đông người; an toàn thực phẩm; sản phẩm văn hóa vi phạm chủ quyền; phát ngôn lệch chuẩn của người nổi tiếng; tin giả về chính sách; nội dung giả mạo do AI tạo ra; dự án đầu tư gây tranh cãi về môi trường, cảnh quan; làn sóng dư luận khởi phát trên nền tảng thảo luận như Threads; gián đoạn nền tảng mạng xã hội diện rộng.
 - Hoàn thiện văn bản hướng dẫn Luật Báo chí 2025, Luật Trí tuệ nhân tạo (gắn nhãn nội dung AI); sửa đổi, bổ sung Nghị định số 147/2024/NĐ-CP theo hướng: nghĩa vụ nền tảng xử lý nhanh trong tình huống khẩn cấp; ưu tiên hiển thị thông tin chính thống khi xảy ra khủng hoảng; báo cáo minh bạch định kỳ.
@@ -268,6 +283,7 @@ Dự thảo 3, ngày 28/10/2026. Tài liệu làm việc phục vụ tổ biên 
 - Lập “lịch rủi ro truyền thông” hằng năm: mùa mưa bão, lễ hội, kỳ thi, thời điểm chính sách mới có hiệu lực, ngày lễ chính trị, sự kiện đối ngoại.
 - Nâng cao năng lực phát hiện nội dung giả mạo do AI tạo ra; triển khai đồng bộ quy trình phát hiện, kiểm chứng, gắn nhãn tin giả theo Nghị định số 328/2026/NĐ-CP; công bố nhanh kết quả kiểm chứng.
 - Xác lập số liệu nền (thời gian phát hiện, thời gian phản hồi, tỷ lệ gỡ bỏ, thời gian kết thúc khủng hoảng) để đo lường hiệu quả hằng quý.
+- Định kỳ công bố báo cáo bằng chứng về các chiến dịch thao túng thông tin có tổ chức từ nước ngoài, tăng tính chính danh của biện pháp xử lý (tham khảo cơ quan VIGINUM của Pháp).
 - **Chủ trì:** Bộ VHTTDL (Cục Thông tin điện tử và Chuyển đổi số), Bộ Công an. **Phối hợp:** Bộ Quốc phòng, Bộ Khoa học và Công nghệ, Văn phòng Chính phủ. **Thời hạn:** vận hành thử trong năm 2027.
 
 ## Nhóm 4. Phản ứng nhanh trong “giờ vàng” [Đột phá]
@@ -279,6 +295,7 @@ Dự thảo 3, ngày 28/10/2026. Tài liệu làm việc phục vụ tổ biên 
 - **Tổ phản ứng nhanh** tại mỗi bộ, ngành, địa phương: lãnh đạo, người phát ngôn, bộ phận chuyên môn, pháp chế, bộ phận nội dung số; hoạt động liên tục khi có cảnh báo đỏ.
 - **Phát ngôn đa nền tảng:** thông cáo báo chí kết hợp bài đăng trên tài khoản chính thức đã xác thực, video ngắn, đồ họa; phản hồi trực tiếp vào thông tin sai.
 - Song song, lực lượng chức năng xác minh, xử lý người tung tin; phối hợp nền tảng gỡ bỏ nội dung vi phạm. Nguyên tắc: gỡ bỏ không thay thế giải thích. Khi áp dụng biện pháp hạn chế hiển thị, cơ quan có thẩm quyền công bố căn cứ, lý do ở mức phù hợp để tránh hiệu ứng ngược.
+- **Cải chính đính kèm:** kết hợp gắn nhãn tin giả theo Nghị định số 328/2026/NĐ-CP với thông báo cải chính gắn vào bài gốc, dẫn tới thông tin chính thức và hiển thị cho người dùng đã xem tin sai (tham khảo Luật POFMA của Singapore); chỉ gỡ bỏ đối với nội dung vi phạm nghiêm trọng.
 - **Chủ trì:** các bộ, ngành, địa phương; Bộ VHTTDL hướng dẫn nghiệp vụ, điều phối báo chí; Bộ Công an xử lý vi phạm. **Thời hạn:** áp dụng ngay từ quý IV/2026.
 
 ## Nhóm 5. Phát huy vai trò báo chí, thông tin cơ sở, thông tin đối ngoại; lấy tích cực đẩy lùi tiêu cực
@@ -293,7 +310,8 @@ Dự thảo 3, ngày 28/10/2026. Tài liệu làm việc phục vụ tổ biên 
 
 ## Nhóm 6. Quản lý nền tảng, xử lý nghiêm vi phạm
 
-- Yêu cầu nền tảng xuyên biên giới thực hiện nghiêm nghĩa vụ: xác thực tài khoản; gỡ bỏ trong thời hạn quy định; cung cấp dữ liệu phục vụ điều tra; thiết lập kênh ưu tiên xử lý trong khủng hoảng; báo cáo minh bạch định kỳ.
+- Yêu cầu nền tảng xuyên biên giới thực hiện nghiêm nghĩa vụ: xác thực tài khoản; gỡ bỏ trong thời hạn quy định; cung cấp dữ liệu phục vụ điều tra; thiết lập kênh ưu tiên và giao thức ứng phó khủng hoảng (tham khảo Đạo luật Dịch vụ số của Liên minh châu Âu); báo cáo minh bạch định kỳ.
+- Không áp dụng biện pháp chặn nền tảng diện rộng; biện pháp kỹ thuật nhắm đúng nội dung, đúng tài khoản vi phạm (bài học từ Nepal năm 2025).
 - Áp dụng biện pháp ngăn chặn truy cập theo Nghị định số 327/2026/NĐ-CP đối với hệ thống thông tin ở nước ngoài không tuân thủ pháp luật Việt Nam.
 - Xử phạt hành chính theo Nghị định số 174/2026/NĐ-CP; xử lý hình sự theo Bộ luật Hình sự đối với hành vi làm, tàng trữ, phát tán tài liệu nhằm chống Nhà nước (Điều 117), lợi dụng các quyền tự do dân chủ (Điều 331), đưa hoặc sử dụng trái phép thông tin mạng máy tính, mạng viễn thông (Điều 288); công khai kết quả xử lý để răn đe.
 - Xử lý trách nhiệm người có ảnh hưởng quảng cáo sai sự thật theo Luật số 75/2025/QH15.
@@ -305,7 +323,8 @@ Dự thảo 3, ngày 28/10/2026. Tài liệu làm việc phục vụ tổ biên 
 - Tập huấn định kỳ cho người phát ngôn và Tổ phản ứng nhanh các cấp; xây dựng chương trình bồi dưỡng kỹ năng truyền thông khủng hoảng thống nhất toàn quốc.
 - Tổ chức diễn tập xử lý khủng hoảng truyền thông cấp quốc gia hằng năm; các bộ, ngành, địa phương diễn tập theo kịch bản riêng.
 - Triển khai Bộ Quy tắc ứng xử văn hóa trên môi trường số (Quyết định số 423/QĐ-BVHTTDL): phổ biến kỹ năng nhận diện tin giả, nội dung giả mạo do AI tạo ra; khuyến khích người dân phản ánh tin giả.
-- Phối hợp Bộ Giáo dục và Đào tạo đưa kỹ năng số, năng lực thông tin vào chương trình giáo dục; triển khai Đề án theo Quyết định số 1125/QĐ-TTg.
+- Phối hợp Bộ Giáo dục và Đào tạo đưa kỹ năng số, năng lực thông tin vào chương trình giáo dục từ bậc mầm non (tham khảo Phần Lan); triển khai Đề án theo Quyết định số 1125/QĐ-TTg.
+- Triển khai chiến dịch “tiêm chủng thông tin” bằng video ngắn giới thiệu thủ đoạn thao túng, phát trước các sự kiện nhạy cảm đã có trong lịch rủi ro truyền thông.
 - Có chính sách đãi ngộ phù hợp với đội ngũ làm công tác thông tin, đấu tranh trên không gian mạng.
 - **Chủ trì:** Bộ VHTTDL, Bộ Giáo dục và Đào tạo. **Phối hợp:** Bộ Công an, Bộ Nội vụ, UBND các tỉnh, thành phố. **Thời hạn:** từ năm 2027, thường xuyên.
 
@@ -478,3 +497,31 @@ Xin trân trọng cảm ơn đồng chí Thủ tướng Chính phủ và các đ
 | Diễn biến trên Threads của vụ Làng Vân (từ giữa tháng 7/2026) và vụ Safari Ba Vì (tháng 10/2026), trong đó có phản ánh của người dùng về việc bài viết không hiển thị tại Việt Nam ngày 17 và 18/10/2026 (thông tin hiện chỉ có từ người dùng và nguồn nước ngoài) | Cục Thông tin điện tử và Chuyển đổi số, phối hợp Bộ Công an |
 | Thông tin chính thức, phản hồi của chính quyền về dự án Làng Vân và đề xuất dự án Safari Ba Vì | UBND thành phố Đà Nẵng, UBND thành phố Hà Nội |
 | Số vụ xử lý tin giả mùa mưa bão năm 2026 có thể nêu làm dẫn chứng | Cục Thông tin điện tử và Chuyển đổi số, phối hợp Bộ Công an |
+| Đối chiếu số liệu, nguồn kinh nghiệm quốc tế tại Phụ lục 6 (hiện tổng hợp qua tìm kiếm, chưa đọc trực tiếp văn bản gốc) | Cục Hợp tác quốc tế, phối hợp Bộ Ngoại giao |
+
+# Phụ lục 6. Kinh nghiệm quốc tế
+
+| Quốc gia, khu vực | Cơ chế, công cụ | Kết quả, số liệu | Mức phù hợp với Việt Nam |
+|:----------------|:--------------------------------|:--------------------------------|:------------------|
+| Trung Quốc | Văn bản của Văn phòng Quốc vụ viện tháng 8/2016: họp báo chậm nhất 24 giờ với sự kiện đột xuất nghiêm trọng, phản hồi dư luận khác trong 48 giờ; văn bản tháng 11/2016: công bố thông tin chính thức chậm nhất 5 giờ, họp báo trong 24 giờ; nền tảng bác bỏ tin đồn Internet liên hợp (từ 8/2018), tích hợp hơn 40 nền tảng địa phương | Sau 2 năm, nền tảng tiếp nhận hơn 30.000 manh mối, đăng hơn 9.000 bài bác bỏ (8/2020) | Cao: thể chế tương đồng; đề xuất 3, 6, 24 giờ của đề cương chặt hơn chuẩn 5 và 24 giờ |
+| Singapore | Luật POFMA (10/2019): lệnh cải chính đính kèm bài gốc, lệnh cải chính nhắm mục tiêu qua nền tảng, trang giải thích Factually; kênh WhatsApp Gov.sg; Ủy ban An toàn trực tuyến hoạt động từ 29/6/2026 | Đến 30/9/2025: 88 vụ, 142 lệnh cải chính, 36 lệnh cải chính nhắm mục tiêu, 4 lệnh chặn truy cập; kênh WhatsApp Gov.sg tăng từ khoảng 7.000 lên hơn 900.000 thuê bao trong 10 tuần đầu dịch COVID-19 | Cao: chi phí thấp, ít phản ứng ngược; cần tiêu chí công khai |
+| Liên minh châu Âu | Đạo luật Dịch vụ số: nghĩa vụ đánh giá rủi ro hệ thống của nền tảng rất lớn, cơ chế ứng phó khủng hoảng (Điều 36), phạt tối đa 6% doanh thu toàn cầu; Lá chắn Dân chủ châu Âu (11/2025) | Phạt X 120 triệu euro (5/12/2025), quyết định xử phạt đầu tiên theo Đạo luật; chưa ghi nhận lần kích hoạt Điều 36 | Trung bình: hướng đúng nhưng khó tái lập sức mặc cả của thị trường 27 nước |
+| Anh | Bộ công cụ RESIST 2 (6 bước: nhận diện, cảnh báo sớm, nắm tình hình, đánh giá tác động, truyền thông chiến lược, theo dõi hiệu quả); Online Safety Act 2023 | Vụ Southport (29/7/2024): tin sai về danh tính nghi phạm xuất hiện ngay trong ngày, bạo loạn từ 30/7; cảnh sát bắt giữ hơn 1.700 người (đến 12/2024); có bị cáo nhận án tù chỉ 1 ngày sau bài đăng kích động; Ủy ban Nội vụ Hạ viện (4/2025) kết luận hạn chế công bố đã tạo khoảng trống thông tin | Cao: khớp quy trình “giờ vàng” |
+| Nepal | Chặn 26 nền tảng mạng xã hội chưa đăng ký (4/9/2025) | Biểu tình của giới trẻ ngày 8/9/2025, khoảng 19 người chết ngày đầu; chính quyền dỡ lệnh chặn trong đêm; Thủ tướng từ chức ngày 9/9; tổng số người chết khoảng 76 | Cao, dưới dạng bài học cảnh báo |
+| Pháp, Thụy Điển, Phần Lan | Cơ quan VIGINUM (2021) phát hiện can thiệp số từ nước ngoài; Cơ quan Phòng vệ tâm lý Thụy Điển (2022); Phần Lan lồng ghép giáo dục năng lực truyền thông từ mầm non đến trung học | VIGINUM phát hiện 43 chiến dịch nhắm vào Thế vận hội Paris 2024; Phần Lan đứng đầu Chỉ số năng lực truyền thông châu Âu năm 2023 (74/100 điểm, lần thứ 6 liên tiếp) | Trung bình: cần nhiều chuyên gia; hiệu quả dài hạn |
+| Nghiên cứu “tiêm chủng thông tin”, WHO | Video 90 giây giới thiệu thủ đoạn thao túng; khung năng lực quản lý “đại dịch thông tin” của WHO (2021) | Thử nghiệm trên YouTube với khoảng 1 triệu người: khả năng nhận diện tăng khoảng 5%, chi phí khoảng 0,05 USD mỗi lượt xem (Science Advances, 2022) | Cao: rẻ, không cần gỡ bài; hiệu ứng khiêm tốn nên cần lặp lại |
+
+*Ghi chú: số liệu tổng hợp qua tìm kiếm, chưa đọc trực tiếp văn bản gốc; tổ biên tập mở từng nguồn để đối chiếu trước khi sử dụng. Không có tài liệu quốc tế riêng về ứng phó trên Threads.*
+
+**Nguồn tham khảo**
+
+- Trung Quốc, văn bản tháng 11/2016 (mốc 5 giờ, 24 giờ). https://www.gov.cn/zhengce/content/2016-11/15/content_5132852.htm
+- Trung Quốc, văn bản tháng 8/2016 về phản hồi dư luận. https://www.gov.cn/zhengce/content/2016-08/12/content_5099138.htm
+- Singapore, thống kê các vụ áp dụng Luật POFMA. https://www.pofmaoffice.gov.sg/files/tabulation_of_pofma_cases_and_actions.pdf
+- Singapore, Ủy ban An toàn trực tuyến. https://www.mlaw.gov.sg/online-safety-commission-and-online-safety-relief-and-accountability-act-2025-to-start-on-29-june-2026/
+- Ủy ban châu Âu phạt X theo Đạo luật Dịch vụ số. https://digital-strategy.ec.europa.eu/en/news/commission-fines-x-eu120-million-under-digital-services-act
+- Ủy ban Nội vụ Hạ viện Anh về bạo loạn năm 2024. https://committees.parliament.uk/committee/83/home-affairs-committee/news/206380/
+- Bộ công cụ RESIST 2 của Anh. https://gcs.civilservice.gov.uk/wp-content/uploads/2021/11/RESIST-2-counter-disinformation-toolkit.pdf
+- Biểu tình của giới trẻ ở Nepal năm 2025. https://restofworld.org/2025/nepal-gen-z-protest/
+- Nghiên cứu “tiêm chủng tâm lý” trên YouTube (Science Advances, 2022). https://pmc.ncbi.nlm.nih.gov/articles/PMC9401631
+- WHO, khung năng lực quản lý “đại dịch thông tin”. https://www.who.int/news/item/20-09-2021-who-releases-competency-framework-for-workforce-response-to-infodemic-management

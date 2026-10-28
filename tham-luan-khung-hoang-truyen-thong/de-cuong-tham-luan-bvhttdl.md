@@ -13,7 +13,7 @@ Tác giả: Vietmetric
 :::
 
 ::: {custom-style=ThongTinChung}
-Dự thảo 2, ngày 28/10/2026. Tài liệu làm việc phục vụ tổ biên tập.
+Dự thảo 3, ngày 28/10/2026. Tài liệu làm việc phục vụ tổ biên tập.
 :::
 
 # Tóm tắt
@@ -43,7 +43,7 @@ Dự thảo 2, ngày 28/10/2026. Tài liệu làm việc phục vụ tổ biên 
 | Người trình bày | Bộ trưởng Bộ Văn hóa, Thể thao và Du lịch |
 | Thời lượng dự kiến | 10 đến 12 phút, bài nói khoảng 1.800 đến 2.200 từ |
 | Thính giả | Thủ tướng Chính phủ, các Phó Thủ tướng, thành viên Chính phủ, lãnh đạo các bộ, ngành, Chủ tịch UBND 34 tỉnh, thành phố, đại biểu các cơ quan Đảng, Ban Chỉ đạo 35 Trung ương |
-| Tài liệu kèm theo | Phụ lục 1 đến 5 phát tại hội nghị, không đọc trong bài nói |
+| Tài liệu kèm theo | Phụ lục 1 đến 6 phát tại hội nghị, không đọc trong bài nói |
 | Văn phong | Câu ngắn, chủ động; 2 đến 3 con số mạnh; mỗi phần kết thúc bằng 1 câu chốt |
 
 # Bố cục và phân bổ thời lượng
@@ -64,7 +64,8 @@ Dự thảo 2, ngày 28/10/2026. Tài liệu làm việc phục vụ tổ biên 
 **2. Bối cảnh, tính cấp thiết.**
 
 - Không gian mạng trở thành môi trường thông tin chủ yếu của người dân. Việt Nam có khoảng 85,6 triệu người dùng Internet (84,2% dân số) và 79 triệu danh tính người dùng mạng xã hội (77,6% dân số) theo báo cáo Digital 2026: Vietnam của DataReportal. Video ngắn có thể đạt hàng triệu lượt xem chỉ trong vài giờ.
-- Năm 2026 là năm đầu triển khai Nghị quyết Đại hội XIV của Đảng; bộ máy sau sắp xếp và chính quyền địa phương 2 cấp đi vào vận hành; nhiều luật mới có hiệu lực (Luật Trí tuệ nhân tạo từ 1/3/2026, Luật Báo chí và Luật An ninh mạng từ 1/7/2026). Những thay đổi lớn luôn kéo theo nhu cầu thông tin lớn, đồng thời mở ra cơ hội để đối tượng xấu xuyên tạc, kích động.
+- Trên thế giới, mạng xã hội và nền tảng video lần đầu tiên vượt website, ứng dụng của cơ quan báo chí, trở thành kênh tiếp cận tin tức trực tuyến phổ biến nhất; 27% người tham gia khảo sát nhận tin từ người sáng tạo nội dung chuyên về tin tức; niềm tin vào tin tức giảm đáng kể ở 29/48 thị trường (Digital News Report 2026 của Viện Reuters, khảo sát gần 100.000 người tại 48 thị trường, chưa bao gồm Việt Nam).
+- Năm 2026 là năm đầu triển khai Nghị quyết Đại hội XIV của Đảng; bộ máy sau sắp xếp và chính quyền địa phương 2 cấp đi vào vận hành; nhiều luật, nghị định mới có hiệu lực (Luật Bảo vệ dữ liệu cá nhân từ 1/1/2026; Luật Trí tuệ nhân tạo từ 1/3/2026; Luật Báo chí, Luật An ninh mạng và Nghị định số 244/2026/NĐ-CP về phát ngôn từ 1/7/2026; Nghị định số 328/2026/NĐ-CP về xử lý tin giả từ 5/10/2026). Những thay đổi lớn luôn kéo theo nhu cầu thông tin lớn, đồng thời mở ra cơ hội để đối tượng xấu xuyên tạc, kích động.
 - AI tạo sinh khiến chi phí làm giả hình ảnh, giọng nói, video gần như bằng 0; ranh giới thật, giả ngày càng khó phân biệt.
 - Threads nổi lên thành điểm khởi phát mới của dư luận, nhất là trong giới trẻ: năm 2026, nhiều làn sóng tranh luận về dự án đầu tư, môi trường, cảnh quan bắt đầu trên Threads rồi mới lan sang Facebook, TikTok và báo chí.
 
@@ -88,7 +89,7 @@ Dự thảo 2, ngày 28/10/2026. Tài liệu làm việc phục vụ tổ biên 
 
 - **Tốc độ.** “Giờ vàng” rút ngắn từ khoảng 24 giờ xuống còn vài giờ; thuật toán nền tảng ưu tiên nội dung gây cảm xúc mạnh nên thông tin tiêu cực lan nhanh hơn thông tin chính thống.
 - **Nguồn phát tán.** Phân tán, ẩn danh, xuyên biên giới; phần lớn lưu lượng nằm trên nền tảng nước ngoài (Facebook, YouTube, TikTok và gần đây là Threads).
-- **Công nghệ.** AI tạo sinh giúp làm giả hình ảnh, giọng nói lãnh đạo, mạo danh cơ quan báo chí, cơ quan nhà nước với chi phí rất thấp.
+- **Công nghệ.** AI tạo sinh giúp làm giả hình ảnh, giọng nói lãnh đạo, mạo danh cơ quan báo chí, cơ quan nhà nước với chi phí rất thấp. Năm 2025, Bộ Công an phát hiện hơn 4.200 vụ lừa đảo trực tuyến, thiệt hại hơn 8.000 tỷ đồng; 9 tháng đầu năm 2026 ghi nhận thêm 1.800 vụ việc; nhiều vụ dùng video deepfake mạo danh cán bộ công an, kiểm sát viên.
 - **Hình thức.** Livestream, video ngắn, nhóm kín, ứng dụng nhắn tin mã hóa khiến việc giám sát khó khăn hơn.
 - **Chủ thể khuếch đại.** Người có ảnh hưởng và tài khoản “câu view” vì lợi nhuận; nhiều trường hợp không có động cơ chính trị nhưng vô tình tạo nền cho đối tượng phản động khai thác.
 - **Chuyển hóa nhanh.** Sự việc dân sự (tai nạn du lịch, bộ phim, phát ngôn của người nổi tiếng) có thể chuyển thành vấn đề chính trị chỉ trong vài ngày.
@@ -154,14 +155,18 @@ Dự thảo 2, ngày 28/10/2026. Tài liệu làm việc phục vụ tổ biên 
 
 **a) Thể chế hoàn thiện nhanh, đồng bộ hơn.**
 
-- Luật Báo chí số 126/2025/QH15 (hiệu lực từ 1/7/2026) bổ sung quy định về quyền yêu cầu cải chính, sử dụng AI trong hoạt động báo chí, mở rộng không gian phát triển báo chí.
-- Luật An ninh mạng số 116/2025/QH15 (hiệu lực từ 1/7/2026) quy định các hành vi nghiêm cấm, trong đó có bịa đặt, lan truyền thông tin sai sự thật.
+- Luật Báo chí số 126/2025/QH15 (hiệu lực từ 1/7/2026): Điều 31 quy định cơ quan, tổ chức, người có thẩm quyền vừa có quyền, vừa có nghĩa vụ cung cấp thông tin cho báo chí và chịu trách nhiệm về nội dung cung cấp; luật bổ sung quy định về quyền yêu cầu cải chính, sử dụng AI trong hoạt động báo chí.
+- Luật An ninh mạng số 116/2025/QH15 (hiệu lực từ 1/7/2026): nghiêm cấm bịa đặt, lan truyền thông tin sai sự thật; doanh nghiệp viễn thông, Internet, mạng xã hội xử lý thông tin vi phạm tối đa 24 giờ kể từ khi nhận yêu cầu hợp pháp, thời hạn ngắn hơn trong trường hợp khẩn cấp.
 - Luật Trí tuệ nhân tạo số 134/2025/QH15 (hiệu lực từ 1/3/2026) yêu cầu gắn dấu hiệu nhận biết đối với nội dung do AI tạo ra.
+- Luật Bảo vệ dữ liệu cá nhân số 91/2025/QH15 (hiệu lực từ 1/1/2026) và Nghị định số 356/2025/NĐ-CP: căn cứ xử lý hành vi phát tán trái phép dữ liệu cá nhân của nạn nhân, người liên quan trong các vụ việc gây chú ý.
 - Luật số 75/2025/QH15 sửa đổi, bổ sung Luật Quảng cáo (hiệu lực từ 1/1/2026) quy định nghĩa vụ của người chuyển tải sản phẩm quảng cáo, trong đó có người có ảnh hưởng.
+- Nghị định số 244/2026/NĐ-CP ngày 26/6/2026 (hiệu lực từ 1/7/2026) về phát ngôn và cung cấp thông tin cho báo chí, thay thế Nghị định số 09/2017/NĐ-CP: với vụ việc đột xuất, bất thường hoặc khi dư luận có nhiều ý kiến trái chiều, người phát ngôn cung cấp thông tin ban đầu chậm nhất 24 giờ (Điều 7); vụ việc liên quan từ 2 bộ, ngành, địa phương trở lên có 1 đầu mối chủ trì thống nhất nội dung phát ngôn; cơ quan công khai thông tin người phát ngôn trên cổng thông tin điện tử trong 24 giờ; các cơ quan ban hành quy chế phát ngôn nội bộ trong 45 ngày.
 - Nghị định số 147/2024/NĐ-CP yêu cầu xác thực tài khoản mạng xã hội và gỡ bỏ thông tin vi phạm chậm nhất 24 giờ kể từ khi có yêu cầu.
 - Nghị định số 174/2026/NĐ-CP (hiệu lực từ 1/7/2026) nâng mức phạt hành vi cung cấp, chia sẻ thông tin giả mạo, sai sự thật trên mạng xã hội lên đến 50 triệu đồng, kèm biện pháp buộc gỡ bỏ, khóa tài khoản.
+- Nghị định số 219/2026/NĐ-CP (hiệu lực từ 8/8/2026) quy định xử phạt trong lĩnh vực khí tượng thủy văn, mức phạt cao nhất 40 triệu đồng đối với nhóm hành vi truyền tin sai lệch về dự báo, cảnh báo.
 - Nghị định số 327/2026/NĐ-CP ngày 19/8/2026 quy định chi tiết Điều 14 Luật An ninh mạng, bổ sung biện pháp yêu cầu xóa bỏ thông tin, ngăn chặn truy cập hệ thống thông tin ở nước ngoài vi phạm.
 - Nghị định số 328/2026/NĐ-CP ngày 19/8/2026 (hiệu lực từ 5/10/2026) quy định quy trình phát hiện, kiểm chứng, xác minh, gắn nhãn, cảnh báo, ngăn chặn, gỡ bỏ và xử lý tin giả, tin sai sự thật; xác định trách nhiệm của các bộ, ngành, UBND các cấp.
+- Nghị định số 343/2026/NĐ-CP ngày 3/9/2026 quy định việc tiếp nhận, xử lý xung đột thông tin trên không gian mạng thuộc phạm vi Bộ Quốc phòng; Bộ VHTTDL tham gia ngăn chặn, khắc phục xung đột thông tin trên báo chí, phát thanh, truyền hình, thông tin điện tử.
 - Nghị định số 298/2026/NĐ-CP kiện toàn tổ chức Bộ VHTTDL; theo Quyết định số 2559/QĐ-BVHTTDL, Cục Thông tin điện tử và Chuyển đổi số tiếp nhận nhiệm vụ của Cục Phát thanh, truyền hình và thông tin điện tử (trước đây).
 - Quyết định số 1125/QĐ-TTg ngày 23/6/2026 phê duyệt Đề án “Tuyên truyền phòng ngừa, ứng phó với các đe dọa an ninh phi truyền thống đến năm 2030, tầm nhìn đến năm 2045”.
 - Quyết định số 423/QĐ-BVHTTDL ngày 5/3/2026 ban hành Bộ Quy tắc ứng xử văn hóa trên môi trường số, thay thế Bộ Quy tắc ứng xử trên mạng xã hội năm 2021.
@@ -170,6 +175,7 @@ Dự thảo 2, ngày 28/10/2026. Tài liệu làm việc phục vụ tổ biên 
 
 - Giai đoạn 2021 đến 2025, tỷ lệ đáp ứng yêu cầu chặn, gỡ thông tin vi phạm trên Facebook, YouTube, TikTok đạt trên 92%; 6 tháng đầu năm 2026 đạt trên 94%.
 - Thời gian nền tảng xử lý yêu cầu rút xuống còn 3 đến 12 giờ, thay vì khoảng 24 giờ như trước.
+- Mốc so sánh quý III/2025: Bộ VHTTDL xử lý hơn 12.200 thông tin xấu độc; Facebook chặn, gỡ 10.713 bài viết (tỷ lệ 96%), YouTube 705 video (92%), TikTok 798 nội dung (97%).
 - 6 tháng đầu năm 2026: TikTok chặn, gỡ khoảng 115.000 video; YouTube gần 13.000 video; các nền tảng của Meta (Facebook, Instagram, Messenger, Threads) chặn, gỡ 63 tài khoản, trang, nhóm và 2.147 nội dung vi phạm.
 - Năm 2026 là năm đầu tiên Meta đáp ứng yêu cầu chặn, gỡ nội dung vi phạm trên Threads, đưa Threads vào cơ chế quản lý như các mạng xã hội xuyên biên giới khác.
 
@@ -239,7 +245,7 @@ Dự thảo 2, ngày 28/10/2026. Tài liệu làm việc phục vụ tổ biên 
 - Người đứng đầu bộ, ngành, địa phương trực tiếp chỉ đạo và chịu trách nhiệm khi để xảy ra khủng hoảng do chậm, thiếu hoặc sai thông tin.
 - Đưa tiêu chí “chủ động, kịp thời cung cấp thông tin” vào đánh giá, xếp loại hằng năm đối với tập thể và người đứng đầu.
 - Yêu cầu mọi đề án, chính sách có tác động lớn kèm kế hoạch truyền thông và kịch bản ứng phó phản ứng dư luận ngay từ khâu soạn thảo, coi đánh giá rủi ro truyền thông là 1 nội dung của đánh giá tác động chính sách.
-- Với dự án đầu tư lớn tác động tới môi trường, cảnh quan, di sản văn hóa: công khai thông tin quy hoạch, đánh giá tác động môi trường, tổ chức lấy ý kiến cộng đồng và có kế hoạch truyền thông trước khi triển khai, theo tinh thần “dân biết, dân bàn, dân làm, dân kiểm tra, dân giám sát, dân thụ hưởng”.
+- Với dự án đầu tư lớn tác động tới môi trường, cảnh quan, di sản văn hóa: công khai thông tin quy hoạch, đánh giá tác động môi trường, tổ chức lấy ý kiến cộng đồng và có kế hoạch truyền thông trước khi triển khai, theo tinh thần “dân biết, dân bàn, dân làm, dân kiểm tra, dân giám sát, dân thụ hưởng”, trên cơ sở Luật Tiếp cận thông tin năm 2016 và Luật Thực hiện dân chủ ở cơ sở năm 2022.
 - **Chủ trì:** các bộ, ngành, địa phương; Bộ Nội vụ hướng dẫn tiêu chí đánh giá. **Thời hạn:** quý I/2027.
 
 ## Nhóm 2. Hoàn thiện thể chế, quy chế phối hợp và quy trình xử lý [Đột phá]
@@ -250,7 +256,7 @@ Dự thảo 2, ngày 28/10/2026. Tài liệu làm việc phục vụ tổ biên 
     - Cơ chế huy động báo chí, nền tảng số, lực lượng chuyên trách.
     - Chế độ thông tin, báo cáo, đánh giá sau khủng hoảng.
     - Bảo đảm thống nhất với quy trình xử lý tin giả theo Nghị định số 328/2026/NĐ-CP và các biện pháp theo Nghị định số 327/2026/NĐ-CP.
-- Sớm ban hành Nghị định quy định chi tiết việc phát ngôn và cung cấp thông tin cho báo chí của cơ quan hành chính nhà nước, thay thế Nghị định số 09/2017/NĐ-CP, theo Kế hoạch ban hành kèm Quyết định số 329/QĐ-TTg ngày 24/2/2026. Đề xuất bổ sung: thời hạn cung cấp thông tin ban đầu đối với sự việc nghiêm trọng; cơ chế ủy quyền phát ngôn; phát ngôn trên tài khoản chính thức của cơ quan nhà nước trên nền tảng số.
+- Triển khai nghiêm Nghị định số 244/2026/NĐ-CP về phát ngôn và cung cấp thông tin cho báo chí: kiểm tra việc ban hành quy chế phát ngôn nội bộ (thời hạn 45 ngày kể từ ngày 1/7/2026); hướng dẫn phát ngôn trên tài khoản chính thức của cơ quan nhà nước trên nền tảng số; trong Quy chế phối hợp, đặt mục tiêu thông tin ban đầu sớm hơn mốc tối đa 24 giờ tại Điều 7 đối với khủng hoảng cấp độ 2 và 3.
 - Ban hành bộ quy trình mẫu và kịch bản xử lý cho khoảng 10 đến 12 tình huống điển hình: thiên tai, thảm họa; tai nạn du lịch; sự cố lễ hội, sự kiện đông người; an toàn thực phẩm; sản phẩm văn hóa vi phạm chủ quyền; phát ngôn lệch chuẩn của người nổi tiếng; tin giả về chính sách; nội dung giả mạo do AI tạo ra; dự án đầu tư gây tranh cãi về môi trường, cảnh quan; làn sóng dư luận khởi phát trên nền tảng thảo luận như Threads; gián đoạn nền tảng mạng xã hội diện rộng.
 - Hoàn thiện văn bản hướng dẫn Luật Báo chí 2025, Luật Trí tuệ nhân tạo (gắn nhãn nội dung AI); sửa đổi, bổ sung Nghị định số 147/2024/NĐ-CP theo hướng: nghĩa vụ nền tảng xử lý nhanh trong tình huống khẩn cấp; ưu tiên hiển thị thông tin chính thống khi xảy ra khủng hoảng; báo cáo minh bạch định kỳ.
 - **Chủ trì:** Bộ VHTTDL. **Phối hợp:** Bộ Công an, Bộ Quốc phòng, Bộ Tư pháp, Văn phòng Chính phủ, Bộ Khoa học và Công nghệ. **Thời hạn:** trình Thủ tướng Chính phủ dự thảo Quy chế trong quý I/2027.
@@ -266,10 +272,10 @@ Dự thảo 2, ngày 28/10/2026. Tài liệu làm việc phục vụ tổ biên 
 
 ## Nhóm 4. Phản ứng nhanh trong “giờ vàng” [Đột phá]
 
-- **Nguyên tắc 5 nói:** nói sớm, nói thật, nói đủ, nói nhất quán, nói có tình người; “1 đầu mối, 1 thông điệp”.
+- **Nguyên tắc 5 nói:** nói sớm, nói thật, nói đủ, nói nhất quán, nói có tình người; “1 đầu mối, 1 thông điệp”, phù hợp cơ chế 1 đầu mối chủ trì của Nghị định số 244/2026/NĐ-CP.
 - **Quy trình 4 bước** (chi tiết tại Phụ lục 2): (1) phát hiện, xác minh; (2) đánh giá, phân cấp độ; (3) phản hồi; (4) phục hồi, rút kinh nghiệm.
 - **Thông tin ban đầu** gồm 3 ý: điều đã biết; việc cơ quan chức năng đang làm; thời điểm cập nhật tiếp theo. Cơ quan không chờ đủ thông tin mới lên tiếng.
-- **Mốc thời gian đề xuất:** thông tin ban đầu trong 3 giờ đối với cấp độ 3, trong 6 giờ đối với cấp độ 2, trong 24 giờ đối với cấp độ 1; họp báo hoặc thông cáo đầy đủ trong 24 giờ đối với cấp độ 2 và 3.
+- **Mốc thời gian đề xuất:** thông tin ban đầu trong 3 giờ đối với cấp độ 3, trong 6 giờ đối với cấp độ 2, trong 24 giờ đối với cấp độ 1; họp báo hoặc thông cáo đầy đủ trong 24 giờ đối với cấp độ 2 và 3. Mốc 24 giờ là thời hạn tối đa theo Điều 7 Nghị định số 244/2026/NĐ-CP; mốc 3 giờ, 6 giờ là mục tiêu đề xuất, phù hợp tốc độ lan truyền trên mạng xã hội.
 - **Tổ phản ứng nhanh** tại mỗi bộ, ngành, địa phương: lãnh đạo, người phát ngôn, bộ phận chuyên môn, pháp chế, bộ phận nội dung số; hoạt động liên tục khi có cảnh báo đỏ.
 - **Phát ngôn đa nền tảng:** thông cáo báo chí kết hợp bài đăng trên tài khoản chính thức đã xác thực, video ngắn, đồ họa; phản hồi trực tiếp vào thông tin sai.
 - Song song, lực lượng chức năng xác minh, xử lý người tung tin; phối hợp nền tảng gỡ bỏ nội dung vi phạm. Nguyên tắc: gỡ bỏ không thay thế giải thích. Khi áp dụng biện pháp hạn chế hiển thị, cơ quan có thẩm quyền công bố căn cứ, lý do ở mức phù hợp để tránh hiệu ứng ngược.
@@ -323,7 +329,7 @@ Dự thảo 2, ngày 28/10/2026. Tài liệu làm việc phục vụ tổ biên 
 
 1. Ban hành Chỉ thị của Thủ tướng Chính phủ về tăng cường công tác phòng ngừa, ngăn chặn và xử lý khủng hoảng truyền thông, xác định rõ trách nhiệm người đứng đầu.
 2. Giao Bộ VHTTDL chủ trì, phối hợp Bộ Công an, Bộ Quốc phòng, Văn phòng Chính phủ xây dựng, trình Thủ tướng Chính phủ ban hành Quy chế phối hợp liên ngành phòng ngừa, ngăn chặn và xử lý khủng hoảng truyền thông trong quý I/2027.
-3. Sớm ban hành Nghị định về phát ngôn và cung cấp thông tin cho báo chí, thay thế Nghị định số 09/2017/NĐ-CP.
+3. Chỉ đạo các bộ, ngành, địa phương thực hiện nghiêm Nghị định số 244/2026/NĐ-CP về phát ngôn và cung cấp thông tin cho báo chí, nhất là thời hạn thông tin ban đầu chậm nhất 24 giờ và cơ chế 1 đầu mối đối với vụ việc liên ngành, liên tỉnh; giao Bộ VHTTDL hướng dẫn phát ngôn trên nền tảng số.
 4. Bố trí nguồn lực đầu tư hệ thống giám sát, cảnh báo sớm dùng chung; cho phép áp dụng cơ chế đặt hàng, thuê dịch vụ công nghệ thông tin, AI.
 5. Đưa tiêu chí chủ động cung cấp thông tin vào bộ chỉ số đánh giá kết quả thực hiện nhiệm vụ hằng năm của các bộ, ngành, địa phương.
 6. Duy trì cơ chế họp báo Chính phủ thường kỳ; tổ chức họp báo đột xuất khi xảy ra khủng hoảng cấp độ 3.
@@ -369,6 +375,8 @@ Xin trân trọng cảm ơn đồng chí Thủ tướng Chính phủ và các đ
 | Cấp độ 2 (trung bình) | Lan rộng nhiều địa phương, lên xu hướng; báo chí trung ương vào cuộc; xuất hiện bình luận kích động | Bộ, ngành quản lý lĩnh vực hoặc UBND cấp tỉnh; Bộ VHTTDL hỗ trợ điều phối báo chí | Trong 6 giờ | Phát ngôn chính thức; họp báo; yêu cầu nền tảng xử lý nội dung sai sự thật |
 | Cấp độ 3 (cao) | Ảnh hưởng toàn quốc hoặc quốc tế; đối tượng phản động tham gia, kêu gọi tụ tập, chống phá; liên quan an ninh quốc gia | Thủ tướng Chính phủ chỉ đạo; Bộ VHTTDL và Bộ Công an điều phối; Văn phòng Chính phủ phối hợp | Trong 3 giờ | Họp báo Chính phủ hoặc bộ, ngành; chiến dịch thông tin đa nền tảng; biện pháp bảo vệ an ninh mạng; thông tin đối ngoại |
 
+*Ghi chú: mốc 24 giờ là thời hạn tối đa theo Điều 7 Nghị định số 244/2026/NĐ-CP; mốc 6 giờ, 3 giờ là mục tiêu đề xuất đưa vào Quy chế phối hợp.*
+
 # Phụ lục 2. Quy trình phản ứng nhanh 4 bước (đề xuất)
 
 | Bước | Việc chính | Trách nhiệm | Mốc thời gian |
@@ -384,7 +392,7 @@ Xin trân trọng cảm ơn đồng chí Thủ tướng Chính phủ và các đ
 |:------------------------------------|:------------------|:------------------------------|:----------------|
 | Chỉ thị của Thủ tướng Chính phủ về phòng ngừa, xử lý khủng hoảng truyền thông | Bộ VHTTDL | Văn phòng Chính phủ, Bộ Công an | Quý IV/2026 |
 | Quy chế phối hợp liên ngành, phân 3 cấp độ | Bộ VHTTDL | Bộ Công an, Bộ Quốc phòng, Bộ Tư pháp, Văn phòng Chính phủ | Quý I/2027 |
-| Nghị định về phát ngôn, cung cấp thông tin cho báo chí | Bộ VHTTDL | Bộ Tư pháp, Văn phòng Chính phủ | Theo Quyết định số 329/QĐ-TTg |
+| Hướng dẫn thực hiện Nghị định số 244/2026/NĐ-CP, phát ngôn trên nền tảng số; kiểm tra quy chế phát ngôn nội bộ | Bộ VHTTDL | Văn phòng Chính phủ, các bộ, ngành, địa phương | Quý IV/2026 |
 | Bộ quy trình mẫu, kịch bản tình huống điển hình | Bộ VHTTDL | Các bộ, ngành, địa phương | Quý I/2027 |
 | Hệ thống giám sát, cảnh báo sớm dùng chung | Bộ VHTTDL, Bộ Công an | Bộ Quốc phòng, Bộ Khoa học và Công nghệ | Vận hành thử năm 2027 |
 | Tiêu chí đánh giá người đứng đầu về cung cấp thông tin | Bộ Nội vụ | Bộ VHTTDL | Quý I/2027 |
@@ -404,12 +412,18 @@ Xin trân trọng cảm ơn đồng chí Thủ tướng Chính phủ và các đ
 - Luật An ninh mạng số 116/2025/QH15, hiệu lực từ 1/7/2026. https://thuvienphapluat.vn/van-ban/Cong-nghe-thong-tin/Luat-An-ninh-mang-2025-so-116-2025-QH15-666020.aspx
 - Luật Trí tuệ nhân tạo số 134/2025/QH15, hiệu lực từ 1/3/2026. https://luatminhkhue.vn/yeu-cau-bat-buoc-doi-voi-noi-dung-tao-boi-ai-tu-1-3-2026.aspx
 - Luật số 75/2025/QH15 sửa đổi, bổ sung một số điều của Luật Quảng cáo, hiệu lực từ 1/1/2026. https://thuvienphapluat.vn/van-ban/Thuong-mai/Luat-Quang-cao-sua-doi-2025-so-75-2025-QH15-555035.aspx
+- Luật Bảo vệ dữ liệu cá nhân số 91/2025/QH15, hiệu lực từ 1/1/2026. https://hatinh.gov.vn/vi/bai-viet/luat-bao-ve-du-lieu-ca-nhan-chinh-thuc-co-hieu-luc-thi-hanh-tu-ngay-112026
+- Luật Tiếp cận thông tin số 104/2016/QH13 và Luật Thực hiện dân chủ ở cơ sở số 10/2022/QH15 (tổ biên tập đối chiếu tại Cơ sở dữ liệu quốc gia về pháp luật).
+- Điều 31 Luật Báo chí năm 2025 về cung cấp thông tin cho báo chí. https://pbgdpl.cantho.gov.vn/quy-dinh-ve-cung-cap-thong-tin-cho-bao-chi-theo-luat-bao-chi-nam-2025
+- Thời hạn xử lý thông tin vi phạm theo Luật An ninh mạng năm 2025. https://luatvietnam.vn/tin-van-ban-moi/mang-xa-hoi-buoc-go-noi-dung-vi-pham-trong-3-6-gio-doi-voi-truong-hop-khan-cap-186-106179-article.html
 
 **Văn bản của Chính phủ, Thủ tướng Chính phủ, Bộ VHTTDL**
 
-- Nghị định số 09/2017/NĐ-CP ngày 9/2/2017 quy định chi tiết việc phát ngôn và cung cấp thông tin cho báo chí của các cơ quan hành chính nhà nước. https://luatvietnam.vn/thong-tin/nghi-dinh-09-2017-nd-cp-chinh-phu-112267-d1.html
+- Nghị định số 244/2026/NĐ-CP ngày 26/6/2026 quy định chi tiết việc phát ngôn và cung cấp thông tin cho báo chí của các cơ quan hành chính nhà nước, hiệu lực từ 1/7/2026, thay thế Nghị định số 09/2017/NĐ-CP. https://luatvietnam.vn/hanh-chinh/nghi-dinh-244-2026-nd-cp-quy-dinh-phat-ngon-va-cung-cap-thong-tin-cho-bao-chi-438961-d1.html
 - Nghị định số 147/2024/NĐ-CP về quản lý, cung cấp, sử dụng dịch vụ Internet và thông tin trên mạng. https://vneconomy.vn/facebook-google-phai-go-bo-noi-dung-vi-pham-trong-vong-24-gio.htm
 - Nghị định số 174/2026/NĐ-CP về xử phạt vi phạm hành chính trong lĩnh vực bưu chính, viễn thông, giao dịch điện tử và công nghệ thông tin, hiệu lực từ 1/7/2026. https://baovanhoa.vn/phap-luat/tu-17-cung-cap-chia-se-thong-tin-gia-mao-sai-su-that-tren-mang-xa-hoi-bi-phat-den-50-trieu-dong-230197.html
+- Nghị định số 219/2026/NĐ-CP ngày 21/6/2026 quy định xử phạt trong lĩnh vực khí tượng thủy văn, hiệu lực từ 8/8/2026. https://vov.vn/xa-hoi/dua-tin-sai-lech-ve-du-bao-khi-tuong-thuy-van-co-the-bi-phat-den-40-trieu-dong-post1310071.vov
+- Nghị định số 343/2026/NĐ-CP ngày 3/9/2026 quy định việc tiếp nhận và xử lý xung đột thông tin trên không gian mạng. https://www.vietnamplus.vn/quy-dinh-viec-tiep-nhan-va-xu-ly-xung-dot-thong-tin-tren-khong-gian-mang-post1134300.vnp
 - Nghị định số 298/2026/NĐ-CP ngày 27/7/2026 quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Bộ VHTTDL. https://luatvietnam.vn/tin-van-ban-moi/tu-28-7-2026-bo-van-hoa-the-thao-va-du-lich-co-22-don-vi-truc-thuoc-186-110909-article.html
 - Nghị định số 327/2026/NĐ-CP ngày 19/8/2026 quy định chi tiết Điều 14 Luật An ninh mạng. https://www.vietnamplus.vn/xu-ly-hanh-vi-su-dung-cong-nghe-thong-tin-xam-pham-an-ninh-quoc-gia-tren-khong-gian-mang-post1131676.vnp
 - Nghị định số 328/2026/NĐ-CP ngày 19/8/2026 quy định quy trình phát hiện, kiểm chứng và xử lý tin giả, tin sai sự thật, hiệu lực từ 5/10/2026. https://baovanhoa.vn/bao-chi/tu-510-quy-trinh-xu-ly-tin-gia-tin-sai-su-that-theo-quy-dinh-moi-258189.html
@@ -424,6 +438,10 @@ Xin trân trọng cảm ơn đồng chí Thủ tướng Chính phủ và các đ
 - Tỷ lệ chặn, gỡ trên 94% trên nền tảng xuyên biên giới, 6 tháng đầu năm 2026. https://www.sggp.org.vn/go-bo-hon-94-noi-dung-xau-doc-tren-nen-tang-xuyen-bien-gioi-post858921.html
 - Cơ quan chức năng chặn, gỡ hơn 117.000 nội dung trên mạng xã hội sau 6 tháng đầu năm 2026. https://znews.vn/hon-117000-noi-dung-tren-mang-xa-hoi-bi-chan-go-sau-6-thang-post1663043.html
 - Tỷ lệ chặn, gỡ trên 92% giai đoạn 2021-2025. https://www.sggp.org.vn/go-bo-tren-92-thong-tin-xau-doc-tren-facebook-youtube-tiktok-post830682.html
+- Hơn 12.200 thông tin xấu độc trên mạng bị gỡ bỏ trong quý III/2025 (Báo Điện tử Chính phủ). https://baochinhphu.vn/hon-12200-thong-tin-xau-doc-tren-mang-bi-go-bo-102251010182038234.htm
+- 1.800 vụ việc lừa đảo trực tuyến trong 9 tháng năm 2026 (Dân Việt). https://danviet.vn/1800-vu-viec-lua-dao-truc-tuyen-trong-9-thang-nam-2026-dai-ta-cong-an-neu-cac-giai-phap-chan-dong-tien-bat-hop-phap-d1467783.html
+- Bộ Công an cảnh báo tình trạng dùng AI, deepfake để lừa đảo trên không gian mạng (Tuổi Trẻ, 3/6/2026). https://tuoitre.vn/bo-cong-an-canh-bao-tinh-trang-dung-ai-deepfake-de-lua-dao-tren-khong-gian-mang-2026060317353666.htm
+- Reuters Institute, Digital News Report 2026 (tóm tắt). https://www.benton.org/headlines/reuters-institute-digital-news-report-2026
 - Họp báo vụ lật tàu Vịnh Xanh 58 trên vịnh Hạ Long. https://tuoitre.vn/hop-bao-vu-lat-tau-o-ha-long-lam-35-nguoi-chet-co-gang-tim-nguoi-mat-tich-truoc-toi-nay-20250720132901673.htm
 - Vụ kẹo rau củ Kera. https://vneconomy.vn/vu-keo-kera-cac-kol-phong-dai-cong-dung-san-pham-de-lua-doi-khach-hang.htm
 - Phim “Mưa đỏ” đạt doanh thu kỷ lục. https://baolaocai.vn/doanh-thu-gan-552-ty-dong-mua-do-chinh-thuc-tro-thanh-phim-an-khach-nhat-moi-thoi-dai-rap-chieu-viet-nam-post881538.html
@@ -447,13 +465,15 @@ Xin trân trọng cảm ơn đồng chí Thủ tướng Chính phủ và các đ
 
 | Nội dung | Đơn vị cung cấp, xác minh |
 |:----------------------------------------------------------------|:------------------------------------|
-| Số liệu chính thức chặn, gỡ thông tin vi phạm 9 tháng năm 2026; số liệu nền về thời gian phát hiện, phản hồi | Cục Thông tin điện tử và Chuyển đổi số |
+| Đối chiếu toàn văn các luật, nghị định tại Phần II, mục 1 và Phụ lục 4 (dự thảo này mới tổng hợp từ báo chí và trang pháp luật thứ cấp, chưa đọc toàn văn), nhất là Điều 7 Nghị định số 244/2026/NĐ-CP, thời hạn gỡ bỏ khẩn cấp theo Luật An ninh mạng năm 2025, phạm vi Nghị định số 219/2026/NĐ-CP và Nghị định số 343/2026/NĐ-CP | Vụ Pháp chế |
+| Số liệu chính thức chặn, gỡ thông tin vi phạm quý III và 9 tháng năm 2026 (chưa công bố công khai); số liệu nền về thời gian phát hiện, phản hồi | Cục Thông tin điện tử và Chuyển đổi số |
+| Tình hình ban hành quy chế phát ngôn nội bộ của các bộ, ngành, địa phương theo Nghị định số 244/2026/NĐ-CP | Văn phòng Bộ, phối hợp Văn phòng Chính phủ |
+| Số liệu lừa đảo trực tuyến, deepfake năm 2025 và 9 tháng năm 2026 | Bộ Công an |
 | 1 đến 2 vụ việc năm 2026 thuộc lĩnh vực văn hóa, thể thao, du lịch, báo chí do Bộ VHTTDL trực tiếp xử lý | Văn phòng Bộ, Cục Báo chí |
 | Kết quả xử phạt theo Nghị định số 174/2026/NĐ-CP từ ngày 1/7/2026 | Cơ quan có thẩm quyền xử phạt thuộc Bộ, phối hợp Bộ Công an |
-| Tiến độ xây dựng Nghị định về phát ngôn thay thế Nghị định số 09/2017/NĐ-CP; tiến độ sửa đổi Nghị định số 147/2024/NĐ-CP | Vụ Pháp chế |
+| Tiến độ sửa đổi Nghị định số 147/2024/NĐ-CP; nghị định hướng dẫn Luật An ninh mạng năm 2025 về nghĩa vụ của doanh nghiệp | Vụ Pháp chế |
 | Mô hình tổ chức, cơ quan chủ quản hiện hành của Trung tâm Xử lý tin giả Việt Nam sau sắp xếp | Cục Thông tin điện tử và Chuyển đổi số |
 | Thẩm quyền, cơ quan chủ trì từng bước trong quy trình xử lý tin giả theo Nghị định số 328/2026/NĐ-CP, làm cơ sở phân vai trong Quy chế phối hợp | Vụ Pháp chế, Cục Thông tin điện tử và Chuyển đổi số |
-| Đối chiếu toàn văn các văn bản tại Phụ lục 4 với Công báo, Cơ sở dữ liệu quốc gia về pháp luật | Vụ Pháp chế |
 | Số người dùng Threads tại Việt Nam; số yêu cầu chặn, gỡ và tỷ lệ đáp ứng riêng của Threads năm 2026 | Cục Thông tin điện tử và Chuyển đổi số |
 | Diễn biến trên Threads của vụ Làng Vân (từ giữa tháng 7/2026) và vụ Safari Ba Vì (tháng 10/2026), trong đó có phản ánh của người dùng về việc bài viết không hiển thị tại Việt Nam ngày 17 và 18/10/2026 (thông tin hiện chỉ có từ người dùng và nguồn nước ngoài) | Cục Thông tin điện tử và Chuyển đổi số, phối hợp Bộ Công an |
 | Thông tin chính thức, phản hồi của chính quyền về dự án Làng Vân và đề xuất dự án Safari Ba Vì | UBND thành phố Đà Nẵng, UBND thành phố Hà Nội |
